@@ -15,7 +15,7 @@ import AdvisoryPage from "./pages/AdvisoryPage";
 import AdvisoryDetailPage from "./pages/AdvisoryDetailPage";
 import AboutPage from "./pages/AboutPage";
 import ContactPage from "./pages/ContactPage";
-import ScrollToTop from "./components/Scrolltotop";
+import ScrollToTop from "./components/ScrollToTop";
 import BookConsultation from "@/pages/BookConsultation";
 const queryClient = new QueryClient();
 
