@@ -1,19 +1,11 @@
 ---
 title: "How to Create a 30-Day Study Plan for Any Salesforce Certification"
 date: 2025-04-10
+categories:
+- "Certifications"
 ---
 
-<figure>
-
-![](images/How-to-Create-a-30-Day-Study-Plan-for-Any-Salesforce-Certification-768x432.png)
-
-<figcaption>
-
-How to Create a 30-Day Study Plan for Any Salesforce Certification
-
-</figcaption>
-
-</figure>
+![](/images/How-to-create.png)
 
 Salesforce certifications are your ticket to high-growth, in-demand careers across industries. But one of the most common challenges beginners face is: _“Where do I start?”_ Without a clear plan, it’s easy to get overwhelmed or waste time on low-impact topics.
 

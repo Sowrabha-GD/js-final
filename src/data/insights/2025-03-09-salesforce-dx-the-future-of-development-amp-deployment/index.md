@@ -1,19 +1,12 @@
 ---
-title: "Salesforce DX Explained: Modern Development &amp; Deployment Made Easy"
+title: "Salesforce DX Explained: Modern Development & Deployment Made Easy"
 date: 2025-03-09
+categories:
+- "Devops"
 ---
 
-<figure>
+![](/images/DXX.png)
 
-![](images/Salesforce-DX-The-Future-of-Development-Deployment-1-768x432.png)
-
-<figcaption>
-
-Salesforce DX: The Future of Development & Deployment
-
-</figcaption>
-
-</figure>
 
 Salesforce development has evolved significantly over the years, and Salesforce DX (Developer Experience) is at the forefront of this transformation. Traditional development methods, which relied on **change sets, sandboxes, and manual deployments**, often led to inefficiencies, version conflicts, and limited collaboration. With Salesforce DX, developers now have access to a modern, **source-driven development approach** that enhances agility, automation, and scalability.
 

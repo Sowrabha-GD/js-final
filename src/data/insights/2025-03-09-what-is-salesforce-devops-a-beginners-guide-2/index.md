@@ -1,19 +1,12 @@
 ---
 title: "What Is Salesforce DevOps? A Complete Beginner’s Guide 2025"
 date: 2025-03-09
+categories:
+- "Devops"
 ---
 
-<figure>
+![](/images/Salesfor.png)
 
-![](images/What-is-Salesforce-DevOps-A-Beginners-Guide-1-768x432.png)
-
-<figcaption>
-
-What is Salesforce DevOps? A Beginner’s Guide
-
-</figcaption>
-
-</figure>
 
 Salesforce DevOps is the **combination of development (Dev) and operations (Ops) practices** aimed at improving the efficiency, speed, and reliability of **Salesforce application development and deployment**. Traditionally, Salesforce development relied on **manual deployments and isolated development environments**, but DevOps introduces **automation, collaboration, and continuous integration/continuous deployment (CI/CD)** to streamline the process.
 

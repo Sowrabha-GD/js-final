@@ -1,19 +1,12 @@
 ---
 title: "How to Use Macros in Service Cloud: Step-by-Step 2025 Guide"
 date: 2025-03-09
+categories:
+- "Admin"
 ---
 
-<figure>
+![](/images/Macros.png)
 
-![](images/How-to-Use-Macros-Quick-Text-to-Improve-Agent-Efficiency-768x432.png)
-
-<figcaption>
-
-How to Use Macros & Quick Text to Improve Agent Efficiency
-
-</figcaption>
-
-</figure>
 
 In the fast-paced world of customer support, every second counts. Agents need tools that help them respond quickly, accurately, and consistently to customer inquiries. Salesforce Service Cloud offers two powerful features—**Macros** and **Quick Text**—that enable agents to save time and improve efficiency without requiring any coding. By leveraging these tools, support teams can streamline repetitive tasks, reduce response times, and deliver a better customer experience. In this blog, we’ll explore how to use Macros and Quick Text effectively, along with tips for maximizing their impact.
 

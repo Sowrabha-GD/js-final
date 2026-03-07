@@ -1,19 +1,11 @@
 ---
 title: "Apex Code Review Checklist: 10 Critical Things to Check (2025)"
 date: 2025-03-10
+categories:
+- "Apex"
 ---
 
-<figure>
-
-![](images/Apex-Code-Review-Checklist-10-Things-to-Look-For-768x432.png)
-
-<figcaption>
-
-Apex Code Review Checklist: 10 Things to Look For
-
-</figcaption>
-
-</figure>
+![](/images/Things-Look.png)
 
 ## Introduction
 

@@ -1,19 +1,12 @@
 ---
 title: "Failed Your Salesforce Exam? Here’s What to Do Next"
 date: 2025-04-11
+categories:
+- "Certifications"
 ---
 
-<figure>
+![](/images/Failed.png)
 
-![](images/Failed-Your-Salesforce-Exam-Heres-What-to-Do-Next-768x432.png)
-
-<figcaption>
-
-Failed Your Salesforce Exam? Here’s What to Do Next
-
-</figcaption>
-
-</figure>
 
 Failing a Salesforce certification exam can be disappointing. After weeks of studying and preparation, seeing a "Fail" result can feel like a major setback. But here's the truth: **it happens to almost everyone at some point**, and it’s not the end of your Salesforce journey—it’s a stepping stone.
 

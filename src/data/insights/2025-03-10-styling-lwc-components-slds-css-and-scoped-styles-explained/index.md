@@ -1,19 +1,12 @@
 ---
 title: "How to Use Salesforce Lightning Design System (SLDS, CSS, and Scoped Styles) in LWC"
 date: 2025-03-10
+categories:
+- "LWC"
 ---
 
-<figure>
+![](/images/Scoped.png)
 
-![](images/Styling-LWC-Components-SLDS-CSS-and-Scoped-Styles-Explained-1-768x432.png)
-
-<figcaption>
-
-Styling LWC Components: SLDS, CSS, and Scoped Styles Explained
-
-</figcaption>
-
-</figure>
 
 In Lightning Web Components (LWC), styling is a crucial part of creating visually appealing and user-friendly interfaces. Salesforce provides several tools and techniques for styling your components, including the **Salesforce Lightning Design System (SLDS)**, custom **CSS**, and **scoped styles**. In this blog, we’ll explore these options, explain how they work, and show you how to use them effectively in your LWC components.
 

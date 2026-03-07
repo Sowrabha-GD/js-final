@@ -1,19 +1,13 @@
 ---
-title: "Salesforce CPQ: What It Is &amp; How It Transforms Quoting"
+title: "Salesforce CPQ: What It Is & How It Transforms Quoting"
 date: 2025-03-11
+categories:
+- "Misc"
 ---
 
-<figure>
 
-![](images/Salesforce-CPQ-What-It-Is-How-It-Transforms-Quoting-768x432.png)
+![](/images/CPQ-What.png)
 
-<figcaption>
-
-Salesforce CPQ: What It Is & How It Transforms Quoting
-
-</figcaption>
-
-</figure>
 
 ## What is Salesforce CPQ?
 

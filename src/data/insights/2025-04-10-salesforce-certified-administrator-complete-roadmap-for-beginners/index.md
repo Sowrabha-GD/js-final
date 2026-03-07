@@ -1,19 +1,12 @@
 ---
 title: "Salesforce Certified Administrator: Complete Roadmap for Beginners"
 date: 2025-04-10
+categories:
+- "Certifications"                             
 ---
 
-<figure>
 
-![](images/Salesforce-Certified-Administrator-Complete-Roadmap-for-Beginners-768x432.png)
-
-<figcaption>
-
-Salesforce Certified Administrator: Complete Roadmap for Beginners
-
-</figcaption>
-
-</figure>
+![](/images/Salesforce-Certified.png)
 
 If you're new to Salesforce and looking to launch your career in the ecosystem, the **Salesforce Certified Administrator** certification is the ideal starting point. It builds your foundation and opens doors to roles like Salesforce Admin, CRM Analyst, and Support Specialist.
 

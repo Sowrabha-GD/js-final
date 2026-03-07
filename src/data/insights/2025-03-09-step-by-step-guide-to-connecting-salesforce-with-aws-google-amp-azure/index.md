@@ -1,19 +1,11 @@
 ---
 title: "How to Integrate Salesforce with AWS, Google Cloud, and Microsoft Azure (Step-by-Step)"
 date: 2025-03-09
+categories:
+- "Integration"
 ---
 
-<figure>
-
-![](images/Step-by-Step-Guide-to-Connecting-Salesforce-with-AWS-Google-Azure-1-768x432.png)
-
-<figcaption>
-
-Step-by-Step Guide to Connecting Salesforce with AWS, Google & Azure
-
-</figcaption>
-
-</figure>
+![](/images/AWS-Google.png)
 
 In today’s digital ecosystem, integrating Salesforce with cloud platforms like **Amazon Web Services (AWS)**, **Google Cloud Platform (GCP)**, and **Microsoft Azure** is essential for unlocking advanced capabilities, such as data analytics, machine learning, and scalable storage. These integrations enable businesses to centralize data, automate workflows, and leverage powerful cloud services. In this blog, we’ll provide a step-by-step guide to connecting Salesforce with AWS, Google Cloud, and Azure, along with tips for ensuring seamless and secure integrations.
 

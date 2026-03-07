@@ -1,19 +1,13 @@
 ---
 title: "CI/CD in Salesforce: How to Automate Deployments Step-by-Step"
 date: 2025-03-10
+categories:
+- "Devops"
 ---
 
-<figure>
 
-![](images/CICD-in-Salesforce-How-to-Automate-Your-Deployments-1-768x432.png)
+![](/images/CICD.png)
 
-<figcaption>
-
-CI/CD in Salesforce: How to Automate Your Deployments
-
-</figcaption>
-
-</figure>
 
 ![](images/52.png)
 

@@ -1,19 +1,12 @@
 ---
 title: "When to Use Custom Metadata in Apex: Salesforce Best Practices"
 date: 2025-04-07
+categories:
+- "Apex"
 ---
 
-<figure>
+![](/images/Using.png)
 
-![](images/Using-Custom-Metadata-in-Apex-When-Why-You-Should-Use-It-768x432.png)
-
-<figcaption>
-
-Using Custom Metadata in Apex: When & Why You Should Use It
-
-</figcaption>
-
-</figure>
 
 ### What Is Custom Metadata?
 

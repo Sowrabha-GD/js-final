@@ -1,19 +1,11 @@
 ---
 title: "What’s New in Salesforce Certification Exams (Spring '25 Update)"
 date: 2025-04-10
+categories:
+- "Certifications"
 ---
+![](/images/Whats.png)
 
-<figure>
-
-![](images/Whats-New-in-Salesforce-Certification-Exams-Spring-25-Update-768x432.png)
-
-<figcaption>
-
-What’s New in Salesforce Certification Exams (Spring '25 Update)
-
-</figcaption>
-
-</figure>
 
 Salesforce’s Spring '25 release is here, and with it comes several key changes that can impact your certification path. Whether you're already certified or planning to take your first Salesforce exam, staying updated with the latest platform features is essential for passing the exams and maintaining your credentials.
 

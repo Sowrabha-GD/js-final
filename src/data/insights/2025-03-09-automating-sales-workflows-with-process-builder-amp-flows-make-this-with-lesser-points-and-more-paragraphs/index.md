@@ -1,19 +1,13 @@
 ---
 title: "How to Automate Sales Processes in Salesforce: Beginner's Guide"
 date: 2025-03-09
+categories:
+- "Admin"
 ---
 
-<figure>
 
-![](images/Automating-Sales-Workflows-with-Process-Builder-Flows-1-768x432.png)
+![](/images/Automating.png)
 
-<figcaption>
-
-Automating Sales Workflows with Process Builder & Flows
-
-</figcaption>
-
-</figure>
 
 In the fast-paced world of sales, efficiency and accuracy are critical to success. Manual processes can slow down your team, lead to errors, and create bottlenecks. Fortunately, Salesforce’s Process Builder and Flows offer powerful automation tools to streamline your sales workflows. By leveraging these tools, you can save time, improve productivity, and deliver a better experience for both your team and your customers.
 

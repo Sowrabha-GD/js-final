@@ -1,19 +1,11 @@
 ---
 title: "Salesforce App Builder vs Admin: Which One Should You Take First?"
 date: 2025-04-14
+categories: 
+- "Certifications"
 ---
 
-<figure>
-
-![](images/Salesforce-App-Builder-vs-Admin-Which-One-Should-You-Take-First-768x432.png)
-
-<figcaption>
-
-Salesforce App Builder vs Admin: Which One Should You Take First?
-
-</figcaption>
-
-</figure>
+![Salesforce-App](/images/Salesforce-App.png)
 
 If you're starting your journey in the Salesforce ecosystem, you've likely come across two key certifications: **Salesforce Certified Administrator** and **Salesforce Certified Platform App Builder**. Both are valuable, but the common question for beginners is — **which one should you take first?**
 

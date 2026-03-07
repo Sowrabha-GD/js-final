@@ -1,19 +1,12 @@
 ---
 title: "Building Secure REST API Endpoints in Salesforce: Apex Best Practices"
 date: 2025-03-10
+categories:
+- "Integration"
 ---
 
-<figure>
+![](/images/Endpoints.png)
 
-![](images/Apex-REST-API-How-to-Build-Secure-Endpoints-in-Salesforce-768x432.png)
-
-<figcaption>
-
-Apex REST API: How to Build Secure Endpoints in Salesforce
-
-</figcaption>
-
-</figure>
 
 In today's connected digital world, integrating external applications with Salesforce is crucial. The **Apex REST API** allows developers to expose Salesforce data and business logic securely over HTTP, making it easier to integrate with external systems. However, building a **secure and scalable API** is essential to protect sensitive data and ensure compliance with best practices.
 

@@ -1,19 +1,12 @@
 ---
 title: "How to Build a Customer-Centric Sales Strategy with CRM"
 date: 2025-03-12
+categories:
+- "Misc"
 ---
 
-<figure>
+![](/images/Centric.png)
 
-![](images/How-to-Build-a-Customer-Centric-Sales-Strategy-with-CRM-768x432.png)
-
-<figcaption>
-
-How to Build a Customer-Centric Sales Strategy with CRM
-
-</figcaption>
-
-</figure>
 
 In today’s competitive business landscape, success depends not just on acquiring customers but also on keeping them engaged and satisfied. A **customer-centric sales strategy** prioritizes customer needs, experiences, and relationships over short-term profits. By leveraging a **Customer Relationship Management (CRM) system**, businesses can personalize interactions, track customer behavior, and enhance sales efficiency.
 

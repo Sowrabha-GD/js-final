@@ -1,19 +1,12 @@
 ---
 title: "OAuth 2.0 in Salesforce: How to Implement Secure Authentication"
 date: 2025-03-11
+categories:
+- "Integration"
 ---
 
-<figure>
+![](/images/OAuth-2.0.png)
 
-![](images/OAuth-2.0-in-Salesforce-How-to-Implement-Secure-Authentication-768x432.png)
-
-<figcaption>
-
-OAuth 2.0 in Salesforce: How to Implement Secure Authentication
-
-</figcaption>
-
-</figure>
 
 In today's digital landscape, secure authentication is essential to protect user data and enable seamless integration between applications. **OAuth 2.0** is a widely used industry-standard protocol that allows secure and delegated access to resources. Salesforce supports OAuth 2.0 to enable secure authentication for API integrations, Single Sign-On (SSO), and third-party applications. In this guide, we’ll walk through how to implement OAuth 2.0 in Salesforce.
 

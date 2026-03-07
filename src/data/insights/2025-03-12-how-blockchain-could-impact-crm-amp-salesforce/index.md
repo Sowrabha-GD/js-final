@@ -1,19 +1,12 @@
 ---
 title: "How Blockchain Could Impact CRM &amp; Salesforce"
 date: 2025-03-12
+categories:
+- "Emerging Tech"
 ---
 
-<figure>
+![](/images/Impact.png)
 
-![](images/How-Blockchain-Could-Impact-CRM-Salesforce-768x432.png)
-
-<figcaption>
-
-How Blockchain Could Impact CRM & Salesforce
-
-</figcaption>
-
-</figure>
 
 Blockchain technology has gained significant attention in recent years, primarily due to its association with cryptocurrencies like Bitcoin. However, its potential goes far beyond financial transactions. Industries such as healthcare, supply chain management, and real estate are already leveraging blockchain’s benefits, and now, its influence is extending into Customer Relationship Management (CRM).
 

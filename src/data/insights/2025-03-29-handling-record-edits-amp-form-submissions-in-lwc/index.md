@@ -1,19 +1,12 @@
 ---
 title: "How to Build Edit Forms in LWC: Complete Guide"
 date: 2025-03-29
+categories:
+- "LWC"
 ---
 
-<figure>
+![](/images/Handlingg.png)
 
-![](images/Handling-Record-Edits-Form-Submissions-in-LWC-1-768x432.png)
-
-<figcaption>
-
-Handling Record Edits & Form Submissions in LWC
-
-</figcaption>
-
-</figure>
 
 In Lightning Web Components (LWC), handling record edits and form submissions is a common requirement for building dynamic and interactive applications. Whether you’re creating a form to update a record or allowing users to submit data, understanding how to manage these processes efficiently is key to delivering a seamless user experience. In this blog, we’ll explore best practices for handling record edits and form submissions in LWC, ensuring your components are both functional and user-friendly.
 

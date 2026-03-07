@@ -1,19 +1,12 @@
 ---
 title: "External Services in Salesforce: Call APIs Without Writing Code"
 date: 2025-03-09
+categories:
+- "Integration"
 ---
 
-<figure>
+![](/images/External-Services.png)
 
-![](images/External-Services-in-Salesforce-Calling-APIs-Without-Code-768x432.png)
-
-<figcaption>
-
-External Services in Salesforce: Calling APIs Without Code
-
-</figcaption>
-
-</figure>
 
 Salesforce is a powerful CRM platform, but in many cases, businesses need to integrate it with external systems, such as payment gateways, inventory management tools, or third-party services. Traditionally, API integrations require writing **Apex code**, but Salesforce provides a **no-code solution** called **External Services**, which allows admins and developers to call APIs without writing custom code.
 

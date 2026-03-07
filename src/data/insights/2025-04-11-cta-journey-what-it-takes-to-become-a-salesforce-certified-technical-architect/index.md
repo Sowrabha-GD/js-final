@@ -1,19 +1,12 @@
 ---
 title: "CTA Journey: What It Takes to Become a Salesforce Certified Technical Architect"
 date: 2025-04-11
+categories:
+- "Certifications"
 ---
 
-<figure>
+![](/images/CTA.png)
 
-![](images/CTA-Journey-What-It-Takes-to-Become-a-Salesforce-Certified-Technical-Architect-768x432.png)
-
-<figcaption>
-
-CTA Journey: What It Takes to Become a Salesforce Certified Technical Architect
-
-</figcaption>
-
-</figure>
 
 The Salesforce Certified Technical Architect (CTA) is the **highest and most prestigious credential** a Salesforce professional can achieve. It represents the pinnacle of Salesforce expertise, combining deep platform knowledge with the ability to design scalable, secure, and high-performance enterprise solutions.
 

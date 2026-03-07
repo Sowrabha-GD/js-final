@@ -1,0 +1,76 @@
+[
+  {
+    "id": "admin",
+    "name": "Salesforce Admin Cohort",
+    "date": "24 Mar 2026",
+    "time": "7:00 PM",
+    "description": "Live training for Salesforce Admin certification.",
+    
+    "overview": "This cohort helps professionals master Salesforce administration with real-world practice.",
+
+    "learning": [
+      "Salesforce platform fundamentals",
+      "Data modeling and relationships",
+      "User management and security",
+      "Workflow automation",
+      "Reports and dashboards"
+    ],
+
+    "audience": [
+      "Beginners starting Salesforce careers",
+      "IT professionals transitioning to Salesforce",
+      "Admins preparing for certification"
+    ],
+
+    "duration": "6 Weeks of live sessions and assignments"
+  },
+
+  {
+    "id": "developer",
+    "name": "Platform Developer Cohort",
+    "date": "28 Mar 2026",
+    "time": "8:00 PM",
+    "description": "Hands-on Salesforce development training.",
+
+    "overview": "Learn Salesforce development including Apex, Lightning Web Components and integrations.",
+
+    "learning": [
+      "Apex programming",
+      "Lightning Web Components",
+      "API integrations",
+      "Triggers and automation"
+    ],
+
+    "audience": [
+      "Developers entering Salesforce ecosystem",
+      "Java/JS developers transitioning to CRM development"
+    ],
+
+    "duration": "8 Weeks intensive training"
+  },
+  {
+    "id": "admin",
+    "name": "Salesforce Admin Cohort",
+    "date": "24 Mar 2026",
+    "time": "7:00 PM",
+    "description": "Live training for Salesforce Admin certification.",
+    
+    "overview": "This cohort helps professionals master Salesforce administration with real-world practice.",
+
+    "learning": [
+      "Salesforce platform fundamentals",
+      "Data modeling and relationships",
+      "User management and security",
+      "Workflow automation",
+      "Reports and dashboards"
+    ],
+
+    "audience": [
+      "Beginners starting Salesforce careers",
+      "IT professionals transitioning to Salesforce",
+      "Admins preparing for certification"
+    ],
+
+    "duration": "6 Weeks of live sessions and assignments"
+  }
+]

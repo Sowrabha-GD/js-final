@@ -1,19 +1,12 @@
 ---
 title: "Automating Rollbacks in Salesforce Deployments: A Complete Guide"
 date: 2025-03-10
+categories:
+- "Devops"
 ---
 
-<figure>
+![](/images/Rollbacks.png)
 
-![](images/Automating-Rollbacks-in-Salesforce-Deployments-768x432.png)
-
-<figcaption>
-
-Automating Rollbacks in Salesforce Deployments
-
-</figcaption>
-
-</figure>
 
 In Salesforce DevOps, **deployments don’t always go as planned**. A new feature might break existing functionality, data corruption could occur, or compliance issues might arise. To minimize downtime and business disruption, **automating rollbacks** is essential. Instead of manually identifying and reverting changes, an automated rollback system ensures that you can quickly **restore a stable state**.
 

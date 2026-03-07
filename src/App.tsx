@@ -15,8 +15,11 @@ import AdvisoryPage from "./pages/AdvisoryPage";
 import AdvisoryDetailPage from "./pages/AdvisoryDetailPage";
 import AboutPage from "./pages/AboutPage";
 import ContactPage from "./pages/ContactPage";
-import ScrollToTop from "./components/Scrolltotop";
+import ScrollToTop from "./components/ScrollToTop";
 import BookConsultation from "@/pages/BookConsultation";
+import CohortDetail from "./pages/CohortDetail";
+import Register from "./pages/Register";
+import CohortInquiry from "./pages/cohortInquiry";
 const queryClient = new QueryClient();
 
 const App = () => (
@@ -42,7 +45,10 @@ const App = () => (
           <Route path="/advisory/:id" element={<AdvisoryDetailPage />} />
           <Route path="/about" element={<AboutPage />} />
           <Route path="/contact" element={<ContactPage />} />
-          <Route path="/book-consultation" element={<BookConsultation />} />                                  
+          <Route path="/book-consultation" element={<BookConsultation />} />  
+          <Route path="/learn/live-cohorts/:id" element={<CohortDetail />} />
+          <Route path="/learn/live-cohorts/register/:id" element={<Register />} />
+          <Route path="/learn/live-cohorts/inquiry/:id" element={<CohortInquiry />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>

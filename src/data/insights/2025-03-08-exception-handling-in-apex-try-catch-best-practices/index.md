@@ -1,19 +1,12 @@
 ---
 title: "How to Handle Errors in Apex: Try-Catch Best Practices"
 date: 2025-03-08
+categories:
+- "Apex"
 ---
 
-<figure>
+![](/images/Exception.png)
 
-![](images/Exception-Handling-in-Apex-Try-Catch-Best-Practices-768x432.png)
-
-<figcaption>
-
-Exception Handling in Apex: Try-Catch Best Practices
-
-</figcaption>
-
-</figure>
 
 In Salesforce development, **exception handling** is a crucial skill that ensures your Apex code can gracefully manage errors and unexpected situations. Whether it’s a failed data operation, a system error, or an issue with external integrations, proper exception handling prevents your application from crashing and provides meaningful feedback to users.
 

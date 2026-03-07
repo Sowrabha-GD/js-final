@@ -1,19 +1,12 @@
 ---
 title: "How to Automate Testing in Salesforce DevOps: Tools &amp; Tips"
 date: 2025-03-10
+categories:
+- "Devops"
 ---
 
-<figure>
+![](/images/Testing.png)
 
-![](images/How-to-Automate-Testing-in-Salesforce-DevOps-1-768x432.png)
-
-<figcaption>
-
-How to Automate Testing in Salesforce DevOps
-
-</figcaption>
-
-</figure>
 
 Automated testing is a crucial part of **Salesforce DevOps**, ensuring that changes deployed across environments are stable, secure, and do not introduce regressions. With Salesforce being a **highly configurable platform**, testing automation helps maintain quality while enabling **faster releases and continuous integration/continuous deployment (CI/CD)**.
 

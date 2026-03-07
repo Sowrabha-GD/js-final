@@ -1,19 +1,12 @@
 ---
 title: "AI &amp; Chatbots in Service Cloud: How to Use Einstein Bots"
 date: 2025-03-11
+categories:
+- "Service cloud"
 ---
 
-<figure>
+![](/images/AI-Chatbot.png)
 
-![](images/AI-Chatbots-in-Service-Cloud-How-to-Use-Einstein-Bots-768x432.png)
-
-<figcaption>
-
-AI & Chatbots in Service Cloud: How to Use Einstein Bots
-
-</figcaption>
-
-</figure>
 
 Artificial intelligence (AI) is transforming customer service, enabling businesses to provide faster and more efficient support. Salesforce Einstein Bots, powered by AI, help automate responses, reduce case resolution times, and improve customer satisfaction. By integrating chatbots within **Service Cloud**, companies can streamline operations and enhance customer engagement. In this guide, we’ll explore how to set up and maximize Einstein Bots to improve service efficiency.
 

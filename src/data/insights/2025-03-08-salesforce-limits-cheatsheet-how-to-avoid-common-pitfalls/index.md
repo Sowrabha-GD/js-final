@@ -1,19 +1,12 @@
 ---
 title: "How to Avoid Salesforce Limits: The Ultimate Developer Cheatsheet 2025"
 date: 2025-03-08
+categories:
+- "Apex"
 ---
 
-<figure>
+![](/images/Cheatsheet.png)
 
-![](images/Salesforce-Limits-Cheatsheet-How-to-Avoid-Common-Pitfalls-768x432.png)
-
-<figcaption>
-
-Salesforce Limits Cheatsheet: How to Avoid Common Pitfalls
-
-</figcaption>
-
-</figure>
 
 Salesforce is a powerful platform, but it operates within a shared, multi-tenant environment. To ensure fair usage and optimal performance for all users, Salesforce enforces **governor limits**. These limits restrict the amount of resources (like memory, CPU time, and database operations) that your Apex code can use. Exceeding these limits can cause your code to fail, leading to errors and disruptions in your application.
 

@@ -1,19 +1,11 @@
 ---
 title: "Salesforce Application Architect: A Journey of 4 Pillars"
 date: 2025-04-11
+categories:
+- "Certifications"
 ---
 
-<figure>
-
-![](images/Salesforce-Application-Architect-A-Journey-of-4-Pillars-768x432.png)
-
-<figcaption>
-
-Salesforce Application Architect: A Journey of 4 Pillars
-
-</figcaption>
-
-</figure>
+![](/images/Salesforce-Application.png)
 
 Becoming a Salesforce Application Architect is not just about achieving a certification—it’s about mastering the platform’s architecture at a deep level. This journey equips professionals with the knowledge and skills to design scalable, secure, and maintainable solutions across the Salesforce ecosystem. The path is defined by four key certifications, often referred to as the four pillars of the Application Architect credential.
 

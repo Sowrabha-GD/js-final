@@ -1,19 +1,13 @@
 ---
 title: "Lightning Data Service in LWC: Complete Usage Guide (2025)"
 date: 2025-03-08
+categories:
+- "LWC"
 ---
 
-<figure>
 
-![](images/15-768x432.png)
+![](/images/light.png)
 
-<figcaption>
-
-How to Use Lightning Data Service in LWC
-
-</figcaption>
-
-</figure>
 
 When building Lightning Web Components (LWC), fetching and managing data is a common requirement. While you can use Apex to query data, Salesforce provides a more efficient and streamlined alternative: **Lightning Data Service (LDS)**. LDS is a powerful tool that allows you to access and manipulate Salesforce records without writing server-side code. In this blog, we’ll explore what Lightning Data Service is, how it works, and how to use it in your LWC components.
 

@@ -1,19 +1,12 @@
 ---
 title: "Apex Future Methods vs Queueable: Key Differences and Use Cases Explained 2025"
 date: 2025-03-10
+categories:
+- "Apex"
 ---
 
-<figure>
+![](/images/Queueable.png)
 
-![](images/Apex-Future-Methods-vs-Queueable-When-to-Use-What-768x432.png)
-
-<figcaption>
-
-Apex Future Methods vs Queueable: When to Use What?
-
-</figcaption>
-
-</figure>
 
 In Salesforce, asynchronous processing plays a crucial role in executing long-running operations without delaying the user experience. Two of the most common approaches for handling asynchronous tasks are **Future Methods (@future)** and **Queueable Apex**. While both allow background execution, they have distinct use cases, advantages, and limitations.
 

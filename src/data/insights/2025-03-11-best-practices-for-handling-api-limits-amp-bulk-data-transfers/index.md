@@ -1,19 +1,13 @@
 ---
-title: "Best Practices for Handling API Limits &amp; Bulk Data Transfers"
+title: "Best Practices for Handling API Limits & Bulk Data Transfers"
 date: 2025-03-11
+categories:
+- "Integration"
 ---
 
-<figure>
 
-![](images/Best-Practices-for-Handling-API-Limits-Bulk-Data-Transfers-768x432.png)
+![](/images/Bulk-Data.png)
 
-<figcaption>
-
-Best Practices for Handling API Limits & Bulk Data Transfers
-
-</figcaption>
-
-</figure>
 
 Salesforce imposes API limits to ensure fair usage and system performance. When integrating external systems or handling large data transfers, managing these limits efficiently is critical to avoid service disruptions and performance bottlenecks. This guide explores best practices for handling **Salesforce API limits** and **bulk data transfers**, ensuring seamless data processing while optimizing resource usage.
 

@@ -1,19 +1,12 @@
 ---
 title: "Salesforce Locker Service Explained: LWC Security Guide"
 date: 2025-03-08
+categories:
+- "LWC"
 ---
 
-<figure>
+![](/images/Locker.png)
 
-![](images/LWC-Security-Locker-Service-Best-Practices-768x432.png)
-
-<figcaption>
-
-LWC Security: Locker Service & Best Practices
-
-</figcaption>
-
-</figure>
 
 In Lightning Web Components (LWC), security is a top priority. Salesforce ensures the safety and integrity of its platform through features like **Locker Service**, which enforces strict security policies to prevent malicious code from compromising your applications. As a developer, understanding Locker Service and following security best practices is essential for building secure and reliable LWC components. In this blog, we’ll explore what Locker Service is, how it works, and the best practices you should follow to keep your LWC components secure.
 

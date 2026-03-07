@@ -1,19 +1,11 @@
 ---
 title: "Platform Events in Salesforce: How to Build Event-Driven Integrations"
 date: 2025-03-09
+categories:
+- "Integration"
 ---
 
-<figure>
-
-![](images/How-to-Use-Platform-Events-for-Event-Driven-Integrations-768x432.png)
-
-<figcaption>
-
-How to Use Platform Events for Event-Driven Integrations
-
-</figcaption>
-
-</figure>
+![](/images/eventss.png)
 
 As businesses rely more on real-time data and automation, traditional request-response integrations often fall short in delivering **instant, scalable, and flexible** solutions. This is where **Platform Events in Salesforce** come in. Platform Events enable **event-driven integrations**, allowing different systems to communicate asynchronously in real time.
 

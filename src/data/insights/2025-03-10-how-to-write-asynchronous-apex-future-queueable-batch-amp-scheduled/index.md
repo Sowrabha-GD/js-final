@@ -1,19 +1,12 @@
 ---
 title: "Writing Asynchronous Apex in Salesforce: Explained for SFDC Developers"
 date: 2025-03-10
+categories:
+- "Apex"
 ---
 
-<figure>
+![](/images/Asynchronous.png)
 
-![](images/How-to-Write-Asynchronous-Apex-Future-Queueable-Batch-Scheduled-768x432.png)
-
-<figcaption>
-
-How to Write Asynchronous Apex: Future, Queueable, Batch & Scheduled
-
-</figcaption>
-
-</figure>
 
 In Salesforce, **asynchronous Apex** allows you to run processes in the background, freeing up resources for more critical tasks. Whether you’re handling long-running operations, integrating with external systems, or processing large datasets, asynchronous Apex is a powerful tool for improving performance and scalability.
 

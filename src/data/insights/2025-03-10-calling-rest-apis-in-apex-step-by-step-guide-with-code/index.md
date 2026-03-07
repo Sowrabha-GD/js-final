@@ -1,19 +1,13 @@
 ---
 title: "How to Call REST APIs in Apex: A Practical Guide for Salesforce CRM Developers"
 date: 2025-03-10
+categories:
+- "Integration"
 ---
 
-<figure>
 
-![](images/Calling-REST-APIs-in-Apex-Step-by-Step-Guide-with-Code-768x432.png)
+![](/images/Calling-Code.png)
 
-<figcaption>
-
-Calling REST APIs in Apex: Step-by-Step Guide with Code
-
-</figcaption>
-
-</figure>
 
 In today’s interconnected world, integrating external systems with Salesforce is a common requirement. Whether you’re fetching data from a third-party service or sending information to an external platform, **calling REST APIs in Apex** is a powerful way to achieve seamless integration.
 

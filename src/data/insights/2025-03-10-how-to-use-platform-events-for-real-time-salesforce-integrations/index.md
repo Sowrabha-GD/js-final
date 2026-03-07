@@ -1,19 +1,13 @@
 ---
 title: "Platform Events in Salesforce: Real-Time Integration Guide (2025)"
 date: 2025-03-10
+categories:
+- "Integration"
 ---
 
-<figure>
 
-![](images/How-to-Use-Platform-Events-for-Real-Time-Salesforce-Integrations-768x432.png)
+![](/images/Events-Real.png)
 
-<figcaption>
-
-How to Use Platform Events for Real-Time Salesforce Integrations
-
-</figcaption>
-
-</figure>
 
 ## Understanding Platform Events in Salesforce
 

@@ -1,19 +1,13 @@
 ---
 title: "Salesforce Certification Exam Strategy: Study Tips, Resources, and Time Management"
 date: 2025-04-10
+categories:
+- "Certifications"
 ---
 
-<figure>
 
-![](images/Salesforce-Certification-Exam-Strategy-Study-Tips-Resources-and-Time-Management-768x432.png)
+![](/images/Salesforce-Certification.png)
 
-<figcaption>
-
-Salesforce Certification Exam Strategy: Study Tips, Resources, and Time Management
-
-</figcaption>
-
-</figure>
 
 Preparing for a Salesforce certification exam can be overwhelming without a clear strategy. With multiple roles, complex features, and evolving updates, it’s important to approach your preparation with a focused plan. Whether you're aiming for the Administrator, Developer, or Consultant certification, success lies in how you study, what resources you use, and how well you manage your time.
 

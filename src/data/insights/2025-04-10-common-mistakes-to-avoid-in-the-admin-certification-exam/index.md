@@ -1,19 +1,13 @@
 ---
 title: "Common Mistakes to Avoid in the Admin Certification Exam"
 date: 2025-04-10
+categories:
+- "Certifications"
 ---
 
-<figure>
 
-![](images/Common-Mistakes-to-Avoid-in-the-Admin-Certification-Exam-768x432.png)
+![](/images/Common.png)
 
-<figcaption>
-
-Common Mistakes to Avoid in the Admin Certification Exam
-
-</figcaption>
-
-</figure>
 
 Preparing for the **Salesforce Certified Administrator** exam can be both exciting and overwhelming, especially for beginners. With so many topics to cover, it’s easy to get caught up in the wrong approach. While many candidates spend weeks studying, some still end up falling short — not because they didn’t know the material, but because they made avoidable mistakes.
 

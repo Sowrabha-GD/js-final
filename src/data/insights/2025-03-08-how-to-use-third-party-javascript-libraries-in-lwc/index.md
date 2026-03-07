@@ -1,19 +1,13 @@
 ---
 title: "How to Use Third-Party JavaScript Libraries in LWC 2025 Guide"
 date: 2025-03-08
+categories:
+- "LWC"
 ---
 
-<figure>
 
-![](images/How-to-Use-Third-Party-JavaScript-Libraries-in-LWC-768x432.png)
+![](/images/Third-Party.png)
 
-<figcaption>
-
-How to Use Third-Party JavaScript Libraries in LWC
-
-</figcaption>
-
-</figure>
 
 Lightning Web Components (LWC) is a powerful framework for building modern, responsive applications in Salesforce. While LWC provides a rich set of features out of the box, there are times when you may need to use third-party JavaScript libraries to add advanced functionality, such as charting, date pickers, or data visualization. Integrating these libraries into LWC can enhance your application’s capabilities, but it requires careful handling to ensure compatibility and performance. In this blog, we’ll explore how to use third-party JavaScript libraries in LWC, with step-by-step guidance and code examples.
 

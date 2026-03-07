@@ -1,19 +1,12 @@
 ---
 title: "Salesforce Analytics Cloud: What It Is &amp; How It Works"
 date: 2025-03-12
+categories:
+- "Misc"
 ---
 
-<figure>
+![](/images/Salesforce-Analytics.png)
 
-![](images/Salesforce-Analytics-Cloud-What-It-Is-How-It-Works-768x432.png)
-
-<figcaption>
-
-Salesforce Analytics Cloud: What It Is & How It Works
-
-</figcaption>
-
-</figure>
 
 In today’s data-driven world, businesses need powerful analytics tools to make informed decisions. **Salesforce Analytics Cloud**, also known as **Tableau CRM**, is a robust business intelligence (BI) platform designed to help organizations analyze vast amounts of data and derive actionable insights. This cloud-based analytics solution enables users to visualize data, track key performance indicators (KPIs), and make strategic decisions with confidence.
 

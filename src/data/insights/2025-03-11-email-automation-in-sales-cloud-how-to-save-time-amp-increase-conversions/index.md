@@ -1,19 +1,12 @@
 ---
-title: "Email Automation in Sales Cloud: Save Time &amp; Boost Conversions 50%"
+title: "Email Automation in Sales Cloud: Save Time & Boost Conversions 50%"
 date: 2025-03-11
+categories:
+- "Sales cloud"
 ---
 
-<figure>
+![](/images/Email-cloud.png)
 
-![](images/Email-Automation-in-Sales-Cloud-How-to-Save-Time-Increase-Conversions-768x432.png)
-
-<figcaption>
-
-Email Automation in Sales Cloud: How to Save Time & Increase Conversions
-
-</figcaption>
-
-</figure>
 
 Email automation in Salesforce Sales Cloud is a game-changer for sales teams looking to streamline communication, nurture leads, and close deals more efficiently. By leveraging automation, businesses can save time while delivering personalized, timely messages that drive conversions. In this guide, we’ll explore how to set up email automation in Sales Cloud and maximize its impact.
 

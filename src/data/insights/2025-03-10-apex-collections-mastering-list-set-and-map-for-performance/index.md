@@ -1,19 +1,13 @@
 ---
 title: "Mastering Apex Collections: List, Set, and Map Performance Optimization"
 date: 2025-03-10
+categories:
+- "Apex"
 ---
 
-<figure>
 
-![](images/Apex-Collections-Mastering-List-Set-and-Map-for-Performance-768x432.png)
+![](/images/Map.png)
 
-<figcaption>
-
-Apex Collections: Mastering List, Set, and Map for Performance
-
-</figcaption>
-
-</figure>
 
 ## Understanding Apex Collections
 

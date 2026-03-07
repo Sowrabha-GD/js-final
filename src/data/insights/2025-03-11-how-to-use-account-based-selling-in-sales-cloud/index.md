@@ -1,19 +1,12 @@
 ---
 title: "Account-Based Selling in Sales Cloud: Implementation Guide 2025"
 date: 2025-03-11
+categories:
+- "Sales cloud"
 ---
 
-<figure>
+![](/images/Account.png)
 
-![](images/How-to-Use-Account-Based-Selling-in-Sales-Cloud-768x432.png)
-
-<figcaption>
-
-How to Use Account-Based Selling in Sales Cloud
-
-</figcaption>
-
-</figure>
 
 Account-Based Selling (ABS) is a strategic sales approach that focuses on targeting high-value accounts rather than individual leads. By leveraging Salesforce Sales Cloud, businesses can enhance their ABS strategy with data-driven insights, automation, and seamless collaboration. Here’s how to effectively use Account-Based Selling in Sales Cloud:
 

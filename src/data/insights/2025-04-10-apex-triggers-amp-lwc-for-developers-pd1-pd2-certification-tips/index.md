@@ -1,5 +1,5 @@
 ---
-title: "Apex Triggers &amp; LWC for Developers: PD1/PD2 Certification Tips"
+title: "Apex Triggers & LWC for Developers: PD1/PD2 Certification Tips"
 date: 2025-04-10
 categories: 
 - "Apex"
@@ -7,7 +7,7 @@ categories:
 
 ---
 
-![Apex Triggers & LWC for Developers: PD1/PD2 Certification Tips](/images/Apex-Triggers.png)
+![Apex Triggers and LWC ](/images/Apex-Triggers.png)
 
 *Apex Triggers & LWC for Developers: PD1/PD2 Certification Tips*
 
@@ -60,7 +60,7 @@ LWC is Salesforce’s modern UI framework based on standard web components. Whil
     Know how to call Apex methods from JavaScript using `@wire` or `imperative Apex`. Understand how to handle server responses and errors.
 - **Component Communication:**  
     Be able to pass data between parent and child components, and use custom events for cross-component communication.
-- **Best Practices:**  
+- **Best Practices:** 
     Optimize performance with lazy loading, debouncing, and efficient rendering. Follow standard JavaScript coding principles.
 
 ### PD1 vs PD2: What’s Expected

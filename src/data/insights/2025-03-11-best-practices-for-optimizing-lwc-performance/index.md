@@ -1,19 +1,12 @@
 ---
 title: "Lightning Web Component Performance: Optimization Best Practices"
 date: 2025-03-11
+categories:
+- "LWC"
 ---
 
-<figure>
+![](images/Best-lwc.png)
 
-![](images/Best-Practices-for-Optimizing-LWC-Performance-768x432.png)
-
-<figcaption>
-
-Best Practices for Optimizing LWC Performance
-
-</figcaption>
-
-</figure>
 
 Lightning Web Components (LWC) provide a powerful and efficient framework for building dynamic applications on the Salesforce platform. However, as applications grow in complexity, performance optimization becomes essential to maintain smooth user experiences. In this guide, we’ll explore best practices for optimizing LWC performance to ensure fast, responsive applications.
 

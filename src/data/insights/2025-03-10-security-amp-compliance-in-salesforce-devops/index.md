@@ -1,19 +1,13 @@
 ---
 title: "Salesforce DevOps Security &amp; Compliance Best Practices"
 date: 2025-03-10
+categories:
+- "Devops"
 ---
 
-<figure>
 
-![](images/Security-Compliance-in-Salesforce-DevOps-768x432.png)
+![](/images/Compliance.png)
 
-<figcaption>
-
-Security & Compliance in Salesforce DevOps
-
-</figcaption>
-
-</figure>
 
 As businesses increasingly rely on **Salesforce for customer data and critical operations**, ensuring **security and compliance** in DevOps practices has become essential. **Salesforce DevOps** combines **continuous integration (CI), continuous deployment (CD), and automation**, but without proper security measures, it can lead to **data breaches, compliance violations, and operational risks**.
 

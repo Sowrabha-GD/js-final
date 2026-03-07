@@ -1,19 +1,12 @@
 ---
 title: "Custom Exception Handling in Apex: Pro Tips for Salesforce Developers"
 date: 2025-03-10
+categories:
+- "Apex"
 ---
 
-<figure>
 
-![](images/Custom-Exception-Handling-in-Apex-Best-Practices-768x432.png)
-
-<figcaption>
-
-Custom Exception Handling in Apex: Best Practices
-
-</figcaption>
-
-</figure>
+![](/images/Custom-Except.png)
 
 ## Why Custom Exception Handling Matters in Apex
 

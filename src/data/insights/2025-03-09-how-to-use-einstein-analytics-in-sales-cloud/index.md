@@ -1,19 +1,11 @@
 ---
 title: "Einstein Analytics Setup: Sales Cloud Dashboards in 1 Hour"
 date: 2025-03-09
+categories:
+- "Sales cloud"
 ---
+![](/images/Analyticss.png)
 
-<figure>
-
-![](images/How-to-Use-Einstein-Analytics-in-Sales-Cloud-768x432.png)
-
-<figcaption>
-
-How to Use Einstein Analytics in Sales Cloud
-
-</figcaption>
-
-</figure>
 
 In today’s competitive business landscape, data is the key to making informed decisions and driving sales success. Salesforce’s Einstein Analytics is a powerful tool that integrates seamlessly with Sales Cloud, enabling businesses to analyze data, uncover trends, and make smarter decisions. By leveraging Einstein Analytics, sales teams can gain actionable insights, improve forecasting, and optimize their strategies. In this blog, we’ll explore how to use Einstein Analytics in Sales Cloud to transform your sales process.
 

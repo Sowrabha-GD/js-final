@@ -1,19 +1,12 @@
 ---
 title: "LWC Component Communication: Parent-Child, Events &amp; Pub-Sub Patterns"
 date: 2025-03-11
+categories:
+- "LWC"
 ---
 
-<figure>
+![](/images/Events-Pub.png)
 
-![](images/How-to-Communicate-Between-LWC-Components-Parent-Child-Events-Pub-Sub-768x432.png)
-
-<figcaption>
-
-How to Communicate Between LWC Components (Parent-Child, Events, Pub-Sub)
-
-</figcaption>
-
-</figure>
 
 Lightning Web Components (LWC) is a powerful framework for building modern, reusable, and efficient components on the Salesforce platform. One of the most important aspects of building applications with LWC is enabling communication between components. Whether you're working with parent-child relationships, custom events, or the publish-subscribe (pub-sub) model, understanding how to facilitate communication is crucial. In this blog post, we'll explore the different methods of communication between LWC components with practical examples.
 

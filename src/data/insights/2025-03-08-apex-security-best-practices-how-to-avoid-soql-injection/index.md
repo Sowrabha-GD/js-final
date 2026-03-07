@@ -1,19 +1,12 @@
 ---
 title: "How to Prevent SOQL Injection in Apex: Salesforce Security Best Practices"
 date: 2025-03-08
+categories:
+- "Apex"
 ---
 
-<figure>
+![](/images/SOQL.png)
 
-![](images/Apex-Security-Best-Practices-How-to-Avoid-SOQL-Injection-768x432.png)
-
-<figcaption>
-
-Apex Security Best Practices: How to Avoid SOQL Injection
-
-</figcaption>
-
-</figure>
 
 In Salesforce development, security is a top priority. One of the most critical vulnerabilities to watch out for is **SOQL Injection**, a type of attack that can compromise your data and expose sensitive information. By following best practices, you can protect your Apex code from SOQL injection and ensure your Salesforce org remains secure.
 

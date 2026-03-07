@@ -1,19 +1,14 @@
 ---
 title: "How to Implement CI/CD in Salesforce"
 date: 2025-03-12
+categories:
+- "Devops"
 ---
 
-<figure>
 
-![](images/How-to-Implement-CICD-in-Salesforce-768x432.png)
+![](/images/How-to-Implement.png)
 
-<figcaption>
 
-How to Implement CI/CD in Salesforce
-
-</figcaption>
-
-</figure>
 
 Continuous Integration and Continuous Deployment (CI/CD) are essential DevOps practices that help streamline the development, testing, and deployment of applications. In Salesforce, where teams work on configurations, code, and metadata across multiple environments, implementing CI/CD ensures smoother releases, fewer errors, and improved collaboration.
 

@@ -1,19 +1,11 @@
 ---
 title: "Salesforce to Salesforce Integration Explained: Setup, Use Cases, and Benefits"
 date: 2025-03-09
+categories:
+- "Integration"
 ---
 
-<figure>
-
-![](images/Salesforce-to-Salesforce-Integration-How-It-Works-1-768x432.png)
-
-<figcaption>
-
-Salesforce to Salesforce Integration: How It Works
-
-</figcaption>
-
-</figure>
+![](/images/It-Work.png)
 
 In today’s connected business world, organizations often operate across multiple Salesforce orgs to manage different departments, regions, or business functions. Integrating these Salesforce instances allows seamless data exchange, ensuring teams have access to up-to-date information. **Salesforce to Salesforce (S2S) integration** enables businesses to synchronize records, automate workflows, and improve collaboration between different Salesforce environments. Understanding how this integration works can help businesses optimize their processes and enhance efficiency.
 

@@ -1,19 +1,14 @@
 ---
 title: "Building Lightning Web Components from Scratch: Step-by-Step Guide"
 date: 2025-03-10
+categories:
+- "LWC"
 ---
 
-<figure>
 
-![](images/How-to-Build-a-Lightning-Web-Component-from-Scratch-768x432.png)
+![](/images/Scratch.png)
 
-<figcaption>
 
-How to Build a Lightning Web Component from Scratch
-
-</figcaption>
-
-</figure>
 
 ## Introduction
 

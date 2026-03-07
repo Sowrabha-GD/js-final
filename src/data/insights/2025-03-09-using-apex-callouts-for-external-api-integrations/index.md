@@ -1,19 +1,12 @@
 ---
 title: "Using Apex Callouts in Salesforce: A Guide to External API Integration"
 date: 2025-03-09
+categories:
+- "Integration"
 ---
 
-<figure>
+![](/images/Callouts.png)
 
-![](images/Using-Apex-Callouts-for-External-API-Integrations-1-768x432.png)
-
-<figcaption>
-
-Using Apex Callouts for External API Integrations
-
-</figcaption>
-
-</figure>
 
 In today’s digital landscape, businesses rely on **external APIs** to enhance functionality, automate workflows, and connect different systems. In **Salesforce**, integrating with third-party APIs is crucial for retrieving and sending data to external services. **Apex Callouts** enable developers to make HTTP requests from Salesforce to interact with these APIs.
 

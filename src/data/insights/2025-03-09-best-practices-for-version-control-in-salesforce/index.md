@@ -1,20 +1,13 @@
 ---
 title: "Salesforce Version Control Best Practices: A DevOps Guide"
 date: 2025-03-09
+categories:
+- "Devops"
 ---
 
-<figure>
 
-![](images/Best-Practices-for-Version-Control-in-Salesforce-1-768x432.png)
-
-<figcaption>
-
-Best Practices for Version Control in Salesforce
-
-</figcaption>
-
-</figure>
-
+![](/images/versions.png)
+                            
 Version control is a crucial aspect of **Salesforce development**, enabling teams to manage code changes efficiently, collaborate seamlessly, and maintain a stable deployment process. With Salesforce moving towards **source-driven development**, using a **Git-based version control system (VCS)** like GitHub, Bitbucket, or GitLab is essential for modern DevOps practices.
 
 A well-structured version control strategy helps avoid issues such as **overwritten code, deployment conflicts, and inconsistent metadata** across environments. In this blog, we’ll explore the **best practices for version control in Salesforce** to ensure smooth development and deployment processes.

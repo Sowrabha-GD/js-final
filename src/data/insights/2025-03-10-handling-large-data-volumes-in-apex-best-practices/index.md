@@ -1,19 +1,13 @@
 ---
 title: "How to Handle Large Data Volumes in Apex: Salesforce Best Practices Explained"
 date: 2025-03-10
+categories:
+- "Apex"
 ---
 
-<figure>
 
-![](images/Handling-Large-Data-Volumes-in-Apex-Best-Practices-1-768x432.png)
+![](/images/Volumes.png)
 
-<figcaption>
-
-Handling Large Data Volumes in Apex: Best Practices
-
-</figcaption>
-
-</figure>
 
 As your Salesforce org grows, so does the volume of data you need to manage. Handling large datasets efficiently is critical to maintaining performance, avoiding governor limits, and ensuring a smooth user experience. In this blog, we’ll explore **best practices for handling large data volumes in Apex**, so you can build scalable and high-performing Salesforce applications.
 

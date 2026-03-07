@@ -1,19 +1,12 @@
 ---
-title: "How Salesforce is Driving Sustainability &amp; Green Tech"
+title: "How Salesforce is Driving Sustainability & Green Tech"
 date: 2025-03-12
+categories:
+- "Misc"
 ---
 
-<figure>
+![](/images/Sustain.png)
 
-![](images/How-Salesforce-is-Driving-Sustainability-Green-Tech-768x432.png)
-
-<figcaption>
-
-How Salesforce is Driving Sustainability & Green Tech
-
-</figcaption>
-
-</figure>
 
 As the world faces increasing environmental challenges, businesses are expected to take responsibility for their carbon footprint and adopt sustainable practices. Salesforce, a global leader in cloud-based CRM, has emerged as a pioneer in driving **sustainability and green technology**. By integrating **eco-friendly policies, carbon accountability, and innovative solutions**, Salesforce is helping companies transition to a more sustainable future.
 

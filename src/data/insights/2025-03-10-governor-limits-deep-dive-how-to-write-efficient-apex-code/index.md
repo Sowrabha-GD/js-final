@@ -1,19 +1,12 @@
 ---
 title: "Building Secure REST API Endpoints in Salesforce: Apex Best Practices"
 date: 2025-03-10
+categories:
+- "Apex"
 ---
 
-<figure>
+![](/images/Dive.png)
 
-![](images/Governor-Limits-Deep-Dive-How-to-Write-Efficient-Apex-Code-768x432.png)
-
-<figcaption>
-
-Governor Limits Deep Dive: How to Write Efficient Apex Code
-
-</figcaption>
-
-</figure>
 
 ## Understanding Governor Limits in Salesforce
 

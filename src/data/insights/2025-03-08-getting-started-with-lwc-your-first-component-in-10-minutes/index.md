@@ -1,19 +1,12 @@
 ---
 title: "How to Create Your First LWC Component in Salesforce (10-Minute Guide)"
 date: 2025-03-08
+categories:
+- "LWC"
 ---
 
-<figure>
+![](/images/Getting.png)
 
-![](images/Getting-Started-with-LWC-Your-First-Component-in-10-Minutes-1-768x432.png)
-
-<figcaption>
-
-Getting Started with LWC: Your First Component in 10 Minutes
-
-</figcaption>
-
-</figure>
 
 Lightning Web Components (LWC) is a modern framework for building fast, scalable, and reusable components in Salesforce. Whether you’re a beginner or an experienced developer, LWC makes it easy to create dynamic and responsive user interfaces. In this blog, we’ll walk you through the basics of LWC and show you how to build your first component in just 10 minutes—no prior experience required!
 

@@ -4,19 +4,10 @@ import { motion } from "framer-motion";
 import Layout from "@/components/Layout";
 import InsightCard from "@/components/InsightCard";
 import { insights } from "@/lib/insights";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 
 /** Simple markdown-to-HTML renderer for basic markdown */
-const renderMarkdown = (md: string) => {
-  return md
-    .replace(/^### (.+)$/gm, '<h3 class="font-display text-xl font-semibold text-foreground mt-8 mb-3">$1</h3>')
-    .replace(/^## (.+)$/gm, '<h2 class="font-display text-2xl font-bold text-foreground mt-10 mb-4">$1</h2>')
-    .replace(/^> (.+)$/gm, '<blockquote class="border-l-4 border-primary/30 pl-4 py-1 my-6 text-muted-foreground italic">$1</blockquote>')
-    .replace(/\*\*(.+?)\*\*/g, '<strong class="font-semibold text-foreground">$1</strong>')
-    .replace(/^\d+\. (.+)$/gm, '<li class="ml-4 list-decimal text-muted-foreground leading-relaxed">$1</li>')
-    .replace(/^- (.+)$/gm, '<li class="ml-4 list-disc text-muted-foreground leading-relaxed">$1</li>')
-    .replace(/\n\n/g, '</p><p class="text-muted-foreground leading-relaxed mb-4">')
-    .replace(/^(?!<)(.+)$/gm, '<p class="text-muted-foreground leading-relaxed mb-4">$1</p>');
-};
 
 const InsightDetailPage = () => {
   const { slug } = useParams();
@@ -58,11 +49,15 @@ const InsightDetailPage = () => {
             
           </div>
 
-          <div
-            className="prose-custom"
-            dangerouslySetInnerHTML={{ __html: renderMarkdown(insight.content) }}
-          />
-        </motion.div>
+<div className="prose prose-lg max-w-none">
+  <ReactMarkdown
+    remarkPlugins={[remarkGfm]}
+  >
+    {insight.content}
+  </ReactMarkdown>
+</div>
+
+ </motion.div>
 
         {related.length > 0 && (
           <div className="mt-20 pt-10 border-t border-border">
