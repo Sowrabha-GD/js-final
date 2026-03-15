@@ -1,13 +1,3 @@
----
-title: "Custom Metadata in Apex: How to Build Configurable Business Logic"
-date: 2025-03-10
-categories:
-- "Apex"
----
-
-![](/images/Metadata.png)
-
-
 In Salesforce development, flexibility and maintainability are key to building scalable applications. Hardcoding business logic within Apex classes can lead to challenges when updates are needed, requiring frequent code changes and deployments. **Custom Metadata Types** provide a powerful solution, allowing developers to store configurable data and reference it dynamically in Apex.
 
 In this blog, we’ll explore **how to use Custom Metadata in Apex** to make business logic more **configurable, maintainable, and scalable**.

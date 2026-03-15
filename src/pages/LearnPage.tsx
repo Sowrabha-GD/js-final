@@ -5,7 +5,7 @@ import Layout from "@/components/Layout";
 import SectionHeading from "@/components/SectionHeading";
 
 const sections = [
-  {
+   {
     icon: BookOpen,
     title: "Foundations",
     desc: "Core concepts and fundamental knowledge every Salesforce professional needs.",
@@ -36,16 +36,29 @@ const sections = [
     to: "/learn/live-cohorts",
   },
 ];
-
 const LearnPage = () => {
-  return (
+ return (
     <Layout>
-      <div className="container-wide section-padding">
-        <SectionHeading
-          label="Learn"
-          title="Structured Learning"
-          description="A curated learning experience designed for Salesforce professionals who want to go deeper — not wider."
-        />
+      <div
+  className="w-full px-12 py-16"
+  style={{
+    background: "linear-gradient(135deg, #0f2d6b 0%, #1a4fba 40%, #2c7be5 70%, #3b9ef0 100%)",
+  }}
+>
+  <span
+    className="inline-block text-xs font-bold tracking-widest uppercase text-white mb-4 px-4 py-1.5 rounded-full border border-white/25"
+    style={{ background: "rgba(255,255,255,0.15)" }}
+  >
+  Learn
+  </span>
+  <h1 className="text-4xl md:text-5xl font-bold text-white mb-4 leading-tight">
+   Structured Learning
+  </h1>
+  <p className="text-white/80 text-base max-w-xl leading-relaxed">
+    A curated learning experience designed for Salesforce professionals who want to go deeper — not wider.
+  </p>
+</div>
+       <div className="container-wide pt-8 pb-12 px-8"></div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto">
           {sections.map((section, i) => (
@@ -71,7 +84,7 @@ const LearnPage = () => {
             </motion.div>
           ))}
         </div>
-      </div>
+      
     </Layout>
   );
 };

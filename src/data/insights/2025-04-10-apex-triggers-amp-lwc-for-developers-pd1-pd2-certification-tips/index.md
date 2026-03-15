@@ -1,12 +1,3 @@
----
-title: "Apex Triggers & LWC for Developers: PD1/PD2 Certification Tips"
-date: 2025-04-10
-categories: 
-- "Apex"
-
-
----
-
 ![Apex Triggers and LWC ](/images/Apex-Triggers.png)
 
 *Apex Triggers & LWC for Developers: PD1/PD2 Certification Tips*

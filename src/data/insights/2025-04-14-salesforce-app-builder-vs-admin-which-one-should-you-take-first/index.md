@@ -1,8 +1,4 @@
----
-title: "Salesforce App Builder vs Admin: Which One Should You Take First?"
-date: 2025-04-14
-categories: 
-- "Certifications"
+
 ---
 
 ![Salesforce-App](/images/Salesforce-App.png)

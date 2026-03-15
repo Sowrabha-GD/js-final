@@ -1,13 +1,3 @@
----
-title: "The Impact of Personalization in CRM: How Salesforce Helps"
-date: 2025-03-13
-categories:
-- "Misc"
----
-
-
-![](/images/The-Impact.png)
-
 <figcaption>
 
 The Impact of Personalization in CRM: How Salesforce Helps

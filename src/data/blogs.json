@@ -1,0 +1,2356 @@
+[
+  {
+    "slug": "2025-03-08-apex-security-best-practices-how-to-avoid-soql-injection",
+    "title": "Apex Security Best Practices How To Avoid Soql Injection",
+    "categories": [
+      "Apex"
+    ],
+    "date": "2025-03-08",
+    "image": "/images/SOQL.png",
+    "excerpt": "title: \"How to Prevent SOQL Injection in Apex: Salesforce Security Best Practices\" date: 20250308 categories:  \"Apex\"   ![](/images/SOQL.png)   In Salesforce d",
+    "folder": "2025-03-08-apex-security-best-practices-how-to-avoid-soql-injection"
+  },
+  {
+    "slug": "2025-03-08-building-dynamic-amp-interactive-ui-with-lwc",
+    "title": "Building Dynamic Amp Interactive Ui With Lwc",
+    "categories": [
+      "LWC"
+    ],
+    "date": "2025-03-08",
+    "image": "/images/Building.png",
+    "excerpt": "title: \"How to Create Interactive UIs with Lightning Web Components\" date: 20250308 categories:  \"LWC\"   ![](/images/Building.png)   Lightning Web Components (",
+    "folder": "2025-03-08-building-dynamic-amp-interactive-ui-with-lwc"
+  },
+  {
+    "slug": "2025-03-08-event-handling-in-lwc-parent-to-child-amp-child-to-parent-explained",
+    "title": "Event Handling In Lwc Parent To Child Amp Child To Parent Explained",
+    "categories": [
+      "LWC"
+    ],
+    "date": "2025-03-08",
+    "image": "/images/Event.png",
+    "excerpt": "title: \"LWC Event Handling: Master ParenttoChild & ChildtoParent Communication\" date: 20250308 categories:  \"LWC\"     ![](/images/Event.png)    In Lightning We",
+    "folder": "2025-03-08-event-handling-in-lwc-parent-to-child-amp-child-to-parent-explained"
+  },
+  {
+    "slug": "2025-03-08-exception-handling-in-apex-try-catch-best-practices",
+    "title": "Exception Handling In Apex Try Catch Best Practices",
+    "categories": [
+      "Apex"
+    ],
+    "date": "2025-03-08",
+    "image": "/images/Exception.png",
+    "excerpt": "title: \"How to Handle Errors in Apex: TryCatch Best Practices\" date: 20250308 categories:  \"Apex\"   ![](/images/Exception.png)   In Salesforce development, exc",
+    "folder": "2025-03-08-exception-handling-in-apex-try-catch-best-practices"
+  },
+  {
+    "slug": "2025-03-08-fetching-data-in-lwc-best-practices-for-performance",
+    "title": "Fetching Data In Lwc Best Practices For Performance",
+    "categories": [
+      "LWC"
+    ],
+    "date": "2025-03-08",
+    "image": "/images/Fetching.png",
+    "excerpt": "title: \"LWC Data Fetching: Best Practices for High Performance 2025\" date: 20250308 categories:  \"LWC\"    ![](/images/Fetching.png)   In Lightning Web Componen",
+    "folder": "2025-03-08-fetching-data-in-lwc-best-practices-for-performance"
+  },
+  {
+    "slug": "2025-03-08-getting-started-with-lwc-your-first-component-in-10-minutes",
+    "title": "Getting Started With Lwc Your First Component In 10 Minutes",
+    "categories": [
+      "LWC"
+    ],
+    "date": "2025-03-08",
+    "image": "/images/Getting.png",
+    "excerpt": "title: \"How to Create Your First LWC Component in Salesforce (10Minute Guide)\" date: 20250308 categories:  \"LWC\"   ![](/images/Getting.png)   Lightning Web Com",
+    "folder": "2025-03-08-getting-started-with-lwc-your-first-component-in-10-minutes"
+  },
+  {
+    "slug": "2025-03-08-how-to-debug-lwc-components-like-a-pro",
+    "title": "How To Debug Lwc Components Like A Pro",
+    "categories": [
+      "LWC"
+    ],
+    "date": "2025-03-08",
+    "image": "/images/Debug.png",
+    "excerpt": "title: \"Salesforce LWC Debugging Guide: Fix Errors Fast\" date: 20250308 categories:  \"LWC\"    ![](/images/Debug.png)   Debugging is an essential skill for any",
+    "folder": "2025-03-08-how-to-debug-lwc-components-like-a-pro"
+  },
+  {
+    "slug": "2025-03-08-how-to-use-lightning-data-service-in-lwc",
+    "title": "How To Use Lightning Data Service In Lwc",
+    "categories": [
+      "LWC"
+    ],
+    "date": "2025-03-08",
+    "image": "/images/light.png",
+    "excerpt": "title: \"Lightning Data Service in LWC: Complete Usage Guide (2025)\" date: 20250308 categories:  \"LWC\"    ![](/images/light.png)   When building Lightning Web C",
+    "folder": "2025-03-08-how-to-use-lightning-data-service-in-lwc"
+  },
+  {
+    "slug": "2025-03-08-how-to-use-third-party-javascript-libraries-in-lwc",
+    "title": "How To Use Third Party Javascript Libraries In Lwc",
+    "categories": [
+      "LWC"
+    ],
+    "date": "2025-03-08",
+    "image": "/images/Third-Party.png",
+    "excerpt": "title: \"How to Use ThirdParty JavaScript Libraries in LWC 2025 Guide\" date: 20250308 categories:  \"LWC\"    ![](/images/ThirdParty.png)   Lightning Web Componen",
+    "folder": "2025-03-08-how-to-use-third-party-javascript-libraries-in-lwc"
+  },
+  {
+    "slug": "2025-03-08-lwc-performance-optimization-avoid-these-common-mistakes",
+    "title": "Lwc Performance Optimization Avoid These Common Mistakes",
+    "categories": [
+      "LWC"
+    ],
+    "date": "2025-03-08",
+    "image": "/images/Optimization.png",
+    "excerpt": "title: \"How to Optimize LWC Performance: Fix These 7 Common Errors\" date: 20250308 categories:  \"LWC\"   ![](/images/Optimization.png)    In Lightning Web Compo",
+    "folder": "2025-03-08-lwc-performance-optimization-avoid-these-common-mistakes"
+  },
+  {
+    "slug": "2025-03-08-lwc-security-locker-service-amp-best-practices",
+    "title": "Lwc Security Locker Service Amp Best Practices",
+    "categories": [
+      "LWC"
+    ],
+    "date": "2025-03-08",
+    "image": "/images/Locker.png",
+    "excerpt": "title: \"Salesforce Locker Service Explained: LWC Security Guide\" date: 20250308 categories:  \"LWC\"   ![](/images/Locker.png)   In Lightning Web Components (LWC",
+    "folder": "2025-03-08-lwc-security-locker-service-amp-best-practices"
+  },
+  {
+    "slug": "2025-03-08-lwc-vs-aura-components-whats-different-amp-why-it-matters",
+    "title": "Lwc Vs Aura Components Whats Different Amp Why It Matters",
+    "categories": [
+      "LWC"
+    ],
+    "date": "2025-03-08",
+    "image": "/images/Aura.png",
+    "excerpt": "title: \"LWC vs Aura Components: Key Differences &amp; When to Use Each\" date: 20250308 categories:  \"LWC\"   ![](/images/Aura.png)   When building user interfac",
+    "folder": "2025-03-08-lwc-vs-aura-components-whats-different-amp-why-it-matters"
+  },
+  {
+    "slug": "2025-03-08-reusability-in-lwc-how-to-build-amp-use-custom-components",
+    "title": "Reusability In Lwc How To Build Amp Use Custom Components",
+    "categories": [
+      "LWC"
+    ],
+    "date": "2025-03-08",
+    "image": "/images/Reusability.png",
+    "excerpt": "title: \"How to Build Reusable LWC Components: Salesforce Developer Guide\" date: 20250308 categories:  \"LWC\"    ![](/images/Reusability.png)   In Lightning Web",
+    "folder": "2025-03-08-reusability-in-lwc-how-to-build-amp-use-custom-components"
+  },
+  {
+    "slug": "2025-03-08-salesforce-lead-management-from-capture-to-conversion",
+    "title": "Salesforce Lead Management From Capture To Conversion",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-08",
+    "image": "/images/Lead.png",
+    "excerpt": "title: \"How to Automate Lead Management in Salesforce: 2025 Guide\" date: 20250308 categories:  \"Sales cloud\"   ![](/images/Lead.png)   In the world of sales, l",
+    "folder": "2025-03-08-salesforce-lead-management-from-capture-to-conversion"
+  },
+  {
+    "slug": "2025-03-08-salesforce-limits-cheatsheet-how-to-avoid-common-pitfalls",
+    "title": "Salesforce Limits Cheatsheet How To Avoid Common Pitfalls",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-08",
+    "image": "/images/Cheatsheet.png",
+    "excerpt": "title: \"How to Avoid Salesforce Limits: The Ultimate Developer Cheatsheet 2025\" date: 20250308 categories:  \"Apex\"   ![](/images/Cheatsheet.png)   Salesforce i",
+    "folder": "2025-03-08-salesforce-limits-cheatsheet-how-to-avoid-common-pitfalls"
+  },
+  {
+    "slug": "2025-03-08-trigger-frameworks-in-salesforce-why-amp-how-to-use-one",
+    "title": "Trigger Frameworks In Salesforce Why Amp How To Use One",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-08",
+    "image": "/images/Trigger.png",
+    "excerpt": "title: \"How to Use Trigger Frameworks in Salesforce: Best Practices\" date: 20250308 categories:  \"Apex\"   ![](/images/Trigger.png)   In Salesforce development,",
+    "folder": "2025-03-08-trigger-frameworks-in-salesforce-why-amp-how-to-use-one"
+  },
+  {
+    "slug": "2025-03-09-automating-sales-workflows-with-process-builder-amp-flows-make-this-with-lesser-points-and-more-paragraphs",
+    "title": "Automating Sales Workflows With Process Builder Amp Flows Make This With Lesser Points And More Paragraphs",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/Automating.png",
+    "excerpt": "title: \"How to Automate Sales Processes in Salesforce: Beginner's Guide\" date: 20250309 categories:  \"Admin\"    ![](/images/Automating.png)   In the fastpaced",
+    "folder": "2025-03-09-automating-sales-workflows-with-process-builder-amp-flows-make-this-with-lesser-points-and-more-paragraphs"
+  },
+  {
+    "slug": "2025-03-09-best-practices-for-version-control-in-salesforce",
+    "title": "Best Practices For Version Control In Salesforce",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/versions.png",
+    "excerpt": "title: \"Salesforce Version Control Best Practices: A DevOps Guide\" date: 20250309 categories:  \"Devops\"    ![](/images/versions.png)",
+    "folder": "2025-03-09-best-practices-for-version-control-in-salesforce"
+  },
+  {
+    "slug": "2025-03-09-common-integration-challenges-amp-how-to-overcome-them",
+    "title": "Common Integration Challenges Amp How To Overcome Them",
+    "categories": [
+      "Integration"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/challenge.png",
+    "excerpt": "title: \"Top Salesforce Integration Challenges and How to Solve Them\" date: 20250309 categories:  \"Integration\"   ![](/images/challenge.png)   In today’s digita",
+    "folder": "2025-03-09-common-integration-challenges-amp-how-to-overcome-them"
+  },
+  {
+    "slug": "2025-03-09-common-salesforce-devops-mistakes-amp-how-to-avoid-them",
+    "title": "Common Salesforce Devops Mistakes Amp How To Avoid Them",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/Mistakes.png",
+    "excerpt": "title: \"10 Common Salesforce DevOps Mistakes and How to Avoid Them\" date: 20250309 categories:  \"Devops\"   ![](/images/Mistakes.png)   Salesforce DevOps has tr",
+    "folder": "2025-03-09-common-salesforce-devops-mistakes-amp-how-to-avoid-them"
+  },
+  {
+    "slug": "2025-03-09-external-services-in-salesforce-calling-apis-without-code",
+    "title": "External Services In Salesforce Calling Apis Without Code",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/External-Services.png",
+    "excerpt": "title: \"External Services in Salesforce: Call APIs Without Writing Code\" date: 20250309 categories:  \"Integration\"   ![](/images/ExternalServices.png)   Salesf",
+    "folder": "2025-03-09-external-services-in-salesforce-calling-apis-without-code"
+  },
+  {
+    "slug": "2025-03-09-github-vs-bitbucket-which-one-is-better-for-salesforce-devops",
+    "title": "Github Vs Bitbucket Which One Is Better For Salesforce Devops",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/Bitbucket.png",
+    "excerpt": "title: \"GitHub vs Bitbucket: Best Version Control for Salesforce DevOps?\" date: 20250309 categories:  \"Devops\"   ![](/images/Bitbucket.png)   When it comes to",
+    "folder": "2025-03-09-github-vs-bitbucket-which-one-is-better-for-salesforce-devops"
+  },
+  {
+    "slug": "2025-03-09-how-to-integrate-salesforce-with-external-applications",
+    "title": "How To Integrate Salesforce With External Applications",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/guidee.png",
+    "excerpt": "title: \"How to Connect Salesforce with External Applications: A Complete Guide\" date: 20250309 categories:  \"Integration\"   ![](/images/guidee.png)   In today’",
+    "folder": "2025-03-09-how-to-integrate-salesforce-with-external-applications"
+  },
+  {
+    "slug": "2025-03-09-how-to-set-up-sales-forecasting-in-salesforce",
+    "title": "How To Set Up Sales Forecasting In Salesforce",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/Forecasting.png",
+    "excerpt": "title: \"Salesforce Sales Forecasting: How to Set Up Accurate Predictions (2025)\" date: 20250309 categories:  \"Sales cloud\"   ![](/images/Forecasting.png)   Sal",
+    "folder": "2025-03-09-how-to-set-up-sales-forecasting-in-salesforce"
+  },
+  {
+    "slug": "2025-03-09-how-to-use-einstein-analytics-in-sales-cloud",
+    "title": "How To Use Einstein Analytics In Sales Cloud",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/Analyticss.png",
+    "excerpt": "title: \"Einstein Analytics Setup: Sales Cloud Dashboards in 1 Hour\" date: 20250309 categories:  \"Sales cloud\"  ![](/images/Analyticss.png)   In today’s competi",
+    "folder": "2025-03-09-how-to-use-einstein-analytics-in-sales-cloud"
+  },
+  {
+    "slug": "2025-03-09-how-to-use-macros-amp-quick-text-to-improve-agent-efficiency",
+    "title": "How To Use Macros Amp Quick Text To Improve Agent Efficiency",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/Macros.png",
+    "excerpt": "title: \"How to Use Macros in Service Cloud: StepbyStep 2025 Guide\" date: 20250309 categories:  \"Admin\"   ![](/images/Macros.png)   In the fastpaced world of cu",
+    "folder": "2025-03-09-how-to-use-macros-amp-quick-text-to-improve-agent-efficiency"
+  },
+  {
+    "slug": "2025-03-09-how-to-use-platform-events-for-event-driven-integrations",
+    "title": "How To Use Platform Events For Event Driven Integrations",
+    "categories": [
+      "Integration"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/eventss.png",
+    "excerpt": "title: \"Platform Events in Salesforce: How to Build EventDriven Integrations\" date: 20250309 categories:  \"Integration\"   ![](/images/eventss.png)  As business",
+    "folder": "2025-03-09-how-to-use-platform-events-for-event-driven-integrations"
+  },
+  {
+    "slug": "2025-03-09-how-to-use-reports-amp-dashboards-for-sales-performance-tracking",
+    "title": "How To Use Reports Amp Dashboards For Sales Performance Tracking",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/dashboard.png",
+    "excerpt": "title: \"Salesforce Sales Dashboards: How to Track Performance Like a Pro (2025)\" date: 20250309 categories:  \"Admin\"   ![](/images/dashboard.png)   In the worl",
+    "folder": "2025-03-09-how-to-use-reports-amp-dashboards-for-sales-performance-tracking"
+  },
+  {
+    "slug": "2025-03-09-mulesoft-vs-custom-integration-which-one-is-right-for-you",
+    "title": "Mulesoft Vs Custom Integration Which One Is Right For You",
+    "categories": [
+      "Integration"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/MuleSoftt.png",
+    "excerpt": "title: \"MuleSoft vs Custom Integration for Salesforce: Which One Should You Choose?\" date: 20250309 categories:  \"Integration\"   ![](/images/MuleSoftt.png)  In",
+    "folder": "2025-03-09-mulesoft-vs-custom-integration-which-one-is-right-for-you"
+  },
+  {
+    "slug": "2025-03-09-oauth-2-0-in-salesforce-secure-authentication-for-integrations",
+    "title": "Oauth 2 0 In Salesforce Secure Authentication For Integrations",
+    "categories": [
+      "Integration"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/OAut.png",
+    "excerpt": "title: \"Understanding OAuth 2.0 in Salesforce: Secure Your API Integrations\" date: 20250309 categories:  \"Integration\"   ![](/images/OAut.png)   In today’s int",
+    "folder": "2025-03-09-oauth-2-0-in-salesforce-secure-authentication-for-integrations"
+  },
+  {
+    "slug": "2025-03-09-rest-api-vs-soap-api-which-one-should-you-use",
+    "title": "Rest Api Vs Soap Api Which One Should You Use",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/REST.png",
+    "excerpt": "title: \"REST API vs SOAP API in Salesforce: Which Integration Method Is Best?\" date: 20250309 categories:  \"Integration\"   ![](/images/REST.png)   When it come",
+    "folder": "2025-03-09-rest-api-vs-soap-api-which-one-should-you-use"
+  },
+  {
+    "slug": "2025-03-09-sales-cloud-customization-making-crm-work-for-you",
+    "title": "Sales Cloud Customization Making Crm Work For You",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/Making.png",
+    "excerpt": "title: \"Sales Cloud Customization Guide: How to Tailor CRM for Your Business (2025)\" date: 20250309 categories:  \"Sales cloud\"   ![](/images/Making.png)   In t",
+    "folder": "2025-03-09-sales-cloud-customization-making-crm-work-for-you"
+  },
+  {
+    "slug": "2025-03-09-salesforce-change-sets-vs-metadata-api-whats-better",
+    "title": "Salesforce Change Sets Vs Metadata Api Whats Better",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/Sets.png",
+    "excerpt": "title: \"Salesforce Change Sets vs Metadata API: Which Deployment Method Is Better?\" date: 20250309 categories:  \"Devops\"   ![](/images/Sets.png)   When it come",
+    "folder": "2025-03-09-salesforce-change-sets-vs-metadata-api-whats-better"
+  },
+  {
+    "slug": "2025-03-09-salesforce-dx-the-future-of-development-amp-deployment",
+    "title": "Salesforce Dx The Future Of Development Amp Deployment",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/DXX.png",
+    "excerpt": "title: \"Salesforce DX Explained: Modern Development & Deployment Made Easy\" date: 20250309 categories:  \"Devops\"   ![](/images/DXX.png)   Salesforce developmen",
+    "folder": "2025-03-09-salesforce-dx-the-future-of-development-amp-deployment"
+  },
+  {
+    "slug": "2025-03-09-salesforce-partner-communities-expanding-your-sales-network",
+    "title": "Salesforce Partner Communities Expanding Your Sales Network",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/Communities.png",
+    "excerpt": "title: \"Salesforce PRM: How Partner Communities Boost Revenue by 40%+\" date: 20250309 categories:  \"Sales cloud\"   ![](/images/Communities.png)   In today’s in",
+    "folder": "2025-03-09-salesforce-partner-communities-expanding-your-sales-network"
+  },
+  {
+    "slug": "2025-03-09-salesforce-to-salesforce-integration-how-it-works",
+    "title": "Salesforce To Salesforce Integration How It Works",
+    "categories": [
+      "Integration"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/It-Work.png",
+    "excerpt": "title: \"Salesforce to Salesforce Integration Explained: Setup, Use Cases, and Benefits\" date: 20250309 categories:  \"Integration\"   ![](/images/ItWork.png)  In",
+    "folder": "2025-03-09-salesforce-to-salesforce-integration-how-it-works"
+  },
+  {
+    "slug": "2025-03-09-service-cloud-for-small-businesses-is-it-worth-it-2",
+    "title": "Service Cloud For Small Businesses Is It Worth It 2",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/It-Worth.png",
+    "excerpt": "title: \"Service Cloud for Small Businesses: 2025 Cost vs. Benefits Analysis\" date: 20250309 categories:  \"Service cloud\"   ![](/images/ItWorth.png)  For small",
+    "folder": "2025-03-09-service-cloud-for-small-businesses-is-it-worth-it-2"
+  },
+  {
+    "slug": "2025-03-09-step-by-step-guide-to-connecting-salesforce-with-aws-google-amp-azure",
+    "title": "Step By Step Guide To Connecting Salesforce With Aws Google Amp Azure",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/AWS-Google.png",
+    "excerpt": "title: \"How to Integrate Salesforce with AWS, Google Cloud, and Microsoft Azure (StepbyStep)\" date: 20250309 categories:  \"Integration\"   ![](/images/AWSGoogle",
+    "folder": "2025-03-09-step-by-step-guide-to-connecting-salesforce-with-aws-google-amp-azure"
+  },
+  {
+    "slug": "2025-03-09-territory-management-in-salesforce-what-you-need-to-know",
+    "title": "Territory Management In Salesforce What You Need To Know",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/What-Need.png",
+    "excerpt": "title: \"Territory Management in Salesforce: What You Need to Know\" date: 20250309 categories:  \"Admin\"   ![](/images/WhatNeed.png)   In the world of sales, eff",
+    "folder": "2025-03-09-territory-management-in-salesforce-what-you-need-to-know"
+  },
+  {
+    "slug": "2025-03-09-top-5-devops-tools-for-salesforce-in-2025",
+    "title": "Top 5 Devops Tools For Salesforce In 2025",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/5-Devops.png",
+    "excerpt": "title: \"Top Salesforce DevOps Tools to Use in 2025 (Compared)\" date: 20250309 categories:  \"Devops\"   ![](/images/5Devops.png)   As Salesforce development team",
+    "folder": "2025-03-09-top-5-devops-tools-for-salesforce-in-2025"
+  },
+  {
+    "slug": "2025-03-09-top-salesforce-integration-tools-amp-best-practices",
+    "title": "Top Salesforce Integration Tools Amp Best Practices",
+    "categories": [
+      "Integration"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/Top-Tools.png",
+    "excerpt": "title: \"Top Salesforce Integration Tools and Best Practices for 2025\" date: 20250309 categories:  \"Integration\"   ![](/images/TopTools.png)   Salesforce’s capa",
+    "folder": "2025-03-09-top-salesforce-integration-tools-amp-best-practices"
+  },
+  {
+    "slug": "2025-03-09-using-ai-amp-automation-to-boost-sales-productivity",
+    "title": "Using Ai Amp Automation To Boost Sales Productivity",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/AI-Boost.png",
+    "excerpt": "title: \"How to Implement AI in Your Sales Process (StepbyStep)\" date: 20250309 categories:  \"Integration\"   ![](/images/AIBoost.png)   In today’s fastpaced bus",
+    "folder": "2025-03-09-using-ai-amp-automation-to-boost-sales-productivity"
+  },
+  {
+    "slug": "2025-03-09-using-apex-callouts-for-external-api-integrations",
+    "title": "Using Apex Callouts For External Api Integrations",
+    "categories": [
+      "Apex"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/Callouts.png",
+    "excerpt": "title: \"Using Apex Callouts in Salesforce: A Guide to External API Integration\" date: 20250309 categories:  \"Integration\"   ![](/images/Callouts.png)   In toda",
+    "folder": "2025-03-09-using-apex-callouts-for-external-api-integrations"
+  },
+  {
+    "slug": "2025-03-09-webhooks-in-salesforce-real-time-data-syncing-explained",
+    "title": "Webhooks In Salesforce Real Time Data Syncing Explained",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/Webhooks-.png",
+    "excerpt": "title: \"Webhooks in Salesforce: RealTime Data Syncing Explained\" date: 20250309 categories:  \"Integration\"    ![](/images/Webhooks.png)   In today’s fastpaced",
+    "folder": "2025-03-09-webhooks-in-salesforce-real-time-data-syncing-explained"
+  },
+  {
+    "slug": "2025-03-09-what-is-salesforce-devops-a-beginners-guide-2",
+    "title": "What Is Salesforce Devops A Beginners Guide 2",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/Salesfor.png",
+    "excerpt": "title: \"What Is Salesforce DevOps? A Complete Beginner’s Guide 2025\" date: 20250309 categories:  \"Devops\"   ![](/images/Salesfor.png)   Salesforce DevOps is th",
+    "folder": "2025-03-09-what-is-salesforce-devops-a-beginners-guide-2"
+  },
+  {
+    "slug": "2025-03-09-what-is-service-cloud-a-complete-guide-to-customer-support-in-salesforce",
+    "title": "What Is Service Cloud A Complete Guide To Customer Support In Salesforce",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-09",
+    "image": "/images/Guide-to.png",
+    "excerpt": "title: \"Salesforce Service Cloud: The Complete 2025 Customer Support Guide\" date: 20250309 categories:  \"Service cloud\"    ![](/images/Guideto.png)   In today’",
+    "folder": "2025-03-09-what-is-service-cloud-a-complete-guide-to-customer-support-in-salesforce"
+  },
+  {
+    "slug": "2025-03-10-ai-amp-automation-in-service-cloud-how-einstein-bots-work",
+    "title": "Ai Amp Automation In Service Cloud How Einstein Bots Work",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/AI-Bots.png",
+    "excerpt": "title: \"AI and Automation in Salesforce Service Cloud: How Einstein Bots Improve Customer Support\" date: 20250310 categories:  \"Service cloud\"    ![](/images/A",
+    "folder": "2025-03-10-ai-amp-automation-in-service-cloud-how-einstein-bots-work"
+  },
+  {
+    "slug": "2025-03-10-apex-code-review-checklist-10-things-to-look-for",
+    "title": "Apex Code Review Checklist 10 Things To Look For",
+    "categories": [
+      "Apex"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Things-Look.png",
+    "excerpt": "title: \"Apex Code Review Checklist: 10 Critical Things to Check (2025)\" date: 20250310 categories:  \"Apex\"   ![](/images/ThingsLook.png)   Introduction  Code r",
+    "folder": "2025-03-10-apex-code-review-checklist-10-things-to-look-for"
+  },
+  {
+    "slug": "2025-03-10-apex-collections-mastering-list-set-and-map-for-performance",
+    "title": "Apex Collections Mastering List Set And Map For Performance",
+    "categories": [
+      "Apex"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Map.png",
+    "excerpt": "title: \"Mastering Apex Collections: List, Set, and Map Performance Optimization\" date: 20250310 categories:  \"Apex\"    ![](/images/Map.png)    Understanding Ap",
+    "folder": "2025-03-10-apex-collections-mastering-list-set-and-map-for-performance"
+  },
+  {
+    "slug": "2025-03-10-apex-design-patterns-singleton-factory-amp-strategy-explained",
+    "title": "Apex Design Patterns Singleton Factory Amp Strategy Explained",
+    "categories": [
+      "Apex"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Singleton.png",
+    "excerpt": "title: \"How to Implement Design Patterns in Apex: Singleton, Factory & Strategy\" date: 20250310 categories:  \"Apex\"   ![](/images/Singleton.png)   In Salesforc",
+    "folder": "2025-03-10-apex-design-patterns-singleton-factory-amp-strategy-explained"
+  },
+  {
+    "slug": "2025-03-10-apex-future-methods-vs-queueable-when-to-use-what",
+    "title": "Apex Future Methods Vs Queueable When To Use What",
+    "categories": [
+      "Apex"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Queueable.png",
+    "excerpt": "title: \"Apex Future Methods vs Queueable: Key Differences and Use Cases Explained 2025\" date: 20250310 categories:  \"Apex\"   ![](/images/Queueable.png)   In Sa",
+    "folder": "2025-03-10-apex-future-methods-vs-queueable-when-to-use-what"
+  },
+  {
+    "slug": "2025-03-10-apex-rest-api-how-to-build-secure-endpoints-in-salesforce",
+    "title": "Apex Rest Api How To Build Secure Endpoints In Salesforce",
+    "categories": [
+      "Apex"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Endpoints.png",
+    "excerpt": "title: \"Building Secure REST API Endpoints in Salesforce: Apex Best Practices\" date: 20250310 categories:  \"Integration\"   ![](/images/Endpoints.png)   In toda",
+    "folder": "2025-03-10-apex-rest-api-how-to-build-secure-endpoints-in-salesforce"
+  },
+  {
+    "slug": "2025-03-10-apex-triggers-how-to-optimize-performance-amp-avoid-common-pitfalls",
+    "title": "Apex Triggers How To Optimize Performance Amp Avoid Common Pitfalls",
+    "categories": [
+      "Apex"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Pitfalls.png",
+    "excerpt": "title: \"Apex Triggers: How to Optimization Top Performance & Common Pitfalls to Avoid in 2025\" date: 20250310 categories:  \"Apex\"   ![](/images/Pitfalls.png)",
+    "folder": "2025-03-10-apex-triggers-how-to-optimize-performance-amp-avoid-common-pitfalls"
+  },
+  {
+    "slug": "2025-03-10-automating-rollbacks-in-salesforce-deployments",
+    "title": "Automating Rollbacks In Salesforce Deployments",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Rollbacks.png",
+    "excerpt": "title: \"Automating Rollbacks in Salesforce Deployments: A Complete Guide\" date: 20250310 categories:  \"Devops\"   ![](/images/Rollbacks.png)   In Salesforce Dev",
+    "folder": "2025-03-10-automating-rollbacks-in-salesforce-deployments"
+  },
+  {
+    "slug": "2025-03-10-best-practices-for-managing-slas-in-salesforce-service-cloud",
+    "title": "Best Practices For Managing Slas In Salesforce Service Cloud",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/SLAs.png",
+    "excerpt": "title: \"Best Practices for Managing SLAs in Salesforce Service Cloud to Ensure Timely Support\" date: 20250310 categories:  \"Service cloud\"   ![](/images/SLAs.p",
+    "folder": "2025-03-10-best-practices-for-managing-slas-in-salesforce-service-cloud"
+  },
+  {
+    "slug": "2025-03-10-calling-rest-apis-in-apex-step-by-step-guide-with-code",
+    "title": "Calling Rest Apis In Apex Step By Step Guide With Code",
+    "categories": [
+      "Apex"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Calling-Code.png",
+    "excerpt": "title: \"How to Call REST APIs in Apex: A Practical Guide for Salesforce CRM Developers\" date: 20250310 categories:  \"Integration\"    ![](/images/CallingCode.pn",
+    "folder": "2025-03-10-calling-rest-apis-in-apex-step-by-step-guide-with-code"
+  },
+  {
+    "slug": "2025-03-10-ci-cd-in-salesforce-how-to-automate-your-deployments",
+    "title": "Ci Cd In Salesforce How To Automate Your Deployments",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/CICD.png",
+    "excerpt": "title: \"CI/CD in Salesforce: How to Automate Deployments StepbyStep\" date: 20250310 categories:  \"Devops\"    ![](/images/CICD.png)   ![](images/52.png)  Contin",
+    "folder": "2025-03-10-ci-cd-in-salesforce-how-to-automate-your-deployments"
+  },
+  {
+    "slug": "2025-03-10-custom-exception-handling-in-apex-best-practices",
+    "title": "Custom Exception Handling In Apex Best Practices",
+    "categories": [
+      "Apex"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Custom-Except.png",
+    "excerpt": "title: \"Custom Exception Handling in Apex: Pro Tips for Salesforce Developers\" date: 20250310 categories:  \"Apex\"    ![](/images/CustomExcept.png)   Why Custom",
+    "folder": "2025-03-10-custom-exception-handling-in-apex-best-practices"
+  },
+  {
+    "slug": "2025-03-10-field-service-lightning-managing-on-site-customer-support",
+    "title": "Field Service Lightning Managing On Site Customer Support",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Field.png",
+    "excerpt": "title: \"How to Set Up Field Service in Salesforce: 2025 StepbyStep Guide\" date: 20250310 categories:  \"Service cloud\"   ![](/images/Field.png)   In industries",
+    "folder": "2025-03-10-field-service-lightning-managing-on-site-customer-support"
+  },
+  {
+    "slug": "2025-03-10-flosum-vs-gearset-which-devops-tool-is-right-for-you",
+    "title": "Flosum Vs Gearset Which Devops Tool Is Right For You",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Gearset.png",
+    "excerpt": "title: \"Flosum vs Gearset: Which Salesforce DevOps Tool Should You Choose?\" date: 20250310 categories:  \"Devops\"   ![](/images/Gearset.png)   As Salesforce dev",
+    "folder": "2025-03-10-flosum-vs-gearset-which-devops-tool-is-right-for-you"
+  },
+  {
+    "slug": "2025-03-10-governor-limits-deep-dive-how-to-write-efficient-apex-code",
+    "title": "Governor Limits Deep Dive How To Write Efficient Apex Code",
+    "categories": [
+      "Apex"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Dive.png",
+    "excerpt": "title: \"Building Secure REST API Endpoints in Salesforce: Apex Best Practices\" date: 20250310 categories:  \"Apex\"   ![](/images/Dive.png)    Understanding Gove",
+    "folder": "2025-03-10-governor-limits-deep-dive-how-to-write-efficient-apex-code"
+  },
+  {
+    "slug": "2025-03-10-handling-large-data-volumes-in-apex-best-practices",
+    "title": "Handling Large Data Volumes In Apex Best Practices",
+    "categories": [
+      "Apex"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Volumes.png",
+    "excerpt": "title: \"How to Handle Large Data Volumes in Apex: Salesforce Best Practices Explained\" date: 20250310 categories:  \"Apex\"    ![](/images/Volumes.png)   As your",
+    "folder": "2025-03-10-handling-large-data-volumes-in-apex-best-practices"
+  },
+  {
+    "slug": "2025-03-10-how-to-automate-testing-in-salesforce-devops",
+    "title": "How To Automate Testing In Salesforce Devops",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Testing.png",
+    "excerpt": "title: \"How to Automate Testing in Salesforce DevOps: Tools &amp; Tips\" date: 20250310 categories:  \"Devops\"   ![](/images/Testing.png)   Automated testing is",
+    "folder": "2025-03-10-how-to-automate-testing-in-salesforce-devops"
+  },
+  {
+    "slug": "2025-03-10-how-to-build-a-lightning-web-component-from-scratch",
+    "title": "How To Build A Lightning Web Component From Scratch",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Scratch.png",
+    "excerpt": "title: \"Building Lightning Web Components from Scratch: StepbyStep Guide\" date: 20250310 categories:  \"LWC\"    ![](/images/Scratch.png)     Introduction  Light",
+    "folder": "2025-03-10-how-to-build-a-lightning-web-component-from-scratch"
+  },
+  {
+    "slug": "2025-03-10-how-to-create-a-powerful-customer-service-dashboard",
+    "title": "How To Create A Powerful Customer Service Dashboard",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Powerful.png",
+    "excerpt": "title: \"How to Create a Powerful Customer Service Dashboard for Better Support\" date: 20250310 categories:  \"Admin\"    ![](/images/Powerful.png)   In the world",
+    "folder": "2025-03-10-how-to-create-a-powerful-customer-service-dashboard"
+  },
+  {
+    "slug": "2025-03-10-how-to-handle-escalations-amp-case-reassignments-effectively",
+    "title": "How To Handle Escalations Amp Case Reassignments Effectively",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Escalations.png",
+    "excerpt": "title: \"How to Effectively Handle Escalations and Case Reassignments in Customer Service\" date: 20250310 categories:  \"Service cloud\"    ![](/images/Escalation",
+    "folder": "2025-03-10-how-to-handle-escalations-amp-case-reassignments-effectively"
+  },
+  {
+    "slug": "2025-03-10-how-to-improve-deployment-speed-amp-reduce-errors",
+    "title": "How To Improve Deployment Speed Amp Reduce Errors",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Errors.png",
+    "excerpt": "title: \"How to Speed Up Salesforce Deployments and Reduce Errors\" date: 20250310 categories:  \"Devops\"   ![](/images/Errors.png)  In Salesforce development, fa",
+    "folder": "2025-03-10-how-to-improve-deployment-speed-amp-reduce-errors"
+  },
+  {
+    "slug": "2025-03-10-how-to-set-up-an-effective-knowledge-base-in-salesforce",
+    "title": "How To Set Up An Effective Knowledge Base In Salesforce",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Effective.png",
+    "excerpt": "title: \"How to Set Up an Effective Knowledge Base in Salesforce for Better Customer Support\" date: 20250310 categories:  \"Admin\"   ![](/images/Effective.png)",
+    "folder": "2025-03-10-how-to-set-up-an-effective-knowledge-base-in-salesforce"
+  },
+  {
+    "slug": "2025-03-10-how-to-use-copado-for-salesforce-ci-cd",
+    "title": "How To Use Copado For Salesforce Ci Cd",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Copado-CICD.png",
+    "excerpt": "title: \"How to Use Copado for CI/CD in Salesforce: A BeginnerFriendly Guide\" date: 20250310 categories:  \"Devops\"    ![](/images/CopadoCICD.png)  As Salesforce",
+    "folder": "2025-03-10-how-to-use-copado-for-salesforce-ci-cd"
+  },
+  {
+    "slug": "2025-03-10-how-to-use-live-agent-for-real-time-customer-support",
+    "title": "How To Use Live Agent For Real Time Customer Support",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Live-Agent.png",
+    "excerpt": "title: \"How to Use Salesforce Live Agent for RealTime Customer Support and Engagement\" date: 20250310 categories:  \"Service cloud\"   ![](/images/LiveAgent.png)",
+    "folder": "2025-03-10-how-to-use-live-agent-for-real-time-customer-support"
+  },
+  {
+    "slug": "2025-03-10-how-to-use-platform-events-for-real-time-salesforce-integrations",
+    "title": "How To Use Platform Events For Real Time Salesforce Integrations",
+    "categories": [
+      "Integration"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Events-Real.png",
+    "excerpt": "title: \"Platform Events in Salesforce: RealTime Integration Guide (2025)\" date: 20250310 categories:  \"Integration\"    ![](/images/EventsReal.png)    Understan",
+    "folder": "2025-03-10-how-to-use-platform-events-for-real-time-salesforce-integrations"
+  },
+  {
+    "slug": "2025-03-10-how-to-write-asynchronous-apex-future-queueable-batch-amp-scheduled",
+    "title": "How To Write Asynchronous Apex Future Queueable Batch Amp Scheduled",
+    "categories": [
+      "Apex"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Asynchronous.png",
+    "excerpt": "title: \"Writing Asynchronous Apex in Salesforce: Explained for SFDC Developers\" date: 20250310 categories:  \"Apex\"   ![](/images/Asynchronous.png)   In Salesfo",
+    "folder": "2025-03-10-how-to-write-asynchronous-apex-future-queueable-batch-amp-scheduled"
+  },
+  {
+    "slug": "2025-03-10-integrating-service-cloud-with-whatsapp-amp-facebook-messenger",
+    "title": "Integrating Service Cloud With Whatsapp Amp Facebook Messenger",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/WhatsApp.png",
+    "excerpt": "title: \"How to Integrate Service Cloud with WhatsApp and Facebook Messenger for Seamless Customer Support\" date: 20250310 categories:  \"Service cloud\"   ![](/i",
+    "folder": "2025-03-10-integrating-service-cloud-with-whatsapp-amp-facebook-messenger"
+  },
+  {
+    "slug": "2025-03-10-security-amp-compliance-in-salesforce-devops",
+    "title": "Security Amp Compliance In Salesforce Devops",
+    "categories": [
+      "Security"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Compliance.png",
+    "excerpt": "title: \"Salesforce DevOps Security &amp; Compliance Best Practices\" date: 20250310 categories:  \"Devops\"    ![](/images/Compliance.png)   As businesses increas",
+    "folder": "2025-03-10-security-amp-compliance-in-salesforce-devops"
+  },
+  {
+    "slug": "2025-03-10-self-service-portals-reducing-support-costs-amp-improving-cx",
+    "title": "Self Service Portals Reducing Support Costs Amp Improving Cx",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Portals.png",
+    "excerpt": "title: \"How SelfService Portals in Salesforce Reduce Support Costs and Improve Customer Experience\" date: 20250310 categories:  \"Service cloud\"   ![](/images/P",
+    "folder": "2025-03-10-self-service-portals-reducing-support-costs-amp-improving-cx"
+  },
+  {
+    "slug": "2025-03-10-styling-lwc-components-slds-css-and-scoped-styles-explained",
+    "title": "Styling Lwc Components Slds Css And Scoped Styles Explained",
+    "categories": [
+      "LWC"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Scoped.png",
+    "excerpt": "title: \"How to Use Salesforce Lightning Design System (SLDS, CSS, and Scoped Styles) in LWC\" date: 20250310 categories:  \"LWC\"   ![](/images/Scoped.png)   In L",
+    "folder": "2025-03-10-styling-lwc-components-slds-css-and-scoped-styles-explained"
+  },
+  {
+    "slug": "2025-03-10-the-future-of-salesforce-devops-trends-amp-predictions",
+    "title": "The Future Of Salesforce Devops Trends Amp Predictions",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Trends.png",
+    "excerpt": "title: \"The Future of Salesforce DevOps: Top Trends & Predictions for 2025\" date: 20250310 categories:  \"Devops\"   ![](/images/Trends.png)  Salesforce DevOps i",
+    "folder": "2025-03-10-the-future-of-salesforce-devops-trends-amp-predictions"
+  },
+  {
+    "slug": "2025-03-10-top-5-sales-cloud-features-every-sales-team-should-use",
+    "title": "Top 5 Sales Cloud Features Every Sales Team Should Use",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Sales-Team.png",
+    "excerpt": "title: \"Sales Cloud Essentials: 5 Features Every New User Should Master\" date: 20250310 categories:  \"Sales cloud\"   ![](/images/SalesTeam.png)   Salesforce Sa",
+    "folder": "2025-03-10-top-5-sales-cloud-features-every-sales-team-should-use"
+  },
+  {
+    "slug": "2025-03-10-unit-testing-in-apex-writing-high-quality-test-classes",
+    "title": "Unit Testing In Apex Writing High Quality Test Classes",
+    "categories": [
+      "Apex"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/High.png",
+    "excerpt": "title: \"How to Write Effective Unit Test Classes in Salesforce Apex\" date: 20250310 categories:  \"Apex\"   ![](/images/High.png)   Unit testing is a critical pa",
+    "folder": "2025-03-10-unit-testing-in-apex-writing-high-quality-test-classes"
+  },
+  {
+    "slug": "2025-03-10-using-custom-metadata-in-apex-for-configurable-business-logic",
+    "title": "Using Custom Metadata In Apex For Configurable Business Logic",
+    "categories": [
+      "Apex"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Metadata.png",
+    "excerpt": "title: \"Custom Metadata in Apex: How to Build Configurable Business Logic\" date: 20250310 categories:  \"Apex\"   ![](/images/Metadata.png)   In Salesforce devel",
+    "folder": "2025-03-10-using-custom-metadata-in-apex-for-configurable-business-logic"
+  },
+  {
+    "slug": "2025-03-10-using-email-to-case-for-efficient-support-ticketing",
+    "title": "Using Email To Case For Efficient Support Ticketing",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Ticketing.png",
+    "excerpt": "title: \"Using EmailtoCase in Salesforce for Efficient Support Ticket Management\" date: 20250310 categories:  \"Admin\"   ![](/images/Ticketing.png)   In today’s",
+    "folder": "2025-03-10-using-email-to-case-for-efficient-support-ticketing"
+  },
+  {
+    "slug": "2025-03-10-using-named-credentials-in-salesforce-for-secure-api-calls",
+    "title": "Using Named Credentials In Salesforce For Secure Api Calls",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-10",
+    "image": "/images/Named.png",
+    "excerpt": "title: \"Using Named Credentials in Salesforce: Secure API Calls Made Easy\" date: 20250310 categories:  \"Integration\"   ![](/images/Named.png)   In today’s inte",
+    "folder": "2025-03-10-using-named-credentials-in-salesforce-for-secure-api-calls"
+  },
+  {
+    "slug": "2025-03-11-ai-amp-chatbots-in-service-cloud-how-to-use-einstein-bots",
+    "title": "Ai Amp Chatbots In Service Cloud How To Use Einstein Bots",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/AI-Chatbot.png",
+    "excerpt": "title: \"AI &amp; Chatbots in Service Cloud: How to Use Einstein Bots\" date: 20250311 categories:  \"Service cloud\"   ![](/images/AIChatbot.png)   Artificial int",
+    "folder": "2025-03-11-ai-amp-chatbots-in-service-cloud-how-to-use-einstein-bots"
+  },
+  {
+    "slug": "2025-03-11-apex-bulkification-the-1-rule-every-developer-must-follow",
+    "title": "Apex Bulkification The 1 Rule Every Developer Must Follow",
+    "categories": [
+      "Apex"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/Apex-Follow.png",
+    "excerpt": "title: \"What Is Apex Bulkification in Salesforce? Rule 1 for Asynchronous and Oracle Apex Developers\" date: 20250311 categories:  \"Apex\"   ![](/images/ApexFoll",
+    "folder": "2025-03-11-apex-bulkification-the-1-rule-every-developer-must-follow"
+  },
+  {
+    "slug": "2025-03-11-apex-triggers-before-vs-after-key-differences-use-cases-and-best-practices",
+    "title": "Apex Triggers Before Vs After Key Differences Use Cases And Best Practices",
+    "categories": [
+      "Apex"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/Apexx.png",
+    "excerpt": "title: \"How to Use Apex Triggers: Before vs After Explained with Examples\" date: 20250311 categories:  \"Apex\"     ![](/images/Apexx.png)    Apex Triggers are a",
+    "folder": "2025-03-11-apex-triggers-before-vs-after-key-differences-use-cases-and-best-practices"
+  },
+  {
+    "slug": "2025-03-11-best-lead-qualification-strategies-in-salesforce",
+    "title": "Best Lead Qualification Strategies In Salesforce",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/Best-Lead.png",
+    "excerpt": "title: \"Lead Qualification Strategies in Salesforce: Top Techniques That Convert\" date: 20250311 categories:  \"Admin\"   ![](/images/BestLead.png)   Salesforce",
+    "folder": "2025-03-11-best-lead-qualification-strategies-in-salesforce"
+  },
+  {
+    "slug": "2025-03-11-best-practices-for-handling-api-limits-amp-bulk-data-transfers",
+    "title": "Best Practices For Handling Api Limits Amp Bulk Data Transfers",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/Bulk-Data.png",
+    "excerpt": "title: \"Best Practices for Handling API Limits & Bulk Data Transfers\" date: 20250311 categories:  \"Integration\"    ![](/images/BulkData.png)   Salesforce impos",
+    "folder": "2025-03-11-best-practices-for-handling-api-limits-amp-bulk-data-transfers"
+  },
+  {
+    "slug": "2025-03-11-best-practices-for-implementing-omni-channel-support",
+    "title": "Best Practices For Implementing Omni Channel Support",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/Best-Omni.png",
+    "excerpt": "title: \"Best Practices for Implementing OmniChannel Support in salesforce 2025\" date: 20250311 categories:  \"Service cloud\"    ![](/images/BestOmni.png)   Prov",
+    "folder": "2025-03-11-best-practices-for-implementing-omni-channel-support"
+  },
+  {
+    "slug": "2025-03-11-best-practices-for-optimizing-lwc-performance",
+    "title": "Best Practices For Optimizing Lwc Performance",
+    "categories": [
+      "LWC"
+    ],
+    "date": "2025-03-11",
+    "image": "images/Best-lwc.png",
+    "excerpt": "title: \"Lightning Web Component Performance: Optimization Best Practices\" date: 20250311 categories:  \"LWC\"   ![](images/Bestlwc.png)   Lightning Web Component",
+    "folder": "2025-03-11-best-practices-for-optimizing-lwc-performance"
+  },
+  {
+    "slug": "2025-03-11-creating-a-self-service-knowledge-base-in-salesforce",
+    "title": "Creating A Self Service Knowledge Base In Salesforce",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/Self-Base.png",
+    "excerpt": "title: \"Creating a SelfService Knowledge Base in Salesforce\" date: 20250311 categories:  \"Admin\"   ![](/images/SelfBase.png)   A wellstructured selfservice kno",
+    "folder": "2025-03-11-creating-a-self-service-knowledge-base-in-salesforce"
+  },
+  {
+    "slug": "2025-03-11-customer-360-in-salesforce-the-key-to-unified-customer-data",
+    "title": "Customer 360 In Salesforce The Key To Unified Customer Data",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/Customer-360.png",
+    "excerpt": "title: \"Customer 360 in Salesforce: The Key to Unified Customer Data\" date: 20250311 categories:  \"Misc\"    ![](/images/Customer360.png)   In today’s digital l",
+    "folder": "2025-03-11-customer-360-in-salesforce-the-key-to-unified-customer-data"
+  },
+  {
+    "slug": "2025-03-11-email-automation-in-sales-cloud-how-to-save-time-amp-increase-conversions",
+    "title": "Email Automation In Sales Cloud How To Save Time Amp Increase Conversions",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/Email-cloud.png",
+    "excerpt": "title: \"Email Automation in Sales Cloud: Save Time & Boost Conversions 50%\" date: 20250311 categories:  \"Sales cloud\"   ![](/images/Emailcloud.png)   Email aut",
+    "folder": "2025-03-11-email-automation-in-sales-cloud-how-to-save-time-amp-increase-conversions"
+  },
+  {
+    "slug": "2025-03-11-field-service-lightning-transforming-on-site-support",
+    "title": "Field Service Lightning Transforming On Site Support",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/On-Site.png",
+    "excerpt": "title: \"Field Service Lightning: Transforming OnSite Support\" date: 20250311 categories:  \"Misc\"    ![](/images/OnSite.png)   In today’s fastpaced business env",
+    "folder": "2025-03-11-field-service-lightning-transforming-on-site-support"
+  },
+  {
+    "slug": "2025-03-11-handling-forms-amp-validation-in-lwc-best-practices",
+    "title": "Handling Forms Amp Validation In Lwc Best Practices",
+    "categories": [
+      "LWC"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/Forms.png",
+    "excerpt": "title: \"Forms &amp; Validation in LWC: Complete Guide with Best Practices\" date: 20250311 categories:  \"LWC\"   ![](/images/Forms.png)  Forms are a fundamental",
+    "folder": "2025-03-11-handling-forms-amp-validation-in-lwc-best-practices"
+  },
+  {
+    "slug": "2025-03-11-how-to-automate-data-sync-between-salesforce-amp-external-databases",
+    "title": "How To Automate Data Sync Between Salesforce Amp External Databases",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/Data-Sync.png",
+    "excerpt": "title: \"How to Automate Data Sync Between Salesforce & External Databases\" date: 20250311 categories:  \"Integration\"   ![](/images/DataSync.png)   Keeping data",
+    "folder": "2025-03-11-how-to-automate-data-sync-between-salesforce-amp-external-databases"
+  },
+  {
+    "slug": "2025-03-11-how-to-build-an-effective-sales-pipeline-in-salesforce",
+    "title": "How To Build An Effective Sales Pipeline In Salesforce",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/Pipeline.png",
+    "excerpt": "title: \"Building an Effective Sales Pipeline in Salesforce 2025 Blueprint\" date: 20250311 categories:  \"Admin\"   ![](/images/Pipeline.png)  A wellstructured sa",
+    "folder": "2025-03-11-how-to-build-an-effective-sales-pipeline-in-salesforce"
+  },
+  {
+    "slug": "2025-03-11-how-to-communicate-between-lwc-components-parent-child-events-and-pub-sub",
+    "title": "How To Communicate Between Lwc Components Parent Child Events And Pub Sub",
+    "categories": [
+      "LWC"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/Events-Pub.png",
+    "excerpt": "title: \"LWC Component Communication: ParentChild, Events &amp; PubSub Patterns\" date: 20250311 categories:  \"LWC\"   ![](/images/EventsPub.png)   Lightning Web",
+    "folder": "2025-03-11-how-to-communicate-between-lwc-components-parent-child-events-and-pub-sub"
+  },
+  {
+    "slug": "2025-03-11-how-to-create-an-automated-lead-scoring-system-in-salesforce",
+    "title": "How To Create An Automated Lead Scoring System In Salesforce",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/Scoring.png",
+    "excerpt": "title: \"How to Create an Automated Lead Scoring System in Salesforce 2025\" date: 20250311 categories:  \"Admin\"    ![](/images/Scoring.png)   An effective lead",
+    "folder": "2025-03-11-how-to-create-an-automated-lead-scoring-system-in-salesforce"
+  },
+  {
+    "slug": "2025-03-11-how-to-debug-lightning-web-components-effectively",
+    "title": "How To Debug Lightning Web Components Effectively",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/Web.png",
+    "excerpt": "title: \"Debugging Lightning Web Components: Expert Techniques (2025 Guide)\" date: 20250311 categories:  \"LWC\"   ![](/images/Web.png)   Debugging is an essentia",
+    "folder": "2025-03-11-how-to-debug-lightning-web-components-effectively"
+  },
+  {
+    "slug": "2025-03-11-how-to-implement-customer-feedback-loops-in-salesforce",
+    "title": "How To Implement Customer Feedback Loops In Salesforce",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/Feedback.png",
+    "excerpt": "title: \"How to Implement Customer Feedback Loops in Salesforce\" date: 20250311 categories:  \"Admin\"   ![](/images/Feedback.png)    In today’s competitive lands",
+    "folder": "2025-03-11-how-to-implement-customer-feedback-loops-in-salesforce"
+  },
+  {
+    "slug": "2025-03-11-how-to-integrate-salesforce-with-slack-amp-microsoft-teams-2",
+    "title": "How To Integrate Salesforce With Slack Amp Microsoft Teams 2",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/Slack.png",
+    "excerpt": "title: \"How to Integrate Salesforce with Slack and Microsoft Teams (NoCode Options Too)\" date: 20250311 categories:  \"Integration\"   ![](/images/Slack.png)   S",
+    "folder": "2025-03-11-how-to-integrate-salesforce-with-slack-amp-microsoft-teams-2"
+  },
+  {
+    "slug": "2025-03-11-how-to-integrate-salesforce-with-third-party-apps-step-by-step-guide",
+    "title": "How To Integrate Salesforce With Third Party Apps Step By Step Guide",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/How-improve.png",
+    "excerpt": "title: \"How to Integrate Salesforce with ThirdParty Apps (StepbyStep Guide)\" date: 20250311 categories:  \"Integration\"   ![](/images/Howimprove.png)   Salesfor",
+    "folder": "2025-03-11-how-to-integrate-salesforce-with-third-party-apps-step-by-step-guide"
+  },
+  {
+    "slug": "2025-03-11-how-to-optimize-opportunity-management-for-maximum-conversions",
+    "title": "How To Optimize Opportunity Management For Maximum Conversions",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/max.png",
+    "excerpt": "title: \"Opportunity Management Optimization: Boost Salesforce Conversions 200%\" date: 20250311 categories:  \"Sales cloud\"   ![](/images/max.png)  Effective opp",
+    "folder": "2025-03-11-how-to-optimize-opportunity-management-for-maximum-conversions"
+  },
+  {
+    "slug": "2025-03-11-how-to-reduce-case-resolution-time-with-automation",
+    "title": "How To Reduce Case Resolution Time With Automation",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/Resolution.png",
+    "excerpt": "title: \"Reducing Case Resolution Time: Service Cloud Automation Strategies\" date: 20250311 categories:  \"Service cloud\"   ![](/images/Resolution.png)   In toda",
+    "folder": "2025-03-11-how-to-reduce-case-resolution-time-with-automation"
+  },
+  {
+    "slug": "2025-03-11-how-to-use-account-based-selling-in-sales-cloud",
+    "title": "How To Use Account Based Selling In Sales Cloud",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/Account.png",
+    "excerpt": "title: \"AccountBased Selling in Sales Cloud: Implementation Guide 2025\" date: 20250311 categories:  \"Sales cloud\"   ![](/images/Account.png)   AccountBased Sel",
+    "folder": "2025-03-11-how-to-use-account-based-selling-in-sales-cloud"
+  },
+  {
+    "slug": "2025-03-11-how-to-use-platform-events-for-real-time-integration",
+    "title": "How To Use Platform Events For Real Time Integration",
+    "categories": [
+      "Integration"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/Events-for-Real.png",
+    "excerpt": "title: \"How to Use Platform Events for RealTime Integration\" date: 20250311 categories:  \"integration\"   ![](/images/EventsforReal.png)   Salesforce Platform E",
+    "folder": "2025-03-11-how-to-use-platform-events-for-real-time-integration"
+  },
+  {
+    "slug": "2025-03-11-integrating-lwc-with-external-apis-using-fetch-amp-apex",
+    "title": "Integrating Lwc With External Apis Using Fetch Amp Apex",
+    "categories": [
+      "Apex"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/External.png",
+    "excerpt": "title: \"Integrating LWC with External APIs: Fetch & Apex Best Practices\" date: 20250311 categories:  \"Integration\"    ![](/images/External.png)   Lightning Web",
+    "folder": "2025-03-11-integrating-lwc-with-external-apis-using-fetch-amp-apex"
+  },
+  {
+    "slug": "2025-03-11-lwc-lifecycle-hooks-explained-when-amp-how-to-use-each",
+    "title": "Lwc Lifecycle Hooks Explained When Amp How To Use Each",
+    "categories": [
+      "LWC"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/Hooks.png",
+    "excerpt": "title: \"LWC Lifecycle Hooks: When and How to Use Each (Complete Guide 2025)\" date: 20250311 categories:  \"LWC\"    ![](/images/Hooks.png)   Lightning Web Compon",
+    "folder": "2025-03-11-lwc-lifecycle-hooks-explained-when-amp-how-to-use-each"
+  },
+  {
+    "slug": "2025-03-11-lwc-security-considerations-how-to-avoid-vulnerabilities",
+    "title": "Lwc Security Considerations How To Avoid Vulnerabilities",
+    "categories": [
+      "LWC"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/LWC-Service.png",
+    "excerpt": "title: \"LWC Security Best Practices: How to Prevent Common Vulnerabilities\" date: 20250311 categories:  \"LWC\"    ![](/images/LWCService.png)   Lightning Web Co",
+    "folder": "2025-03-11-lwc-security-considerations-how-to-avoid-vulnerabilities"
+  },
+  {
+    "slug": "2025-03-11-lwc-vs-aura-key-differences-and-migration-strategies",
+    "title": "Lwc Vs Aura Key Differences And Migration Strategies",
+    "categories": [
+      "LWC"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/Migration.png",
+    "excerpt": "title: \"LWC vs Aura: Key Differences and Migration Guide for Salesforce 2025\" date: 20250311 categories:  \"LWC\"   ![](/images/Migration.png)  When building app",
+    "folder": "2025-03-11-lwc-vs-aura-key-differences-and-migration-strategies"
+  },
+  {
+    "slug": "2025-03-11-managing-slas-amp-escalations-in-service-cloud",
+    "title": "Managing Slas Amp Escalations In Service Cloud",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/Managing.png",
+    "excerpt": "title: \"Managing SLAs & Escalations in Service Cloud\" date: 20250311 categories:  \"Service cloud\"   ![](/images/Managing.png)  In today’s customercentric world",
+    "folder": "2025-03-11-managing-slas-amp-escalations-in-service-cloud"
+  },
+  {
+    "slug": "2025-03-11-mulesoft-vs-custom-integrations-which-one-to-choose",
+    "title": "Mulesoft Vs Custom Integrations Which One To Choose",
+    "categories": [
+      "Integration"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/MuleSoft.png",
+    "excerpt": "title: \"MuleSoft vs Custom Integrations: Which One to Choose?\" date: 20250311 categories:  \"Integration\"    ![](/images/MuleSoft.png)   In today’s digital land",
+    "folder": "2025-03-11-mulesoft-vs-custom-integrations-which-one-to-choose"
+  },
+  {
+    "slug": "2025-03-11-oauth-2-0-in-salesforce-how-to-implement-secure-authentication",
+    "title": "Oauth 2 0 In Salesforce How To Implement Secure Authentication",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/OAuth-2.0.png",
+    "excerpt": "title: \"OAuth 2.0 in Salesforce: How to Implement Secure Authentication\" date: 20250311 categories:  \"Integration\"   ![](/images/OAuth2.0.png)   In today's dig",
+    "folder": "2025-03-11-oauth-2-0-in-salesforce-how-to-implement-secure-authentication"
+  },
+  {
+    "slug": "2025-03-11-rest-api-vs-soap-api-in-salesforce-key-differences",
+    "title": "Rest Api Vs Soap Api In Salesforce Key Differences",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/REST-API.png",
+    "excerpt": "title: \"REST API vs SOAP API in Salesforce: Key Differences\" date: 20250311 categories:  \"Integration\"    ![](/images/RESTAPI.png)   Salesforce provides multip",
+    "folder": "2025-03-11-rest-api-vs-soap-api-in-salesforce-key-differences"
+  },
+  {
+    "slug": "2025-03-11-salesforce-cpq-what-it-is-amp-how-it-transforms-quoting",
+    "title": "Salesforce Cpq What It Is Amp How It Transforms Quoting",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/CPQ-What.png",
+    "excerpt": "title: \"Salesforce CPQ: What It Is & How It Transforms Quoting\" date: 20250311 categories:  \"Misc\"    ![](/images/CPQWhat.png)    What is Salesforce CPQ?  Sale",
+    "folder": "2025-03-11-salesforce-cpq-what-it-is-amp-how-it-transforms-quoting"
+  },
+  {
+    "slug": "2025-03-11-service-cloud-for-small-businesses-is-it-worth-it",
+    "title": "Service Cloud For Small Businesses Is It Worth It",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/Small-Businesses.png",
+    "excerpt": "title: \"Service Cloud for Small Businesses: Is It Worth It?\" date: 20250311 categories:  \"Service cloud\"    ![](/images/SmallBusinesses.png)  In today's compet",
+    "folder": "2025-03-11-service-cloud-for-small-businesses-is-it-worth-it"
+  },
+  {
+    "slug": "2025-03-11-soql-performance-optimization-how-to-avoid-governor-limits",
+    "title": "Soql Performance Optimization How To Avoid Governor Limits",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/SOQLL.png",
+    "excerpt": "title: \"SOQL Performance Optimization: How to Avoid Governor Limits\" date: 20250311 categories:  \"Apex\"   ![](/images/SOQLL.png)  SOQL (Salesforce Object Query",
+    "folder": "2025-03-11-soql-performance-optimization-how-to-avoid-governor-limits"
+  },
+  {
+    "slug": "2025-03-11-top-5-sales-metrics-every-business-should-track-in-salesforce",
+    "title": "Top 5 Sales Metrics Every Business Should Track In Salesforce",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/Metrics.png",
+    "excerpt": "title: \"Top 5 Sales Metrics to Track in Salesforce for Business Growth\" date: 20250311 categories:  \"Sales cloud\"    ![](/images/Metrics.png)  Tracking the rig",
+    "folder": "2025-03-11-top-5-sales-metrics-every-business-should-track-in-salesforce"
+  },
+  {
+    "slug": "2025-03-11-using-lightning-data-service-lds-for-seamless-record-handling-in-lwc",
+    "title": "Using Lightning Data Service Lds For Seamless Record Handling In Lwc",
+    "categories": [
+      "LWC"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/Record.png",
+    "excerpt": "title: \"Lightning Data Service (LDS) in LWC: Complete Record Handling Guide\" date: 20250311 categories:  \"LWC\"   ![](/images/Record.png)   When building Lightn",
+    "folder": "2025-03-11-using-lightning-data-service-lds-for-seamless-record-handling-in-lwc"
+  },
+  {
+    "slug": "2025-03-11-using-named-credentials-for-secure-api-calls-in-salesforce",
+    "title": "Using Named Credentials For Secure Api Calls In Salesforce",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-11",
+    "image": "/images/API-Calls.png",
+    "excerpt": "title: \"Using Named Credentials for Secure API Calls in Salesforce\" date: 20250311 categories:  \"Integration\"   ![](/images/APICalls.png)   Integrating Salesfo",
+    "folder": "2025-03-11-using-named-credentials-for-secure-api-calls-in-salesforce"
+  },
+  {
+    "slug": "2025-03-12-ai-driven-customer-insights-how-einstein-discovery-works",
+    "title": "Ai Driven Customer Insights How Einstein Discovery Works",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/AI-Driven.png",
+    "excerpt": "title: \"AIDriven Customer Insights: How Einstein Discovery Works\" date: 20250312 categories:  \"Emerging Tech\"    ![](/images/AIDriven.png)   In the age of data",
+    "folder": "2025-03-12-ai-driven-customer-insights-how-einstein-discovery-works"
+  },
+  {
+    "slug": "2025-03-12-automating-data-cleansing-in-salesforce-using-ai",
+    "title": "Automating Data Cleansing In Salesforce Using Ai",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Cleansing.png",
+    "excerpt": "title: \"Automating Data Cleansing in Salesforce Using AI\" date: 20250312 categories:  \"Emerging Tech\"   ![](/images/Cleansing.png)   Data quality is a critical",
+    "folder": "2025-03-12-automating-data-cleansing-in-salesforce-using-ai"
+  },
+  {
+    "slug": "2025-03-12-best-online-platforms-to-learn-salesforce-for-free",
+    "title": "Best Online Platforms To Learn Salesforce For Free",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Best-Online.png",
+    "excerpt": "title: \"Best Online Platforms to Learn Salesforce for Free\" date: 20250312 categories:  \"career Growth\"   ![](/images/BestOnline.png)   Salesforce is one of th",
+    "folder": "2025-03-12-best-online-platforms-to-learn-salesforce-for-free"
+  },
+  {
+    "slug": "2025-03-12-common-deployment-mistakes-amp-how-to-avoid-them",
+    "title": "Common Deployment Mistakes Amp How To Avoid Them",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Commonn.png",
+    "excerpt": "title: \"Common Deployment Mistakes & How to Avoid Them\" date: 20250312 categories:  \"Devops\"    ![](/images/Commonn.png)   Deploying changes in Salesforce can",
+    "folder": "2025-03-12-common-deployment-mistakes-amp-how-to-avoid-them"
+  },
+  {
+    "slug": "2025-03-12-comparing-flosum-gearset-amp-copado-which-one-to-use",
+    "title": "Comparing Flosum Gearset Amp Copado Which One To Use",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Comparing.png",
+    "excerpt": "title: \"Comparing Flosum, Gearset & Copado: Which One to Use?\" date: 20250312 categories:  \"Devops\"   ![](/images/Comparing.png)   Salesforce DevOps has become",
+    "folder": "2025-03-12-comparing-flosum-gearset-amp-copado-which-one-to-use"
+  },
+  {
+    "slug": "2025-03-12-cybersecurity-amp-data-privacy-in-salesforce-what-you-need-to-know",
+    "title": "Cybersecurity Amp Data Privacy In Salesforce What You Need To Know",
+    "categories": [
+      "Security"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Cybersecurity.png",
+    "excerpt": "title: \"Cybersecurity & Data Privacy in Salesforce: What You Need to Know\" date: 20250312 categories:  \"Security\"   ![](/images/Cybersecurity.png)   In today's",
+    "folder": "2025-03-12-cybersecurity-amp-data-privacy-in-salesforce-what-you-need-to-know"
+  },
+  {
+    "slug": "2025-03-12-data-visualization-in-salesforce-best-practices",
+    "title": "Data Visualization In Salesforce Best Practices",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Visualization.png",
+    "excerpt": "title: \"Data Visualization in Salesforce: Best Practices\" date: 20250312 categories:  \"Admin\"   ![](/images/Visualization.png)  Data visualization is a critica",
+    "folder": "2025-03-12-data-visualization-in-salesforce-best-practices"
+  },
+  {
+    "slug": "2025-03-12-entry-level-salesforce-jobs-how-to-land-your-first-role",
+    "title": "Entry Level Salesforce Jobs How To Land Your First Role",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Entry-Level.png",
+    "excerpt": "title: \"EntryLevel Salesforce Jobs: How to Land Your First Role\" date: 20250312 categories:  \"career Growth\"   ![](/images/EntryLevel.png)   Salesforce is one",
+    "folder": "2025-03-12-entry-level-salesforce-jobs-how-to-land-your-first-role"
+  },
+  {
+    "slug": "2025-03-12-freelancing-as-a-salesforce-developer-how-to-get-started",
+    "title": "Freelancing As A Salesforce Developer How To Get Started",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Freelancing.png",
+    "excerpt": "title: \"Freelancing as a Salesforce Developer: How to Get Started\" date: 20250312 categories:  \"career Growth\"   ![](/images/Freelancing.png)   Freelancing as",
+    "folder": "2025-03-12-freelancing-as-a-salesforce-developer-how-to-get-started"
+  },
+  {
+    "slug": "2025-03-12-git-best-practices-for-salesforce-development-teams",
+    "title": "Git Best Practices For Salesforce Development Teams",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Git.png",
+    "excerpt": "title: \"Git Best Practices for Salesforce Development Teams\" date: 20250312 categories:  \"Devops\"   ![](/images/Git.png)  Version control is an essential compo",
+    "folder": "2025-03-12-git-best-practices-for-salesforce-development-teams"
+  },
+  {
+    "slug": "2025-03-12-how-ai-amp-chatbots-are-revolutionizing-customer-support",
+    "title": "How Ai Amp Chatbots Are Revolutionizing Customer Support",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Chatbots.png",
+    "excerpt": "title: \"How AI & Chatbots Are Revolutionizing Customer Support\" date: 20250312 categories:  \"Emerging Tech\"   ![](/images/Chatbots.png)  Customer support has e",
+    "folder": "2025-03-12-how-ai-amp-chatbots-are-revolutionizing-customer-support"
+  },
+  {
+    "slug": "2025-03-12-how-ai-can-reduce-customer-churn-in-salesforce",
+    "title": "How Ai Can Reduce Customer Churn In Salesforce",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Reduce.png",
+    "excerpt": "title: \"How AI Can Reduce Customer Churn in Salesforce\" date: 20250312 categories:  \"Emerging Tech\"   ![](/images/Reduce.png)   Customer churn is one of the bi",
+    "folder": "2025-03-12-how-ai-can-reduce-customer-churn-in-salesforce"
+  },
+  {
+    "slug": "2025-03-12-how-augmented-reality-ar-amp-virtual-reality-vr-could-transform-crm",
+    "title": "How Augmented Reality Ar Amp Virtual Reality Vr Could Transform Crm",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Augmented.png",
+    "excerpt": "title: \"How Augmented Reality (AR) & Virtual Reality (VR) Could Transform CRM\" date: 20250312 categories:  \"Emerging Tech\"   ![](/images/Augmented.png)  Custom",
+    "folder": "2025-03-12-how-augmented-reality-ar-amp-virtual-reality-vr-could-transform-crm"
+  },
+  {
+    "slug": "2025-03-12-how-blockchain-could-impact-crm-amp-salesforce",
+    "title": "How Blockchain Could Impact Crm Amp Salesforce",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Impact.png",
+    "excerpt": "title: \"How Blockchain Could Impact CRM &amp; Salesforce\" date: 20250312 categories:  \"Emerging Tech\"   ![](/images/Impact.png)   Blockchain technology has gai",
+    "folder": "2025-03-12-how-blockchain-could-impact-crm-amp-salesforce"
+  },
+  {
+    "slug": "2025-03-12-how-einstein-ai-is-transforming-salesforce",
+    "title": "How Einstein Ai Is Transforming Salesforce",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/AI.png",
+    "excerpt": "title: \"How Einstein AI is Transforming Salesforce\" date: 20250312 categories:  \"Emerging Tech\"   ![](/images/AI.png)   In today’s fastpaced business environme",
+    "folder": "2025-03-12-how-einstein-ai-is-transforming-salesforce"
+  },
+  {
+    "slug": "2025-03-12-how-salesforce-is-driving-sustainability-amp-green-tech",
+    "title": "How Salesforce Is Driving Sustainability Amp Green Tech",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Sustain.png",
+    "excerpt": "title: \"How Salesforce is Driving Sustainability & Green Tech\" date: 20250312 categories:  \"Misc\"   ![](/images/Sustain.png)   As the world faces increasing en",
+    "folder": "2025-03-12-how-salesforce-is-driving-sustainability-amp-green-tech"
+  },
+  {
+    "slug": "2025-03-12-how-to-automate-deployments-in-salesforce",
+    "title": "How To Automate Deployments In Salesforce",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Deployments.png",
+    "excerpt": "title: \"How to Automate Deployments in Salesforce\" date: 20250312 categories:  \"Devops\"   ![](/images/Deployments.png)   Automating deployments in Salesforce i",
+    "folder": "2025-03-12-how-to-automate-deployments-in-salesforce"
+  },
+  {
+    "slug": "2025-03-12-how-to-automate-workflows-amp-save-time-with-salesforce",
+    "title": "How To Automate Workflows Amp Save Time With Salesforce",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Automate.png",
+    "excerpt": "title: \"How to Automate Workflows & Save Time with Salesforce\" date: 20250312 categories:  \"Admin\"   ![](/images/Automate.png)  Efficiency is key to business s",
+    "folder": "2025-03-12-how-to-automate-workflows-amp-save-time-with-salesforce"
+  },
+  {
+    "slug": "2025-03-12-how-to-become-a-salesforce-consultant-skills-amp-roadmap",
+    "title": "How To Become A Salesforce Consultant Skills Amp Roadmap",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Skills.png",
+    "excerpt": "title: \"How to Become a Salesforce Consultant: Skills & Roadmap\" date: 20250312 categories:  \"career Growth\"   ![](/images/Skills.png)   Salesforce consulting",
+    "folder": "2025-03-12-how-to-become-a-salesforce-consultant-skills-amp-roadmap"
+  },
+  {
+    "slug": "2025-03-12-how-to-build-a-customer-centric-sales-strategy-with-crm",
+    "title": "How To Build A Customer Centric Sales Strategy With Crm",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Centric.png",
+    "excerpt": "title: \"How to Build a CustomerCentric Sales Strategy with CRM\" date: 20250312 categories:  \"Misc\"   ![](/images/Centric.png)   In today’s competitive business",
+    "folder": "2025-03-12-how-to-build-a-customer-centric-sales-strategy-with-crm"
+  },
+  {
+    "slug": "2025-03-12-how-to-build-a-winning-salesforce-resume-with-examples",
+    "title": "How To Build A Winning Salesforce Resume With Examples",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Winning.png",
+    "excerpt": "title: \"How to Build a Winning Salesforce Resume (With Examples)\" date: 20250312 categories:  \"career Growth\"   ![](/images/Winning.png)   A wellcrafted resume",
+    "folder": "2025-03-12-how-to-build-a-winning-salesforce-resume-with-examples"
+  },
+  {
+    "slug": "2025-03-12-how-to-build-powerful-reports-amp-dashboards-in-salesforce",
+    "title": "How To Build Powerful Reports Amp Dashboards In Salesforce",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/How-to-Build.png",
+    "excerpt": "title: \"How to Build Powerful Reports & Dashboards in Salesforce\" date: 20250312 categories:  \"Admin\"   ![](/images/HowtoBuild.png)   Salesforce is a robust cu",
+    "folder": "2025-03-12-how-to-build-powerful-reports-amp-dashboards-in-salesforce"
+  },
+  {
+    "slug": "2025-03-12-how-to-implement-ci-cd-in-salesforce",
+    "title": "How To Implement Ci Cd In Salesforce",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/How-to-Implement.png",
+    "excerpt": "title: \"How to Implement CI/CD in Salesforce\" date: 20250312 categories:  \"Devops\"    ![](/images/HowtoImplement.png)    Continuous Integration and Continuous",
+    "folder": "2025-03-12-how-to-implement-ci-cd-in-salesforce"
+  },
+  {
+    "slug": "2025-03-12-how-to-network-amp-get-salesforce-job-referrals",
+    "title": "How To Network Amp Get Salesforce Job Referrals",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/How-to-Network.png",
+    "excerpt": "title: \"How to Network & Get Salesforce Job Referrals\" date: 20250312 categories:  \"career Growth\"    ![](/images/HowtoNetwork.png)   Breaking into the Salesfo",
+    "folder": "2025-03-12-how-to-network-amp-get-salesforce-job-referrals"
+  },
+  {
+    "slug": "2025-03-12-how-to-prepare-for-the-salesforce-architect-certification",
+    "title": "How To Prepare For The Salesforce Architect Certification",
+    "categories": [
+      "Certifications"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/How-to-Prepare.png",
+    "excerpt": "title: \"How to Prepare for the Salesforce Architect Certification\" date: 20250312 categories:  \"Certifications\"    ![](/images/HowtoPrepare.png)   Salesforce A",
+    "folder": "2025-03-12-how-to-prepare-for-the-salesforce-architect-certification"
+  },
+  {
+    "slug": "2025-03-12-how-to-reduce-customer-churn-using-salesforce-insights",
+    "title": "How To Reduce Customer Churn Using Salesforce Insights",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Customer.png",
+    "excerpt": "title: \"How to Reduce Customer Churn Using Salesforce Insights\" date: 20250312 categories:  \"Misc\"   ![](/images/Customer.png)   Customer churn is a significan",
+    "folder": "2025-03-12-how-to-reduce-customer-churn-using-salesforce-insights"
+  },
+  {
+    "slug": "2025-03-12-how-to-use-copado-for-salesforce-devops",
+    "title": "How To Use Copado For Salesforce Devops",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Copado.png",
+    "excerpt": "title: \"How to Use Copado for Salesforce DevOps\" date: 20250312 categories:  \"Devops\"   ![](/images/Copado.png)   Salesforce DevOps has become an essential pra",
+    "folder": "2025-03-12-how-to-use-copado-for-salesforce-devops"
+  },
+  {
+    "slug": "2025-03-12-how-to-use-einstein-voice-for-ai-powered-sales-insights",
+    "title": "How To Use Einstein Voice For Ai Powered Sales Insights",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Einstein.png",
+    "excerpt": "title: \"How to Use Einstein Voice for AIPowered Sales Insights\" date: 20250312 categories:  \"Emerging Tech\"    ![](/images/Einstein.png)   Salesforce Einstein",
+    "folder": "2025-03-12-how-to-use-einstein-voice-for-ai-powered-sales-insights"
+  },
+  {
+    "slug": "2025-03-12-how-to-use-salesforce-for-business-growth-amp-scalability",
+    "title": "How To Use Salesforce For Business Growth Amp Scalability",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/How.png",
+    "excerpt": "title: \"How to Use Salesforce for Business Growth &amp; Scalability\" date: 20250312 categories:  \"Misc\"   ![](/images/How.png)  In today’s highly competitive m",
+    "folder": "2025-03-12-how-to-use-salesforce-for-business-growth-amp-scalability"
+  },
+  {
+    "slug": "2025-03-12-quantum-computing-amp-its-potential-impact-on-crm-systems",
+    "title": "Quantum Computing Amp Its Potential Impact On Crm Systems",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Quantum.png",
+    "excerpt": "title: \"Quantum Computing & Its Potential Impact on CRM Systems\" date: 20250312 categories:  \"Emerging Tech\"   ![](/images/Quantum.png)  The future of Customer",
+    "folder": "2025-03-12-quantum-computing-amp-its-potential-impact-on-crm-systems"
+  },
+  {
+    "slug": "2025-03-12-rollback-strategies-in-salesforce-deployments",
+    "title": "Rollback Strategies In Salesforce Deployments",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Rollback.png",
+    "excerpt": "title: \"Rollback Strategies in Salesforce Deployments\" date: 20250312 categories:  \"Devops\"    ![](/images/Rollback.png)   Deploying changes in Salesforce can",
+    "folder": "2025-03-12-rollback-strategies-in-salesforce-deployments"
+  },
+  {
+    "slug": "2025-03-12-salesforce-admin-vs-developer-which-career-path-is-right-for-you",
+    "title": "Salesforce Admin Vs Developer Which Career Path Is Right For You",
+    "categories": [
+      "Admin"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Salesforce-Admin.png",
+    "excerpt": "title: \"Salesforce Admin vs Developer: Which Career Path is Right for You?\" date: 20250312 categories:  \"career Growth\"   ![](/images/SalesforceAdmin.png)   Sa",
+    "folder": "2025-03-12-salesforce-admin-vs-developer-which-career-path-is-right-for-you"
+  },
+  {
+    "slug": "2025-03-12-salesforce-analytics-cloud-what-it-is-amp-how-it-works",
+    "title": "Salesforce Analytics Cloud What It Is Amp How It Works",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Salesforce-Analytics.png",
+    "excerpt": "title: \"Salesforce Analytics Cloud: What It Is &amp; How It Works\" date: 20250312 categories:  \"Misc\"   ![](/images/SalesforceAnalytics.png)   In today’s datad",
+    "folder": "2025-03-12-salesforce-analytics-cloud-what-it-is-amp-how-it-works"
+  },
+  {
+    "slug": "2025-03-12-salesforce-dx-why-its-a-game-changer-for-developers",
+    "title": "Salesforce Dx Why Its A Game Changer For Developers",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Salesforce-DX.png",
+    "excerpt": "title: \"Salesforce DX: Why It’s a Game Changer for Developers\" date: 20250312 categories:  \"Devops\"   ![](/images/SalesforceDX.png)   Salesforce Development ha",
+    "folder": "2025-03-12-salesforce-dx-why-its-a-game-changer-for-developers"
+  },
+  {
+    "slug": "2025-03-12-the-future-of-crm-where-salesforce-is-headed-in-2025",
+    "title": "The Future Of Crm Where Salesforce Is Headed In 2025",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/The-Future.png",
+    "excerpt": "title: \"The Future of CRM: Where Salesforce is Headed in 2025\" date: 20250312 categories:  \"Misc\"   ![](/images/TheFuture.png)   Customer Relationship Manageme",
+    "folder": "2025-03-12-the-future-of-crm-where-salesforce-is-headed-in-2025"
+  },
+  {
+    "slug": "2025-03-12-the-rise-of-no-code-amp-low-code-development-in-salesforce",
+    "title": "The Rise Of No Code Amp Low Code Development In Salesforce",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/The-Rise-of-No.png",
+    "excerpt": "title: \"The Rise of NoCode &amp; LowCode Development in Salesforce\" date: 20250312 categories:  \"Admin\"    ![](/images/TheRiseofNo.png)  The world of software",
+    "folder": "2025-03-12-the-rise-of-no-code-amp-low-code-development-in-salesforce"
+  },
+  {
+    "slug": "2025-03-12-the-role-of-5g-in-salesforce-amp-cloud-computing",
+    "title": "The Role Of 5g In Salesforce Amp Cloud Computing",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/The-Role-of-5G.png",
+    "excerpt": "title: \"The Role of 5G in Salesforce &amp; Cloud Computing\" date: 20250312 categories:  \"Emerging Tech\"    ![](/images/TheRoleof5G.png)   The rapid evolution o",
+    "folder": "2025-03-12-the-role-of-5g-in-salesforce-amp-cloud-computing"
+  },
+  {
+    "slug": "2025-03-12-the-role-of-iot-in-salesforce-real-world-use-cases",
+    "title": "The Role Of Iot In Salesforce Real World Use Cases",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/The-Role-of.png",
+    "excerpt": "title: \"The Role of IoT in Salesforce: RealWorld Use Cases\" date: 20250312 categories:  \"Emerging Tech\"   ![](/images/TheRoleof.png)   The Internet of Things (",
+    "folder": "2025-03-12-the-role-of-iot-in-salesforce-real-world-use-cases"
+  },
+  {
+    "slug": "2025-03-12-the-role-of-predictive-analytics-in-salesforce-sales-strategy",
+    "title": "The Role Of Predictive Analytics In Salesforce Sales Strategy",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/The-Rolee.png",
+    "excerpt": "title: \"The Role of Predictive Analytics in Salesforce Sales Strategy\" date: 20250312 categories:  \"Emerging Tech\"    ![](/images/TheRolee.png)   Predictive an",
+    "folder": "2025-03-12-the-role-of-predictive-analytics-in-salesforce-sales-strategy"
+  },
+  {
+    "slug": "2025-03-12-top-10-salesforce-certifications-to-boost-your-career-in-2025",
+    "title": "Top 10 Salesforce Certifications To Boost Your Career In 2025",
+    "categories": [
+      "Certifications"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Top-10.png",
+    "excerpt": "title: \"Top 10 Salesforce Certifications to Boost Your Career in 2025\" date: 20250312 categories:  \"Certifications\"    ![](/images/Top10.png)   Salesforce has",
+    "folder": "2025-03-12-top-10-salesforce-certifications-to-boost-your-career-in-2025"
+  },
+  {
+    "slug": "2025-03-12-using-machine-learning-for-personalized-customer-journeys-in-salesforce",
+    "title": "Using Machine Learning For Personalized Customer Journeys In Salesforce",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Using-Machine.png",
+    "excerpt": "title: \"Using Machine Learning for Personalized Customer Journeys in Salesforce\" date: 20250312 categories:  \"Emerging Tech\"   ![](/images/UsingMachine.png)",
+    "folder": "2025-03-12-using-machine-learning-for-personalized-customer-journeys-in-salesforce"
+  },
+  {
+    "slug": "2025-03-12-version-control-strategies-for-salesforce-projects",
+    "title": "Version Control Strategies For Salesforce Projects",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/Version.png",
+    "excerpt": "title: \"Version Control Strategies for Salesforce Projects\" date: 20250312 categories:  \"Devops\"   ![](/images/Version.png)   In modern Salesforce development,",
+    "folder": "2025-03-12-version-control-strategies-for-salesforce-projects"
+  },
+  {
+    "slug": "2025-03-12-what-does-a-salesforce-solution-architect-do",
+    "title": "What Does A Salesforce Solution Architect Do",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/What-Does.png",
+    "excerpt": "title: \"What Does a Salesforce Solution Architect Do?\" date: 20250312 categories:  \"career Growth\"    ![](/images/WhatDoes.png)   Salesforce is one of the most",
+    "folder": "2025-03-12-what-does-a-salesforce-solution-architect-do"
+  },
+  {
+    "slug": "2025-03-12-what-is-salesforce-devops-a-beginners-guide",
+    "title": "What Is Salesforce Devops A Beginners Guide",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-12",
+    "image": "/images/What-is.png",
+    "excerpt": "title: \"What is Salesforce DevOps? A Beginner’s Guide\" date: 20250312 categories:  \"Devops\"    ![](/images/Whatis.png)   Salesforce DevOps is a modern approach",
+    "folder": "2025-03-12-what-is-salesforce-devops-a-beginners-guide"
+  },
+  {
+    "slug": "2025-03-13-how-to-improve-sales-amp-marketing-alignment-with-crm",
+    "title": "How To Improve Sales Amp Marketing Alignment With Crm",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-13",
+    "image": "/images/How-to-Improve.png",
+    "excerpt": "title: \"How to Improve Sales &amp; Marketing Alignment with CRM\" date: 20250313 categories:  \"Misc\"   ![](/images/HowtoImprove.png)   In today’s competitive bu",
+    "folder": "2025-03-13-how-to-improve-sales-amp-marketing-alignment-with-crm"
+  },
+  {
+    "slug": "2025-03-13-salesforce-success-stories-how-companies-transformed-their-business",
+    "title": "Salesforce Success Stories How Companies Transformed Their Business",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-13",
+    "image": "/images/Salesforce-Success.png",
+    "excerpt": "title: \"Salesforce Success Stories: How Companies Transformed Their Business\" date: 20250313 categories:  \"Misc\"    ![](/images/SalesforceSuccess.png)   Salesf",
+    "folder": "2025-03-13-salesforce-success-stories-how-companies-transformed-their-business"
+  },
+  {
+    "slug": "2025-03-13-the-impact-of-personalization-in-crm-how-salesforce-helps-2",
+    "title": "The Impact Of Personalization In Crm How Salesforce Helps 2",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-13",
+    "image": "/images/The-Impact.png",
+    "excerpt": "title: \"The Impact of Personalization in CRM: How Salesforce Helps\" date: 20250313 categories:  \"Misc\"    ![](/images/TheImpact.png)  <figcaption  The Impact o",
+    "folder": "2025-03-13-the-impact-of-personalization-in-crm-how-salesforce-helps-2"
+  },
+  {
+    "slug": "2025-03-13-the-role-of-data-driven-decision-making-in-crm-success",
+    "title": "The Role Of Data Driven Decision Making In Crm Success",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-13",
+    "image": "/images/The-Role.png",
+    "excerpt": "title: \"The Role of DataDriven DecisionMaking in CRM Success\" date: 20250313 categories:  \"Misc\"    ![](/images/TheRole.png)   In today's digital landscape, bu",
+    "folder": "2025-03-13-the-role-of-data-driven-decision-making-in-crm-success"
+  },
+  {
+    "slug": "2025-03-13-using-gamification-in-salesforce-to-boost-sales-team-productivity",
+    "title": "Using Gamification In Salesforce To Boost Sales Team Productivity",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-13",
+    "image": "/images/Using-Gam.png",
+    "excerpt": "title: \"Using Gamification in Salesforce to Boost Sales Team Productivity\" date: 20250313 categories:  \"Sales cloud\"    ![](/images/UsingGam.png)   In today’s",
+    "folder": "2025-03-13-using-gamification-in-salesforce-to-boost-sales-team-productivity"
+  },
+  {
+    "slug": "2025-03-29-apex-governor-limits-explained-how-to-write-efficient-code",
+    "title": "Apex Governor Limits Explained How To Write Efficient Code",
+    "categories": [
+      "Apex"
+    ],
+    "date": "2025-03-29",
+    "image": "/images/Apex.png",
+    "excerpt": "title: \"What Are Apex Governor Limits? Explained for Salesforce Developers to Code Efficiently\" date: 20250329 categories:     \"Apex\"    ![](/images/Apex.png)",
+    "folder": "2025-03-29-apex-governor-limits-explained-how-to-write-efficient-code"
+  },
+  {
+    "slug": "2025-03-29-calling-apex-from-lwc-wire-service-vs-imperative-call",
+    "title": "Calling Apex From Lwc Wire Service Vs Imperative Call",
+    "categories": [
+      "Apex"
+    ],
+    "date": "2025-03-29",
+    "image": "/images/Calling.png",
+    "excerpt": "title: \"Calling Apex in LWC: When to Use Wire Service vs Imperative Calls\" date: 20250329 categories:  \"LWC\"    ![](/images/Calling.png)   In Lightning Web Com",
+    "folder": "2025-03-29-calling-apex-from-lwc-wire-service-vs-imperative-call"
+  },
+  {
+    "slug": "2025-03-29-case-management-in-salesforce-how-to-handle-support-requests",
+    "title": "Case Management In Salesforce How To Handle Support Requests",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-29",
+    "image": "/images/Case.png",
+    "excerpt": "title: \"How to Use Salesforce Case Management to Resolve Customer Support Issues Efficiently\" date: 20250329 categories:  \"Admin\"   ![](/images/Case.png)   In",
+    "folder": "2025-03-29-case-management-in-salesforce-how-to-handle-support-requests"
+  },
+  {
+    "slug": "2025-03-29-email-to-lead-in-salesforce-how-to-automate-lead-capture",
+    "title": "Email To Lead In Salesforce How To Automate Lead Capture",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-29",
+    "image": "/images/Email.png",
+    "excerpt": "title: \"How to Set Up EmailtoLead in Salesforce (5Minute Guide)\" date: 20250329 categories:  \"Admin\"    ![](/images/Email.png)  In today’s digital age, capturi",
+    "folder": "2025-03-29-email-to-lead-in-salesforce-how-to-automate-lead-capture"
+  },
+  {
+    "slug": "2025-03-29-handling-record-edits-amp-form-submissions-in-lwc",
+    "title": "Handling Record Edits Amp Form Submissions In Lwc",
+    "categories": [
+      "LWC"
+    ],
+    "date": "2025-03-29",
+    "image": "/images/Handlingg.png",
+    "excerpt": "title: \"How to Build Edit Forms in LWC: Complete Guide\" date: 20250329 categories:  \"LWC\"   ![](/images/Handlingg.png)   In Lightning Web Components (LWC), han",
+    "folder": "2025-03-29-handling-record-edits-amp-form-submissions-in-lwc"
+  },
+  {
+    "slug": "2025-03-29-lwc-lifecycle-hooks-when-amp-how-to-use-them",
+    "title": "Lwc Lifecycle Hooks When Amp How To Use Them",
+    "categories": [
+      "LWC"
+    ],
+    "date": "2025-03-29",
+    "image": "/images/LWCC.png",
+    "excerpt": "title: \"The Complete Guide to LWC Lifecycle Hooks (2025 Edition)\" date: 20250329 categories:  \"LWC\"   ![](/images/LWCC.png)  In Lightning Web Components (LWC),",
+    "folder": "2025-03-29-lwc-lifecycle-hooks-when-amp-how-to-use-them"
+  },
+  {
+    "slug": "2025-03-29-omni-channel-in-service-cloud-the-key-to-faster-support",
+    "title": "Omni Channel In Service Cloud The Key To Faster Support",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-29",
+    "image": "/images/Omni.png",
+    "excerpt": "title: \"OmniChannel in Service Cloud: How to Speed Up Support in 2025\" date: 20250329 categories:  \"Service cloud\"   ![](/images/Omni.png)   In today’s fastpac",
+    "folder": "2025-03-29-omni-channel-in-service-cloud-the-key-to-faster-support"
+  },
+  {
+    "slug": "2025-03-29-opportunity-management-in-sales-cloud-best-practices",
+    "title": "Opportunity Management In Sales Cloud Best Practices",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-29",
+    "image": "/images/Opportunity.png",
+    "excerpt": "title: \"Salesforce Opportunity Management: The Complete 2025 Process\" date: 20250329 categories:  \"Sales cloud\"   ![](/images/Opportunity.png)  In Salesforce S",
+    "folder": "2025-03-29-opportunity-management-in-sales-cloud-best-practices"
+  },
+  {
+    "slug": "2025-03-29-sales-cloud-vs-service-cloud-key-differences-you-need-to-know",
+    "title": "Sales Cloud Vs Service Cloud Key Differences You Need To Know",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-29",
+    "image": "/images/Sales-C.png",
+    "excerpt": "title: \"Sales Cloud vs Service Cloud: Key Differences (+When to Use Each)\" date: 20250329 categories:  \"Sales cloud\"   ![](/images/SalesC.png)   Salesforce off",
+    "folder": "2025-03-29-sales-cloud-vs-service-cloud-key-differences-you-need-to-know"
+  },
+  {
+    "slug": "2025-03-29-salesforce-cpq-automating-quotes-amp-pricing-for-sales-teams",
+    "title": "Salesforce Cpq Automating Quotes Amp Pricing For Sales Teams",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-29",
+    "image": "/images/Salesforce-CPQ.png",
+    "excerpt": "title: \"How to Implement Salesforce CPQ: Quote Automation Made Easy\" date: 20250329 categories:  \"Misc\"   ![](/images/SalesforceCPQ.png)   Sales forecasting is",
+    "folder": "2025-03-29-salesforce-cpq-automating-quotes-amp-pricing-for-sales-teams"
+  },
+  {
+    "slug": "2025-03-29-salesforce-integration-101-everything-you-need-to-know",
+    "title": "Salesforce Integration 101 Everything You Need To Know",
+    "categories": [
+      "Integration"
+    ],
+    "date": "2025-03-29",
+    "image": "/images/Salesforce-In.png",
+    "excerpt": "title: \"Salesforce Integration Guide for Beginners: Everything You Need to Know\" date: 20250329 categories:  \"Integration\"   ![](/images/SalesforceIn.png)   In",
+    "folder": "2025-03-29-salesforce-integration-101-everything-you-need-to-know"
+  },
+  {
+    "slug": "2025-03-29-salesforce-sales-cloud-a-beginners-guide-to-selling-smarter",
+    "title": "Salesforce Sales Cloud A Beginners Guide To Selling Smarter",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-03-29",
+    "image": "/images/Salesforce-Sales.png",
+    "excerpt": "title: \"Salesforce Sales Cloud Tutorial 2025 Master the Basics in 1 Hour\" date: 20250329 categories:  \"Sales cloud\"   ![](/images/SalesforceSales.png)   Salesf",
+    "folder": "2025-03-29-salesforce-sales-cloud-a-beginners-guide-to-selling-smarter"
+  },
+  {
+    "slug": "2025-04-07-ai-powered-sales-forecasting-with-einstein-analytics",
+    "title": "Ai Powered Sales Forecasting With Einstein Analytics",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-04-07",
+    "image": "/images/AI-Powered.png",
+    "excerpt": "title: \"AIPowered Sales Forecasting with Einstein Analytics (2025 Guide)\" date: 20250407 categories:  \"Emerging Tech\"    ![](/images/AIPowered.png)   Sales for",
+    "folder": "2025-04-07-ai-powered-sales-forecasting-with-einstein-analytics"
+  },
+  {
+    "slug": "2025-04-07-how-to-measure-roi-from-your-crm-investment",
+    "title": "How To Measure Roi From Your Crm Investment",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-04-07",
+    "image": "/images/How-to-Measure.png",
+    "excerpt": "title: \"How to Measure ROI from Your CRM Investment\" date: 20250407 categories:  \"Emerging Tech\"    ![](/images/HowtoMeasure.png)  Investing in a Customer Rela",
+    "folder": "2025-04-07-how-to-measure-roi-from-your-crm-investment"
+  },
+  {
+    "slug": "2025-04-07-how-to-set-up-sales-automation-in-salesforce",
+    "title": "How To Set Up Sales Automation In Salesforce",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-04-07",
+    "image": "/images/How-to-Set.png",
+    "excerpt": "title: \"Sales Automation in Salesforce: Complete Setup Guide for 2025\" date: 20250407 categories:  \"Admin\"   ![](/images/HowtoSet.png)  Sales automation is a g",
+    "folder": "2025-04-07-how-to-set-up-sales-automation-in-salesforce"
+  },
+  {
+    "slug": "2025-04-07-using-custom-metadata-in-apex-when-amp-why-you-should-use-it",
+    "title": "Using Custom Metadata In Apex When Amp Why You Should Use It",
+    "categories": [
+      "Apex"
+    ],
+    "date": "2025-04-07",
+    "image": "/images/Using.png",
+    "excerpt": "title: \"When to Use Custom Metadata in Apex: Salesforce Best Practices\" date: 20250407 categories:  \"Apex\"   ![](/images/Using.png)    What Is Custom Metadata?",
+    "folder": "2025-04-07-using-custom-metadata-in-apex-when-amp-why-you-should-use-it"
+  },
+  {
+    "slug": "2025-04-10-apex-triggers-amp-lwc-for-developers-pd1-pd2-certification-tips",
+    "title": "Apex Triggers Amp Lwc For Developers Pd1 Pd2 Certification Tips",
+    "categories": [
+      "Apex"
+    ],
+    "date": "2025-04-10",
+    "image": "/images/Apex-Triggers.png",
+    "excerpt": "title: \"Apex Triggers & LWC for Developers: PD1/PD2 Certification Tips\" date: 20250410 categories:   \"Apex\"     ![Apex Triggers and LWC ](/images/ApexTriggers.",
+    "folder": "2025-04-10-apex-triggers-amp-lwc-for-developers-pd1-pd2-certification-tips"
+  },
+  {
+    "slug": "2025-04-10-beginners-guide-to-salesforce-certifications-what-you-need-to-know",
+    "title": "Beginners Guide To Salesforce Certifications What You Need To Know",
+    "categories": [
+      "Certifications"
+    ],
+    "date": "2025-04-10",
+    "image": "/images/Beginners.png",
+    "excerpt": "title: \"Beginner’s Guide to Salesforce Certifications: What You Need to Know\" date: 20250410 categories:  \"Certifications\"    ![](/images/Beginners.png)   Sale",
+    "folder": "2025-04-10-beginners-guide-to-salesforce-certifications-what-you-need-to-know"
+  },
+  {
+    "slug": "2025-04-10-common-mistakes-to-avoid-in-the-admin-certification-exam",
+    "title": "Common Mistakes To Avoid In The Admin Certification Exam",
+    "categories": [
+      "Certifications"
+    ],
+    "date": "2025-04-10",
+    "image": "/images/Common.png",
+    "excerpt": "title: \"Common Mistakes to Avoid in the Admin Certification Exam\" date: 20250410 categories:  \"Certifications\"    ![](/images/Common.png)   Preparing for the S",
+    "folder": "2025-04-10-common-mistakes-to-avoid-in-the-admin-certification-exam"
+  },
+  {
+    "slug": "2025-04-10-how-to-choose-the-right-salesforce-certification-for-your-career-path",
+    "title": "How To Choose The Right Salesforce Certification For Your Career Path",
+    "categories": [
+      "Certifications"
+    ],
+    "date": "2025-04-10",
+    "image": "/images/How-to-Choose.png",
+    "excerpt": "title: \"How to Choose the Right Salesforce Certification for Your Career Path\" date: 20250410 categories:  \"Certifications\"   ![](/images/HowtoChoose.png)   Sa",
+    "folder": "2025-04-10-how-to-choose-the-right-salesforce-certification-for-your-career-path"
+  },
+  {
+    "slug": "2025-04-10-how-to-crack-salesforce-platform-developer-ii-a-guide-from-experience",
+    "title": "How To Crack Salesforce Platform Developer Ii A Guide From Experience",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-04-10",
+    "image": "/images/How-to-Crack.png",
+    "excerpt": "title: \"How to Crack Salesforce Platform Developer II: A Guide from Experience\" date: 20250410 categories:  \"Certifications\"    ![](/images/HowtoCrack.png)   T",
+    "folder": "2025-04-10-how-to-crack-salesforce-platform-developer-ii-a-guide-from-experience"
+  },
+  {
+    "slug": "2025-04-10-how-to-create-a-30-day-study-plan-for-any-salesforce-certification",
+    "title": "How To Create A 30 Day Study Plan For Any Salesforce Certification",
+    "categories": [
+      "Certifications"
+    ],
+    "date": "2025-04-10",
+    "image": "/images/How-to-create.png",
+    "excerpt": "title: \"How to Create a 30Day Study Plan for Any Salesforce Certification\" date: 20250410 categories:  \"Certifications\"   ![](/images/Howtocreate.png)  Salesfo",
+    "folder": "2025-04-10-how-to-create-a-30-day-study-plan-for-any-salesforce-certification"
+  },
+  {
+    "slug": "2025-04-10-platform-developer-i-must-know-concepts-and-practice-questions",
+    "title": "Platform Developer I Must Know Concepts And Practice Questions",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-04-10",
+    "image": "/images/Platform.png",
+    "excerpt": "title: \"Platform Developer I: MustKnow Concepts and Practice Questions\" date: 20250410 categories:  \"Certifications\"    ![](/images/Platform.png)   If you’re p",
+    "folder": "2025-04-10-platform-developer-i-must-know-concepts-and-practice-questions"
+  },
+  {
+    "slug": "2025-04-10-salesforce-certification-exam-strategy-study-tips-resources-and-time-management",
+    "title": "Salesforce Certification Exam Strategy Study Tips Resources And Time Management",
+    "categories": [
+      "Certifications"
+    ],
+    "date": "2025-04-10",
+    "image": "/images/Salesforce-Certification.png",
+    "excerpt": "title: \"Salesforce Certification Exam Strategy: Study Tips, Resources, and Time Management\" date: 20250410 categories:  \"Certifications\"    ![](/images/Salesfo",
+    "folder": "2025-04-10-salesforce-certification-exam-strategy-study-tips-resources-and-time-management"
+  },
+  {
+    "slug": "2025-04-10-salesforce-certified-administrator-complete-roadmap-for-beginners",
+    "title": "Salesforce Certified Administrator Complete Roadmap For Beginners",
+    "categories": [
+      "Admin"
+    ],
+    "date": "2025-04-10",
+    "image": "/images/Salesforce-Certified.png",
+    "excerpt": "title: \"Salesforce Certified Administrator: Complete Roadmap for Beginners\" date: 20250410 categories:  \"Certifications\"                                 ![](/i",
+    "folder": "2025-04-10-salesforce-certified-administrator-complete-roadmap-for-beginners"
+  },
+  {
+    "slug": "2025-04-10-top-5-most-in-demand-salesforce-certifications-in-2025",
+    "title": "Top 5 Most In Demand Salesforce Certifications In 2025",
+    "categories": [
+      "Certifications"
+    ],
+    "date": "2025-04-10",
+    "image": "/images/Top.png",
+    "excerpt": "title: \"Top 5 Most InDemand Salesforce Certifications in 2025\" date: 20250410 categories:  \"Certifications\"   ![](/images/Top.png)   Salesforce certifications",
+    "folder": "2025-04-10-top-5-most-in-demand-salesforce-certifications-in-2025"
+  },
+  {
+    "slug": "2025-04-10-whats-new-in-salesforce-certification-exams-spring-25-update",
+    "title": "Whats New In Salesforce Certification Exams Spring 25 Update",
+    "categories": [
+      "Certifications"
+    ],
+    "date": "2025-04-10",
+    "image": "/images/Whats.png",
+    "excerpt": "title: \"What’s New in Salesforce Certification Exams (Spring '25 Update)\" date: 20250410 categories:  \"Certifications\"  ![](/images/Whats.png)   Salesforce’s S",
+    "folder": "2025-04-10-whats-new-in-salesforce-certification-exams-spring-25-update"
+  },
+  {
+    "slug": "2025-04-11-business-analyst-certification-bridging-tech-and-business-with-salesforce",
+    "title": "Business Analyst Certification Bridging Tech And Business With Salesforce",
+    "categories": [
+      "Certifications"
+    ],
+    "date": "2025-04-11",
+    "image": "/images/Business.png",
+    "excerpt": "title: \"Business Analyst Certification: Bridging Tech and Business with Salesforce\" date: 20250411 categories:  \"Certifications\"    ![](/images/Business.png)",
+    "folder": "2025-04-11-business-analyst-certification-bridging-tech-and-business-with-salesforce"
+  },
+  {
+    "slug": "2025-04-11-comparison-of-system-architect-vs-application-architect-paths",
+    "title": "Comparison Of System Architect Vs Application Architect Paths",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-04-11",
+    "image": "/images/Comparison.png",
+    "excerpt": "title: \"Comparison of System Architect vs Application Architect Paths\" date: 20250411 categories:  \"Certifications\"   ![](/images/Comparison.png)  For Salesfor",
+    "folder": "2025-04-11-comparison-of-system-architect-vs-application-architect-paths"
+  },
+  {
+    "slug": "2025-04-11-cpq-specialist-certification-key-concepts-amp-test-tricks",
+    "title": "Cpq Specialist Certification Key Concepts Amp Test Tricks",
+    "categories": [
+      "Certifications"
+    ],
+    "date": "2025-04-11",
+    "image": "/images/CPQ.png",
+    "excerpt": "title: \"CPQ Specialist Certification: Key Concepts & Test Tricks\" date: 20250411 categories:  \"Certifications\"   ![](/images/CPQ.png)   The Salesforce CPQ (Con",
+    "folder": "2025-04-11-cpq-specialist-certification-key-concepts-amp-test-tricks"
+  },
+  {
+    "slug": "2025-04-11-cta-journey-what-it-takes-to-become-a-salesforce-certified-technical-architect",
+    "title": "Cta Journey What It Takes To Become A Salesforce Certified Technical Architect",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-04-11",
+    "image": "/images/CTA.png",
+    "excerpt": "title: \"CTA Journey: What It Takes to Become a Salesforce Certified Technical Architect\" date: 20250411 categories:  \"Certifications\"   ![](/images/CTA.png)",
+    "folder": "2025-04-11-cta-journey-what-it-takes-to-become-a-salesforce-certified-technical-architect"
+  },
+  {
+    "slug": "2025-04-11-failed-your-salesforce-exam-heres-what-to-do-next",
+    "title": "Failed Your Salesforce Exam Heres What To Do Next",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-04-11",
+    "image": "/images/Failed.png",
+    "excerpt": "title: \"Failed Your Salesforce Exam? Here’s What to Do Next\" date: 20250411 categories:  \"Certifications\"   ![](/images/Failed.png)   Failing a Salesforce cert",
+    "folder": "2025-04-11-failed-your-salesforce-exam-heres-what-to-do-next"
+  },
+  {
+    "slug": "2025-04-11-field-service-lightning-certification-study-plan-amp-field-experience",
+    "title": "Field Service Lightning Certification Study Plan Amp Field Experience",
+    "categories": [
+      "Certifications"
+    ],
+    "date": "2025-04-11",
+    "image": "/images/Field-Service.png",
+    "excerpt": "title: \"Field Service Lightning Certification: Study Plan &amp; Field Experience\" date: 20250411 categories:  \"Certifications\"   ![](/images/FieldService.png)",
+    "folder": "2025-04-11-field-service-lightning-certification-study-plan-amp-field-experience"
+  },
+  {
+    "slug": "2025-04-11-marketing-cloud-email-specialist-learning-path-amp-exam-questions",
+    "title": "Marketing Cloud Email Specialist Learning Path Amp Exam Questions",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-04-11",
+    "image": "/images/Marketing-Cloud.png",
+    "excerpt": "title: \"Marketing Cloud Email Specialist: Learning Path & Exam Questions\" date: 20250411 categories:  \"Certifications\"   ![](/images/MarketingCloud.png)  The S",
+    "folder": "2025-04-11-marketing-cloud-email-specialist-learning-path-amp-exam-questions"
+  },
+  {
+    "slug": "2025-04-11-sales-cloud-consultant-certification-best-resources-amp-real-scenarios",
+    "title": "Sales Cloud Consultant Certification Best Resources Amp Real Scenarios",
+    "categories": [
+      "Certifications"
+    ],
+    "date": "2025-04-11",
+    "image": "/images/Sales-Cloud-.png",
+    "excerpt": "title: \"Sales Cloud Consultant Certification: Best Resources & Real Scenarios\" date: 20250411 categories:  \"Certifications\"   ![](/images/SalesCloud.png)  The",
+    "folder": "2025-04-11-sales-cloud-consultant-certification-best-resources-amp-real-scenarios"
+  },
+  {
+    "slug": "2025-04-11-salesforce-application-architect-a-journey-of-4-pillars-2",
+    "title": "Salesforce Application Architect A Journey Of 4 Pillars 2",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-04-11",
+    "image": "/images/Salesforce-Application.png",
+    "excerpt": "title: \"Salesforce Application Architect: A Journey of 4 Pillars\" date: 20250411 categories:  \"Certifications\"   ![](/images/SalesforceApplication.png)  Becomi",
+    "folder": "2025-04-11-salesforce-application-architect-a-journey-of-4-pillars-2"
+  },
+  {
+    "slug": "2025-04-11-service-cloud-consultant-exam-strategy-amp-case-study-examples",
+    "title": "Service Cloud Consultant Exam Strategy Amp Case Study Examples",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-04-11",
+    "image": "/images/Service-Cloud.png",
+    "excerpt": "title: \"Service Cloud Consultant: Exam Strategy &amp; Case Study Examples\" date: 20250411 categories:  \"Certifications\"    ![](/images/ServiceCloud.png)   The",
+    "folder": "2025-04-11-service-cloud-consultant-exam-strategy-amp-case-study-examples"
+  },
+  {
+    "slug": "2025-04-11-system-architect-exam-tackling-integration-amp-identity-head-on",
+    "title": "System Architect Exam Tackling Integration Amp Identity Head On",
+    "categories": [
+      "Integration"
+    ],
+    "date": "2025-04-11",
+    "image": "/images/System-Architect.png",
+    "excerpt": "title: \"System Architect Exam: Tackling Integration &amp; Identity HeadOn\" date: 20250411 categories:  \"Certifications\"    ![](/images/SystemArchitect.png)   T",
+    "folder": "2025-04-11-system-architect-exam-tackling-integration-amp-identity-head-on"
+  },
+  {
+    "slug": "2025-04-13-maintaining-your-salesforce-certification-what-you-shouldnt-ignore",
+    "title": "Maintaining Your Salesforce Certification What You Shouldnt Ignore",
+    "categories": [
+      "Certifications"
+    ],
+    "date": "2025-04-13",
+    "image": "/images/Maintaining-Salesforce.png",
+    "excerpt": "title: \"Maintaining Your Salesforce Certification: What You Shouldn’t Ignore\" date: 20250413 categories:  \"Certifications\"   ![](/images/MaintainingSalesforce.",
+    "folder": "2025-04-13-maintaining-your-salesforce-certification-what-you-shouldnt-ignore"
+  },
+  {
+    "slug": "2025-04-14-free-vs-paid-resources-for-salesforce-certification-whats-worth-it",
+    "title": "Free Vs Paid Resources For Salesforce Certification Whats Worth It",
+    "categories": [
+      "Certifications"
+    ],
+    "date": "2025-04-14",
+    "image": "/images/Free-vs-Paid.png",
+    "excerpt": "title: \"Free vs Paid Resources for Salesforce Certification – What’s Worth It?\" date: 20250414 categories:  \"Certifications\"   ![](/images/FreevsPaid.png)   Wh",
+    "folder": "2025-04-14-free-vs-paid-resources-for-salesforce-certification-whats-worth-it"
+  },
+  {
+    "slug": "2025-04-14-health-cloud-or-financial-services-cloud-are-they-worth-getting-certified-in",
+    "title": "Health Cloud Or Financial Services Cloud Are They Worth Getting Certified In",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-04-14",
+    "image": "/images/Health-cloud.png",
+    "excerpt": "title: \"Health Cloud or Financial Services Cloud: Are They Worth Getting Certified In?\" date: 20250414 categories:   \"Certifications\"   ![](/images/Healthcloud",
+    "folder": "2025-04-14-health-cloud-or-financial-services-cloud-are-they-worth-getting-certified-in"
+  },
+  {
+    "slug": "2025-04-14-interview-with-a-salesforce-certified-architect-advice-for-aspiring-architects",
+    "title": "Interview With A Salesforce Certified Architect Advice For Aspiring Architects",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-04-14",
+    "image": "/images/Interview-Salesforce.png",
+    "excerpt": "title: \"Interview with a Salesforce Certified Architect: Advice for Aspiring Architects\" date: 20250414 categories:   \"Certifications\"   ![](/images/InterviewS",
+    "folder": "2025-04-14-interview-with-a-salesforce-certified-architect-advice-for-aspiring-architects"
+  },
+  {
+    "slug": "2025-04-14-salesforce-app-builder-vs-admin-which-one-should-you-take-first",
+    "title": "Salesforce App Builder Vs Admin Which One Should You Take First",
+    "categories": [
+      "Admin"
+    ],
+    "date": "2025-04-14",
+    "image": "/images/Salesforce-App.png",
+    "excerpt": "title: \"Salesforce App Builder vs Admin: Which One Should You Take First?\" date: 20250414 categories:   \"Certifications\"   ![SalesforceApp](/images/SalesforceA",
+    "folder": "2025-04-14-salesforce-app-builder-vs-admin-which-one-should-you-take-first"
+  },
+  {
+    "slug": "2025-04-14-top-youtube-channels-and-podcasts-for-salesforce-certification-prep",
+    "title": "Top Youtube Channels And Podcasts For Salesforce Certification Prep",
+    "categories": [
+      "Certifications"
+    ],
+    "date": "2025-04-14",
+    "image": "/images/Top-YouTube.png",
+    "excerpt": "title: \"Top YouTube Channels and Podcasts for Salesforce Certification Prep\" date: 20250414 categories:   \"Certifications\"   ![TopYoutube](/images/TopYouTube.p",
+    "folder": "2025-04-14-top-youtube-channels-and-podcasts-for-salesforce-certification-prep"
+  },
+  {
+    "slug": "2025-04-14-trailhead-maintenance-modules-explained-easy-tips-to-stay-certified-2",
+    "title": "Trailhead Maintenance Modules Explained Easy Tips To Stay Certified 2",
+    "categories": [
+      "Misc"
+    ],
+    "date": "2025-04-14",
+    "image": "/images/Trailhead-Maintenance.png",
+    "excerpt": "title: \"Trailhead Maintenance Modules Explained: Easy Tips to Stay Certified\" date: 20250414 categories:   \"Certifications\"    ![Trailhead Maintenance](/images",
+    "folder": "2025-04-14-trailhead-maintenance-modules-explained-easy-tips-to-stay-certified-2"
+  }
+]

@@ -1,13 +1,3 @@
----
-title: "How to Use Platform Events for Real-Time Integration"
-date: 2025-03-11
-categories:
-- "integration"
----
-
-![](/images/Events-for-Real.png)
-
-
 Salesforce **Platform Events** provide a powerful way to enable **real-time event-driven communication** between applications, both within and outside Salesforce. By leveraging **publish-subscribe architecture**, businesses can streamline integrations and automate workflows efficiently. This guide explains how Platform Events work, their benefits, and a step-by-step process for implementation.
 
 ## 1\. What Are Platform Events?

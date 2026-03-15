@@ -1,12 +1,3 @@
----
-title: "Git Best Practices for Salesforce Development Teams"
-date: 2025-03-12
-categories:
-- "Devops"
----
-
-![](/images/Git.png)
-
 Version control is an essential component of modern software development, and **Git** has become the industry standard for managing code changes, collaboration, and deployments. For **Salesforce development teams**, using Git effectively ensures smoother collaboration, fewer errors, and more efficient deployments. However, managing Salesforce metadata in Git presents unique challenges, such as handling declarative changes, resolving merge conflicts, and maintaining a structured branching strategy.
 
 In this article, we’ll explore the **best Git practices for Salesforce development teams** to ensure streamlined collaboration, improved code quality, and efficient deployments.

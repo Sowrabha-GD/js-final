@@ -16,13 +16,13 @@ const SectionHeading = ({ label, title, description, centered = true }: SectionH
     className={`mb-12 ${centered ? "text-center" : ""}`}
   >
     {label && (
-      <span className="inline-block text-xs font-semibold tracking-widest uppercase text-primary mb-3">
+      <span className="inline-block text-xs font-semibold tracking-widest uppercase text-blue-300 mb-3">
         {label}
       </span>
     )}
-    <h2 className="font-display text-3xl md:text-4xl font-bold text-foreground">{title}</h2>
+    <h2 className="font-display text-3xl md:text-4xl font-bold text-white">{title}</h2>
     {description && (
-      <p className="mt-4 text-lg text-muted-foreground max-w-2xl mx-auto leading-relaxed">{description}</p>
+      <p className="mt-4 text-lg text-white/70 max-w-2xl mx-auto leading-relaxed">{description}</p>
     )}
   </motion.div>
 );

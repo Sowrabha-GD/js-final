@@ -1,48 +1,93 @@
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { Clock } from "lucide-react";
-import { Insight } from "@/lib/insights";
-export interface InsightData {
+
+type Insight = {
   slug: string;
   title: string;
-  summary: string;
-  category: string;
-  readTime: string;
+  categories: string[];
   date: string;
-  content: string;
-}
+  excerpt: string;
+  image: string;
+  folder: string;
+};
 
 interface InsightCardProps {
-  insight: Insight
+  insight: Insight;
   index?: number;
 }
 
-const InsightCard = ({ insight, index = 0 }: InsightCardProps) => (
-  <motion.div
-    initial={{ opacity: 0, y: 20 }}
-    whileInView={{ opacity: 1, y: 0 }}
-    viewport={{ once: true }}
-    transition={{ duration: 0.4, delay: index * 0.1 }}
-  >
-    <Link
-      to={`/insights/${insight.slug}`}
-      className="block group bg-card rounded-xl border border-border p-6 card-elevated h-full"
+const CATEGORY_COLORS: Record<string, string> = {
+  apex: "text-white",
+  lwc: "text-white",
+  integration: "text-white",
+  security: "text-white",
+  certifications: "text-white",
+  admin: "text-white",
+  misc: "text-white",
+};
+
+const InsightCard = ({ insight, index = 0 }: InsightCardProps) => {
+  const category = insight.categories?.[0] ?? "";
+  const colorClass = CATEGORY_COLORS[category.toLowerCase()] ?? "text-white";
+
+  return (
+    <motion.div
+      initial={{ opacity: 0, y: 24 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      viewport={{ once: true }}
+      transition={{ duration: 0.4, delay: index * 0.08 }}
+      className="h-full"
     >
-      <span className="inline-block text-xs font-semibold tracking-wider uppercase text-primary mb-3">
-        {insight.categories}
-      </span>
-      <h3 className="font-display text-lg font-semibold text-foreground group-hover:text-primary transition-colors mb-2">
-        {insight.title}
-      </h3>
-      <p className="text-sm text-muted-foreground leading-relaxed mb-4 line-clamp-2">
-        {insight.excerpt}
-      </p>
-      <div className="flex items-center gap-3 text-xs text-muted-foreground">
-        <span className="flex items-center gap-1"><Clock className="w-3 h-3" /></span>
-        <span>{insight.date}</span>
-      </div>
-    </Link>
-  </motion.div>
-);
+      <Link
+        to={`/insights/${insight.slug}`}
+        className="
+        flex flex-col h-full
+        bg-gradient-to-b from-[#1A4F88] via-[#1E5C95] to-[#2467A3]
+        backdrop-blur-lg
+        border border-white/20
+        border border-blue-700
+        rounded-xl
+        p-6
+        shadow-md
+        hover:shadow-xl
+        hover:scale-[1.02]
+        hover:shadow-blue-500/40
+        transition-all duration-300
+        group
+        "
+      >
+        {/* Category */}
+        <span className={`text-xs font-bold tracking-widest uppercase ${colorClass} mb-3`}>
+          {category}
+        </span>
+
+        {/* Title */}
+        <h3
+          className="
+          flex-1
+          text-lg
+          font-semibold
+          text-white
+          leading-snug
+          transition-colors
+          mb-5
+        "
+        >
+          {insight.title}
+        </h3>
+
+        {/* Divider */}
+        <div className="border-t border-blue-300 mb-4"></div>
+
+        {/* Date */}
+        <div className="flex items-center gap-2 text-sm text-blue-100">
+          <Clock className="w-4 h-4" />
+          {insight.date}
+        </div>
+      </Link>
+    </motion.div>
+  );
+};
 
 export default InsightCard;

@@ -1,14 +1,3 @@
----
-title: "How to Create an Automated Lead Scoring System in Salesforce 2025"
-date: 2025-03-11
-categories:
-- "Admin"
----
-
-
-![](/images/Scoring.png)
-
-
 An effective lead scoring system helps sales teams prioritize high-quality leads, improving conversion rates and boosting revenue. Salesforce offers powerful tools to automate lead scoring, ensuring your sales team focuses on the most promising prospects. In this guide, we’ll walk you through the process of setting up an automated lead scoring system in Salesforce.
 
 ## 1\. Define Your Lead Scoring Criteria

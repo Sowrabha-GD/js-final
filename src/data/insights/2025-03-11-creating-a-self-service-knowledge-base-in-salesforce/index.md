@@ -1,13 +1,3 @@
----
-title: "Creating a Self-Service Knowledge Base in Salesforce"
-date: 2025-03-11
-categories:
-- "Admin"
----
-
-![](/images/Self-Base.png)
-
-
 A well-structured self-service knowledge base in Salesforce can significantly improve customer satisfaction by providing instant access to solutions without the need for direct support. By enabling customers to find answers on their own, businesses can reduce support ticket volumes, improve efficiency, and enhance overall user experience. This guide will walk you through the best practices for setting up a knowledge base in Salesforce and ensuring it delivers value to both customers and support teams.
 
 ## 1\. Understand the Benefits of a Self-Service Knowledge Base

@@ -1,14 +1,3 @@
----
-title: "Rollback Strategies in Salesforce Deployments"
-date: 2025-03-12
-categories:
-- "Devops"
----
-
-
-![](/images/Rollback.png)
-
-
 Deploying changes in Salesforce can sometimes lead to unexpected issues, such as **broken functionality, data corruption, or performance slowdowns**. Whether due to human error, dependencies, or unforeseen bugs, it’s crucial to have a **rollback strategy** in place to **quickly restore the previous stable state** and minimize business disruption.
 
 A well-defined **rollback plan** ensures that organizations can recover from failed deployments efficiently, maintaining **system stability and user trust**. In this article, we will explore different rollback strategies in Salesforce and best practices to implement them.

@@ -1,96 +1,130 @@
 import Layout from "@/components/Layout";
 import SectionHeading from "@/components/SectionHeading";
 import { motion } from "framer-motion";
-import cohorts from "@/data/cohorts.json";
 import { Link } from "react-router-dom";
+import {
+BookOpen,
+Map,
+FileText,
+Monitor,
+Users
+} from "lucide-react";
 
-const placeholder = (title: string, desc: string) => (
-  <Layout>
-    <div className="container-wide section-padding">
-      <SectionHeading label="Learn" title={title} description={desc} />
-      <motion.div
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        className="text-center bg-surface-blue rounded-xl p-12"
-      >
-        <p className="text-muted-foreground">Content coming soon. Check back for updates.</p>
-      </motion.div>
-    </div>
-  </Layout>
+const LearnSubPage = () => {
+
+const learnSections = [
+
+{
+title:"Foundations",
+description:"Core concepts and fundamental knowledge every Salesforce professional needs.",
+icon:BookOpen,
+link:"/learn/foundations"
+},
+
+{
+title:"Paths",
+description:"Role-based learning journeys for Developers, Solution Architects, and Technical Architects.",
+icon:Map,
+link:"/learn/paths"
+},
+
+{
+title:"Playbooks",
+description:"Actionable, long-form guides for tackling real-world Salesforce challenges.",
+icon:FileText,
+link:"/learn/playbooks"
+},
+
+{
+title:"Sessions",
+description:"On-demand recorded sessions covering focused topics in depth.",
+icon:Monitor,
+link:"/learn/sessions"
+},
+
+{
+title:"Live Cohorts",
+description:"Structured group learning programs with live sessions and community support.",
+icon:Users,
+link:"/learn/live-cohorts"
+}
+
+];
+
+return (
+
+<Layout>
+
+<div className="container-wide section-padding">
+
+<SectionHeading
+label="Learn"
+title="Structured Learning"
+description="A curated learning experience designed for Salesforce professionals who want to go deeper — not wider."
+/>
+
+<div className="mt-12 space-y-6">
+
+{learnSections.map((section,index)=>{
+
+const Icon = section.icon;
+
+return(
+
+<motion.div
+key={index}
+initial={{opacity:0,y:20}}
+animate={{opacity:1,y:0}}
+transition={{delay:index*0.08}}
+>
+
+<Link
+to={section.link}
+className="block bg-white rounded-xl border border-gray-200 p-8 hover:shadow-lg transition-all group"
+>
+
+<div className="flex items-start gap-6">
+
+<div className="w-14 h-14 bg-blue-50 rounded-xl flex items-center justify-center group-hover:scale-110 transition">
+
+<Icon className="w-6 h-6 text-blue-600"/>
+
+</div>
+
+<div>
+
+<h3 className="text-xl font-semibold text-gray-900 group-hover:text-blue-600 transition">
+
+{section.title}
+
+</h3>
+
+<p className="text-gray-600 mt-2">
+
+{section.description}
+
+</p>
+
+</div>
+
+</div>
+
+</Link>
+
+</motion.div>
+
 );
 
-export const FoundationsPage = () => placeholder("Foundations", "Core concepts and fundamental knowledge every Salesforce professional needs.");
-export const PathsPage = () => placeholder("Learning Paths", "Role-based learning journeys for Developers, Solution Architects, and Technical Architects.");
-export const PlaybooksPage = () => placeholder("Playbooks", "Actionable, long-form guides for tackling real-world Salesforce challenges.");
-export const SessionsPage = () => placeholder("Sessions", "On-demand recorded sessions covering focused topics in depth.");
-export const LiveCohortsPage = () => (
-  <Layout>
-    <div className="container-wide section-padding">
+})}
 
-      <SectionHeading
-        label="Learn"
-        title="Live Cohorts"
-        description="Structured group learning programs with live sessions and community support."
-      />
+</div>
 
-      <div className="space-y-6 mt-10">
+</div>
 
-        {cohorts.map((cohort) => (
+</Layout>
 
-          <div
-            key={cohort.id}
-            className="bg-surface-blue p-6 rounded-xl flex justify-between items-center"
-          >
-
-            {/* Left side */}
-            <div>
-
-              <h3 className="text-xl font-semibold">
-                {cohort.name}
-              </h3>
-
-              <p className="text-muted-foreground mt-2">
-                {cohort.date} • {cohort.time}
-              </p>
-
-              <p className="text-sm mt-3 text-muted-foreground">
-                {cohort.description}
-              </p>
-
-            </div>
-
-            {/* Right buttons */}
-            <div className="flex gap-3">
-
-              <Link
-                to={`/learn/live-cohorts/${cohort.id}`}
-                className="px-4 py-2 border border-primary rounded-lg text-primary hover:bg-primary hover:text-white"
-              >
-                View Details
-              </Link>
-
-              <Link
-                to={`/learn/live-cohorts/register/${cohort.id}`}
-                className="px-4 py-2 bg-primary text-white rounded-lg"
-              >
-                Register
-              </Link>
-
-              <Link
-                to={`/learn/live-cohorts/inquiry/${cohort.id}`}
-                className="px-4 py-2 border border-primary rounded-lg text-primary"
-             >
-               More Info
-              </Link>
-
-            </div>
-
-          </div>
-
-        ))}
-
-      </div>
-
-    </div>
-  </Layout>
 );
+
+};
+
+export default LearnSubPage;

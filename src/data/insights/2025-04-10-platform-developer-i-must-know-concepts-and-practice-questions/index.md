@@ -1,14 +1,3 @@
----
-title: "Platform Developer I: Must-Know Concepts and Practice Questions"
-date: 2025-04-10
-categories:
-- "Certifications"
----
-
-
-![](/images/Platform.png)
-
-
 If you’re planning to become a Salesforce Developer, the **Platform Developer I certification** is your essential first step. This credential validates your ability to write clean, scalable code on the Salesforce Platform using Apex, SOQL, and Lightning Components.
 
 Whether you're just starting or transitioning from an admin role, this guide will help you focus on the most important concepts and get hands-on with practice questions to strengthen your preparation.

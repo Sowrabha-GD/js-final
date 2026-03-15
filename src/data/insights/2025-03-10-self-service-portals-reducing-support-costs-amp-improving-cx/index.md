@@ -1,13 +1,3 @@
----
-title: "How Self-Service Portals in Salesforce Reduce Support Costs and Improve Customer Experience"
-date: 2025-03-10
-categories:
-- "Service cloud"
----
-
-![](/images/Portals.png)
-
-
 In today’s fast-paced digital world, customers expect quick and convenient solutions to their problems. While traditional support channels like phone and email are still important, they can be time-consuming and costly for businesses. This is where self-service portals come in. A self-service portal empowers customers to find answers to their questions, resolve issues, and access resources on their own, without needing to contact support. By implementing a self-service portal, businesses can reduce support costs, improve efficiency, and enhance the overall customer experience. In this blog, we’ll explore the benefits of self-service portals, how to set one up in Salesforce, and best practices for success.
 
 ### What is a Self-Service Portal?

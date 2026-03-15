@@ -1,14 +1,3 @@
----
-title: "Calling Apex in LWC: When to Use Wire Service vs Imperative Calls"
-date: 2025-03-29
-categories:
-- "LWC"
----
-
-
-![](/images/Calling.png)
-
-
 In Lightning Web Components (LWC), integrating server-side logic is essential for building dynamic and data-driven applications. Salesforce provides two main ways to call Apex methods from LWC: the **Wire Service** and **Imperative Calls**. Each approach has its strengths and use cases, and understanding the differences between them is key to building efficient and responsive components. In this blog, we’ll explore what the Wire Service and Imperative Calls are, how they work, and when to use each one.
 
 ### Why Call Apex from LWC?

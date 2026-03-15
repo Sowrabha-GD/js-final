@@ -1,14 +1,3 @@
----
-title: "Salesforce CPQ: What It Is & How It Transforms Quoting"
-date: 2025-03-11
-categories:
-- "Misc"
----
-
-
-![](/images/CPQ-What.png)
-
-
 ## What is Salesforce CPQ?
 
 Salesforce CPQ (Configure, Price, Quote) is a powerful sales tool that helps businesses automate and streamline their quoting process. Built natively on the Salesforce platform, CPQ enables sales teams to configure complex products, apply accurate pricing, and generate professional quotes with ease. By eliminating manual processes and errors, CPQ improves efficiency, accelerates deal cycles, and enhances customer experience.

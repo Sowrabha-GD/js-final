@@ -1,14 +1,3 @@
----
-title: "System Architect Exam: Tackling Integration &amp; Identity Head-On"
-date: 2025-04-11
-categories:
-- "Certifications"
----
-
-
-![](/images/System-Architect.png)
-
-
 The Salesforce **System Architect** certification is a crucial step on the path to becoming a **Salesforce Certified Technical Architect (CTA)**. It demonstrates your expertise in handling complex, enterprise-level challenges related to integration, identity, and system scalability.
 
 This credential is earned after successfully completing four advanced certifications. Among these, two of the most technically demanding are **Integration Architecture Designer** and **Identity and Access Management Designer**. Mastering these areas is essential for any Salesforce professional aiming to lead scalable and secure system implementations.

@@ -1,13 +1,3 @@
----
-title: "Building Secure REST API Endpoints in Salesforce: Apex Best Practices"
-date: 2025-03-10
-categories:
-- "Apex"
----
-
-![](/images/Dive.png)
-
-
 ## Understanding Governor Limits in Salesforce
 
 Salesforce operates in a multi-tenant environment, meaning multiple organizations share the same resources. To ensure that no single organization monopolizes system performance, Salesforce enforces governor limits. These limits are designed to regulate database operations, memory usage, execution time, and callouts to external systems. While they may seem restrictive, governor limits encourage developers to write efficient, scalable Apex code that performs well under Salesforce’s constraints.

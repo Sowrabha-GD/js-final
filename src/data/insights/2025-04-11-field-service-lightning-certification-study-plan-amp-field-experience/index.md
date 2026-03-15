@@ -1,12 +1,3 @@
----
-title: "Field Service Lightning Certification: Study Plan &amp; Field Experience"
-date: 2025-04-11
-categories:
-- "Certifications"
----
-
-![](/images/Field-Service.png)
-
 Salesforce Field Service, formerly known as Field Service Lightning (FSL), is an advanced solution tailored for organizations that manage mobile workforces and service delivery in the field. The Field Service Consultant certification validates your ability to design, configure, and deploy Field Service solutions that optimize workforce scheduling, asset management, and customer satisfaction. As businesses seek to automate field operations and improve first-time fix rates, professionals with this certification are becoming increasingly valuable.
 
 ### What the Certification Covers

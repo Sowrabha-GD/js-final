@@ -1,16 +1,3 @@
----
-title: "LWC Event Handling: Master Parent-to-Child & Child-to-Parent Communication"
-date: 2025-03-08
-categories:
-- "LWC"
----
-
-
-
-![](/images/Event.png)
-
-
-
 In Lightning Web Components (LWC), communication between components is a key part of building dynamic and interactive user interfaces. Whether you’re passing data from a parent component to a child component or sending information back from a child to a parent, understanding how event handling works is essential. In this blog, we’ll explore the two main types of communication in LWC: **Parent-to-Child** and **Child-to-Parent**, and explain how to implement them effectively.
 
 ### Why Is Event Handling Important?

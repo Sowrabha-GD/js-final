@@ -1,13 +1,3 @@
----
-title: "How to Implement Design Patterns in Apex: Singleton, Factory & Strategy"
-date: 2025-03-10
-categories:
-- "Apex"
----
-
-![](/images/Singleton.png)
-
-
 In Salesforce development, writing clean, maintainable, and scalable code is essential. One way to achieve this is by using **design patterns**—proven solutions to common software design problems. Design patterns help you structure your code in a way that promotes reusability, flexibility, and readability.
 
 In this blog, we’ll explore three popular design patterns in Apex: **Singleton**, **Factory**, and **Strategy**. We’ll explain what they are, why they’re useful, and how to implement them in your Salesforce projects.

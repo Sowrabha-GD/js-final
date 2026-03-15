@@ -1,12 +1,3 @@
----
-title: "LWC vs Aura: Key Differences and Migration Guide for Salesforce 2025"
-date: 2025-03-11
-categories:
-- "LWC"
----
-
-![](/images/Migration.png)
-
 When building applications on the Salesforce platform, developers have two primary frameworks to choose from: **Lightning Web Components (LWC)** and **Aura Components**. While both frameworks serve the same purpose—creating dynamic and reusable UI components—they differ significantly in terms of architecture, performance, and development practices. As Salesforce continues to push LWC as the modern standard, many organizations are considering migrating from Aura to LWC. In this blog post, we’ll explore the key differences between LWC and Aura and discuss strategies for migrating from Aura to LWC.
 
 ### Key Differences Between LWC and Aura

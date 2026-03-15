@@ -1,13 +1,3 @@
----
-title: "When to Use Custom Metadata in Apex: Salesforce Best Practices"
-date: 2025-04-07
-categories:
-- "Apex"
----
-
-![](/images/Using.png)
-
-
 ### What Is Custom Metadata?
 
 Custom metadata is a type of Salesforce record that stores configuration data and business logic. It’s similar to custom objects but is designed specifically for metadata-driven development. Custom metadata records are:

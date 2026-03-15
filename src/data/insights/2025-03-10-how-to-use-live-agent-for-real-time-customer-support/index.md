@@ -1,13 +1,3 @@
----
-title: "How to Use Salesforce Live Agent for Real-Time Customer Support and Engagement"
-date: 2025-03-10
-categories:
-- "Service cloud"
----
-
-![](/images/Live-Agent.png)
-
-
 In today’s fast-paced digital world, customers expect quick and personalized support. While self-service options like knowledge bases and chatbots are valuable, there are times when customers need to speak directly with a human agent. Salesforce’s Live Agent is a powerful tool that enables businesses to provide real-time, one-on-one support through chat. With Live Agent, support teams can engage with customers instantly, resolve issues faster, and deliver a superior customer experience. In this blog, we’ll explore how to use Live Agent for real-time customer support, including setup steps, best practices, and tips for maximizing its effectiveness.
 
 ### What is Live Agent in Salesforce?

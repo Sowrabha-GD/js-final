@@ -1,13 +1,3 @@
----
-title: "Lightning Data Service (LDS) in LWC: Complete Record Handling Guide"
-date: 2025-03-11
-categories:
-- "LWC"
----
-
-![](/images/Record.png)
-
-
 When building Lightning Web Components (LWC) on the Salesforce platform, one of the most common tasks is working with records—whether it’s displaying, editing, or creating them. Traditionally, this required writing Apex controllers or using complex logic to handle data. However, with **Lightning Data Service (LDS)**, Salesforce has introduced a powerful and efficient way to handle records seamlessly without writing server-side code. In this blog post, we’ll explore what LDS is, its benefits, and how it simplifies record handling in LWC.
 
 #### What is Lightning Data Service (LDS)?

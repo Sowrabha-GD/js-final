@@ -1,12 +1,3 @@
----
-title: "Comparison of System Architect vs Application Architect Paths"
-date: 2025-04-11
-categories:
-- "Certifications"
----
-
-![](/images/Comparison.png)
-
 For Salesforce professionals pursuing advanced certifications, the **Application Architect** and **System Architect** titles mark two distinct milestones on the path to becoming a **Salesforce Certified Technical Architect (CTA)**. While both credentials are necessary prerequisites for the CTA, they focus on different skill sets and areas of expertise.
 
 Understanding the difference between these two paths will help you plan your certification journey effectively and align your learning with your career goals.

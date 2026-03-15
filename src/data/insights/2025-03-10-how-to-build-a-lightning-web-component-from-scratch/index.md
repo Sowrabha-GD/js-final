@@ -1,15 +1,3 @@
----
-title: "Building Lightning Web Components from Scratch: Step-by-Step Guide"
-date: 2025-03-10
-categories:
-- "LWC"
----
-
-
-![](/images/Scratch.png)
-
-
-
 ## Introduction
 
 Lightning Web Components (LWC) is a modern framework introduced by Salesforce to build fast, reusable, and efficient UI components. It leverages modern JavaScript, web standards, and Salesforce’s powerful backend to create dynamic applications. In this guide, we’ll walk through building an LWC from scratch, covering the key concepts and best practices.

@@ -1,14 +1,3 @@
----
-title: "Integrating LWC with External APIs: Fetch & Apex Best Practices"
-date: 2025-03-11
-categories:
-- "Integration"
----
-
-
-![](/images/External.png)
-
-
 Lightning Web Components (LWC) is a powerful framework for building modern, dynamic, and reusable components on the Salesforce platform. One of the most common requirements in application development is integrating with external APIs to fetch or send data. In LWC, you can achieve this integration in two primary ways: using **JavaScript Fetch API** for client-side calls or leveraging **Apex** for server-side calls. In this blog post, we’ll explore both approaches and discuss their use cases, benefits, and best practices.
 
 ### 1\. Using JavaScript Fetch API for Client-Side Integration

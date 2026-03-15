@@ -133,7 +133,7 @@
   }
 
   .section-padding {
-    @apply py-20 md:py-28;
+     padding: 50px 20px;
   }
 
   .container-narrow {
@@ -152,5 +152,27 @@
   .card-elevated:hover {
     box-shadow: var(--card-shadow-hover);
     transform: translateY(-2px);
+  }
+  /* Section banner - dark blue header like Wizdin services page */
+  .section-banner {
+    background: var(--gradient-navy);
+    @apply py-16 md:py-20 px-4;
+  }
+
+  .section-banner .section-label {
+    color: hsl(217 91% 70%);
+  }
+
+  .section-banner .section-title {
+    color: hsl(0 0% 100%);
+  }
+
+  .section-banner p {
+    color: hsl(215 20% 65%);
+  }
+
+  /* Light blue section background like Wizdin services cards */
+  .light-blue-section {
+    background-color: hsl(214 45% 96%);
   }
 }

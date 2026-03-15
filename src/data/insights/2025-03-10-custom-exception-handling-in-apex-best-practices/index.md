@@ -1,13 +1,3 @@
----
-title: "Custom Exception Handling in Apex: Pro Tips for Salesforce Developers"
-date: 2025-03-10
-categories:
-- "Apex"
----
-
-
-![](/images/Custom-Except.png)
-
 ## Why Custom Exception Handling Matters in Apex
 
 Exception handling is a critical aspect of writing robust and maintainable Apex code. Salesforce provides standard exceptions like `NullPointerException`, `DMLException`, and `QueryException`, but sometimes, these built-in exceptions do not provide enough context or flexibility for debugging and logging. This is where **custom exceptions** come in.

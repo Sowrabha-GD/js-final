@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { ArrowRight, Compass, PenTool, Rocket, TrendingUp, Search, LifeBuoy } from "lucide-react";
 import Layout from "@/components/Layout";
-import SectionHeading from "@/components/SectionHeading";
+
 import type { LucideIcon } from "lucide-react";
 
 export interface AdvisoryOffering {
@@ -111,13 +111,28 @@ export const offerings: AdvisoryOffering[] = [
 const AdvisoryPage = () => {
   return (
     <Layout>
-      <div className="container-wide section-padding">
-        <SectionHeading
-          label="Advisory"
-          title="Architecture & Advisory"
-          description="I work with teams to design, build, and scale Salesforce solutions with confidence. No fluff — just deep technical expertise applied to real problems."
-        />
-
+      <div
+  className="w-full px-12 py-16"
+  style={{
+    background: "linear-gradient(135deg, #0f2d6b 0%, #1a4fba 40%, #2c7be5 70%, #3b9ef0 100%)",
+  }}
+>
+  <span
+    className="inline-block text-xs font-bold tracking-widest uppercase text-white mb-4 px-4 py-1.5 rounded-full border border-white/25"
+    style={{ background: "rgba(255,255,255,0.15)" }}
+  >
+    Advisory 
+  </span>
+  <h1 className="text-4xl md:text-5xl font-bold text-white mb-4 leading-tight">
+    Architecture & Advisory
+  </h1>
+  <p className="text-white/80 text-base max-w-xl leading-relaxed"> 
+    I work with teams to design, build, and scale Salesforce solutions with confidence. No fluff — just deep technical expertise applied to real problems.
+  </p>
+</div>
+  
+<div className="container-wide pt-8 pb-12 px-8"></div>
+     
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl mx-auto">
           {offerings.map((offering, i) => (
             <motion.div
@@ -162,7 +177,7 @@ const AdvisoryPage = () => {
             Start a Conversation <ArrowRight className="w-4 h-4" />
           </Link>
         </motion.div>
-      </div>
+      
     </Layout>
   );
 };

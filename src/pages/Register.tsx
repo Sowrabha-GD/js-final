@@ -113,9 +113,6 @@ const Register = () => {
         </span>{" "}
         Live Online Sessions
       </div>
-
-    
-
     </div>
 
   </div>

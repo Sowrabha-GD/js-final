@@ -1,13 +1,3 @@
----
-title: "Understanding OAuth 2.0 in Salesforce: Secure Your API Integrations"
-date: 2025-03-09
-categories:
-- "Integration"
----
-
-![](/images/OAut.png)
-
-
 In today’s interconnected digital landscape, secure authentication is critical for protecting sensitive data and ensuring seamless integrations between systems. OAuth 2.0 is the industry-standard protocol for authorization, enabling secure access to resources without sharing passwords. Salesforce supports OAuth 2.0, making it a powerful tool for integrating with external applications while maintaining robust security. In this blog, we’ll explore how OAuth 2.0 works in Salesforce, its benefits, and how to implement it for secure integrations.
 
 ### What is OAuth 2.0?

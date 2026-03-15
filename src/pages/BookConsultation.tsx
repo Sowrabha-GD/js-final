@@ -40,37 +40,79 @@ export default function BookConsultation() {
     topic: "", message: "",
   });
   const [submitted, setSubmitted] = useState(false);
+  const [loading, setLoading] = useState(false);
 
   const set = (key: string) => (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) =>
     setForm((f) => ({ ...f, [key]: e.target.value }));
-
-  const handleSubmit = (e: React.FormEvent) => {
-    e.preventDefault();
-    setSubmitted(true);
-  };
 
   const reset = () => {
     setForm({ firstName: "", lastName: "", email: "", organization: "", phone: "", role: "", topic: "", message: "" });
     setSubmitted(false);
   };
 
+  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
+  e.preventDefault();
+  setLoading(true);
+
+  const form = e.currentTarget;
+
+  const data = {
+    firstName: (form.elements.namedItem("firstName") as HTMLInputElement).value,
+    lastName: (form.elements.namedItem("lastName") as HTMLInputElement).value,
+    email: (form.elements.namedItem("email") as HTMLInputElement).value,
+    organization: (form.elements.namedItem("organization") as HTMLInputElement).value,
+    phone: (form.elements.namedItem("phone") as HTMLInputElement).value,
+    role: (form.elements.namedItem("role") as HTMLInputElement).value,
+    topic: (form.elements.namedItem("topic") as HTMLSelectElement).value,
+    message: (form.elements.namedItem("message") as HTMLTextAreaElement).value,
+  };
+
+  try {
+    await fetch(
+      "https://script.google.com/macros/s/AKfycbx5Zh0R7phtEe81_ACP1ftbD6oQ-YisEoI7Qsn1gu92MOfk-KqEpsEV4FY6gLRLsuYAGQ/exec",
+      {
+        method: "POST",
+        mode: "no-cors",
+        body: JSON.stringify(data),
+      }
+    );
+
+    setSubmitted(true);
+    form.reset();
+  } catch (error) {
+    console.error("Submission error:", error);
+    alert("Something went wrong. Please try again.");
+  } finally {
+    setLoading(false);
+  }
+};
   return (
     <div className="min-h-screen pt-[var(--nav-height)] bg-white">
       <div className="container-wide py-16">
 
         {/* ── Header ── */}
-        <div className="max-w-2xl mb-14">
-          <p className="text-[#2563eb] text-sm font-semibold mb-2 tracking-wide uppercase">
-            Book Consultation
-          </p>
-          <h1 className="text-4xl font-display font-bold mb-4 tracking-tight text-[#0f2d5e]">
-            Let's Work Together
-          </h1>
-          <p className="text-[#4a6080] leading-relaxed">
-            Share your details and I'll personally review your request.
-            You'll receive a confirmation within 24–48 hours.
-          </p>
-        </div>
+          <div
+  className="w-full px-12 py-16"
+  style={{
+    background: "linear-gradient(135deg, #0f2d6b 0%, #1a4fba 40%, #2c7be5 70%, #3b9ef0 100%)",
+  }}
+>
+  <span
+    className="inline-block text-xs font-bold tracking-widest uppercase text-white mb-4 px-4 py-1.5 rounded-full border border-white/25"
+    style={{ background: "rgba(255,255,255,0.15)" }}
+  >
+    Book Consultation
+  </span>
+  <h1 className="text-4xl md:text-5xl font-bold text-white mb-4 leading-tight">
+    Let's Work Together
+  </h1>
+  <p className="text-white/80 text-base max-w-xl leading-relaxed">
+    Share your details and I'll personally review your request.
+  </p>
+</div>
+  
+<div className="container-wide pt-4 pb-12 px-8"></div>
+     
 
         {/* ── Two Columns ── */}
         <div className="grid lg:grid-cols-2 gap-16 items-start">
@@ -87,6 +129,7 @@ export default function BookConsultation() {
                     <label className="text-sm font-medium text-[#1e3a5f]">First Name</label>
                     <input
                       type="text"
+                      name="firstName"
                       placeholder="Jane"
                       required
                       value={form.firstName}
@@ -98,6 +141,7 @@ export default function BookConsultation() {
                     <label className="text-sm font-medium text-[#1e3a5f]">Last Name</label>
                     <input
                       type="text"
+                      name="lastName"
                       placeholder="Doe"
                       required
                       value={form.lastName}
@@ -112,6 +156,7 @@ export default function BookConsultation() {
                   <label className="text-sm font-medium text-[#1e3a5f]">Official Email</label>
                   <input
                     type="email"
+                    name="email"
                     placeholder="jane@company.com"
                     required
                     value={form.email}
@@ -125,6 +170,7 @@ export default function BookConsultation() {
                   <label className="text-sm font-medium text-[#1e3a5f]">Organization</label>
                   <input
                     type="text"
+                    name="organization"
                     placeholder="Acme Corp"
                     value={form.organization}
                     onChange={set("organization")}
@@ -138,6 +184,7 @@ export default function BookConsultation() {
                     <label className="text-sm font-medium text-[#1e3a5f]">Phone Number</label>
                     <input
                       type="tel"
+                      name="phone"
                       placeholder="+91 98765 43210"
                       value={form.phone}
                       onChange={set("phone")}
@@ -148,6 +195,7 @@ export default function BookConsultation() {
                     <label className="text-sm font-medium text-[#1e3a5f]">Your Role</label>
                     <input
                       type="text"
+                      name="role"
                       placeholder="CEO, Founder…"
                       value={form.role}
                       onChange={set("role")}
@@ -160,11 +208,13 @@ export default function BookConsultation() {
                 <div className="space-y-1.5">
                   <label className="text-sm font-medium text-[#1e3a5f]">Topic / Area of Interest</label>
                   <select
-                    value={form.topic}
-                    onChange={set("topic")}
-                    className={inputCls}
-                  >
-                    <option value="" disabled>Select a topic…</option>
+  name="topic"
+  required
+  value={form.topic}
+  onChange={set("topic")}
+  className={inputCls}
+>
+                    <option value="" >Select a topic…</option>
                     <option>Business Strategy</option>
                     <option>Investment Advisory</option>
                     <option>Product &amp; Growth</option>
@@ -177,6 +227,7 @@ export default function BookConsultation() {
                 <div className="space-y-1.5">
                   <label className="text-sm font-medium text-[#1e3a5f]">What would you like to discuss?</label>
                   <textarea
+                  name="message "
                     rows={4}
                     placeholder="Briefly describe your goals or the challenges you're facing…"
                     value={form.message}
@@ -187,11 +238,12 @@ export default function BookConsultation() {
                 </div>
 
                 <button
-                  type="submit"
-                  className="w-full bg-[#2563eb] hover:bg-[#1d4ed8] text-white py-3 rounded-full font-semibold transition mt-2"
-                >
-                  Request Consultation →
-                </button>
+  type="submit"
+  disabled={loading}
+  className="w-full bg-[#2563eb] hover:bg-[#1d4ed8] text-white py-3 rounded-full font-semibold transition mt-2 disabled:opacity-50"
+>
+  {loading ? "Submitting..." : "Request Consultation →"}
+</button>
 
               </form>
             ) : (
@@ -288,4 +340,4 @@ export default function BookConsultation() {
       </div>
     </div>
   );
-}
+};

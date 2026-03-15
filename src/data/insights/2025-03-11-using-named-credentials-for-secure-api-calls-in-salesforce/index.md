@@ -1,13 +1,3 @@
----
-title: "Using Named Credentials for Secure API Calls in Salesforce"
-date: 2025-03-11
-categories:
-- "Integration"
----
-
-![](/images/API-Calls.png)
-
-
 Integrating Salesforce with external systems often requires making secure API calls. Managing authentication credentials directly in Apex code can lead to security risks, maintenance challenges, and compliance issues. To address this, **Named Credentials** in Salesforce provide a secure and efficient way to handle authentication while simplifying API callouts. This guide will explore what Named Credentials are, their benefits, how to configure them, and best practices for using them in Salesforce.
 
 ## What are Named Credentials?

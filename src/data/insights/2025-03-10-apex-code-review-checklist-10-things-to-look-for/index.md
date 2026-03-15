@@ -1,12 +1,3 @@
----
-title: "Apex Code Review Checklist: 10 Critical Things to Check (2025)"
-date: 2025-03-10
-categories:
-- "Apex"
----
-
-![](/images/Things-Look.png)
-
 ## Introduction
 
 Code reviews play a crucial role in ensuring that Apex code is efficient, scalable, and maintainable. A well-structured review process helps identify potential issues, enforce best practices, and enhance code quality. In Salesforce development, where governor limits and performance constraints exist, reviewing Apex code carefully is even more critical. This checklist covers the essential aspects to check during an Apex code review.
