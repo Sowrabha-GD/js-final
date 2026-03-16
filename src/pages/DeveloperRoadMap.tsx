@@ -1,5 +1,5 @@
 import Layout from "@/components/Layout";
-import CareerRoadmapLayout from "../components/CareerRoadMapLayout";
+import CareerRoadmapLayout from "../components/CareerRoadmapLayout";
 import { TrendingUp } from "lucide-react";
 
 const DeveloperRoadmap = () => {
